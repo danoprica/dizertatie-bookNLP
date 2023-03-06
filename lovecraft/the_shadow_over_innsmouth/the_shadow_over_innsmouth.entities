@@ -1,0 +1,3960 @@
+COREF	start_token	end_token	prop	cat	text
+168	5	10	NOM	PER	1927–28 officials of the Federal government
+169	8	10	NOM	ORG	the Federal government
+170	21	26	NOM	LOC	the ancient Massachusetts seaport of Innsmouth
+1	23	23	PROP	GPE	Massachusetts
+2	26	26	PROP	GPE	Innsmouth
+171	28	29	NOM	PER	The public
+172	64	77	NOM	FAC	crumbling , worm - eaten , and supposedly empty houses along the abandoned waterfront
+173	75	77	NOM	FAC	the abandoned waterfront
+174	79	80	NOM	PER	Uninquiring souls
+175	98	101	NOM	PER	Keener news - followers
+176	118	118	NOM	PER	men
+177	122	122	PRON	PER	them
+178	131	132	NOM	PER	the prisoners
+179	147	159	NOM	PER	any of the captives seen thereafter in the regular gaols of the nation
+180	154	159	NOM	FAC	the regular gaols of the nation
+181	158	159	NOM	GPE	the nation
+182	168	169	NOM	FAC	concentration camps
+183	176	180	NOM	FAC	various naval and military prisons
+2	188	188	PROP	GPE	Innsmouth
+184	212	214	NOM	ORG	many liberal organisations
+185	223	223	NOM	PER	representatives
+186	229	230	NOM	FAC	certain camps
+187	232	232	NOM	FAC	prisons
+188	238	239	NOM	ORG	these societies
+189	246	247	NOM	PER	Newspaper men
+190	259	260	NOM	ORG	the government
+191	275	275	PRON	FAC	its
+192	280	289	NOM	VEH	the deep - diving submarine that discharged torpedoes downward in
+193	290	296	NOM	LOC	the marine abyss just beyond Devil Reef
+3	295	296	PROP	LOC	Devil Reef
+194	305	308	NOM	FAC	a haunt of sailors
+195	308	308	NOM	PER	sailors
+196	318	322	NOM	LOC	the low , black reef
+4	332	333	PROP	FAC	Innsmouth Harbour
+197	337	338	NOM	GPE	the country
+198	341	343	NOM	GPE	the nearby towns
+199	349	349	PRON	PER	themselves
+200	356	358	NOM	LOC	the outer world
+199	360	360	PRON	PER	They
+2	369	369	PROP	GPE	Innsmouth
+199	386	386	PRON	PER	they
+199	398	398	PRON	PER	them
+199	411	411	PRON	PER	them
+199	415	415	PRON	PER	they
+201	422	424	NOM	LOC	wide salt marshes
+202	431	431	NOM	PER	neighbours
+2	434	434	PROP	GPE	Innsmouth
+203	436	438	NOM	LOC	the landward side
+0	443	443	PRON	PER	I
+0	458	458	PRON	PER	I
+204	485	489	NOM	PER	those horrified raiders at Innsmouth
+2	489	489	PROP	GPE	Innsmouth
+0	504	504	PRON	PER	I
+0	520	520	PRON	PER	me
+0	523	523	PRON	PER	I
+0	535	535	PRON	PER	my
+205	546	548	NOM	PER	any other layman
+0	551	551	PRON	PER	I
+0	561	561	PRON	PER	me
+0	568	568	PRON	PER	I
+2	574	574	PROP	GPE	Innsmouth
+0	602	602	PRON	PER	I
+0	633	633	PRON	PER	I
+206	646	658	NOM	LOC	that ill - rumoured and evilly shadowed seaport of death and blasphemous abnormality
+0	664	664	PRON	PER	me
+0	669	669	PRON	PER	my
+0	675	675	PRON	PER	myself
+0	677	677	PRON	PER	I
+0	693	693	PRON	PER	me
+0	700	700	PRON	PER	my
+0	711	711	PRON	PER	me
+0	713	713	PRON	PER	I
+2	717	717	PROP	GPE	Innsmouth
+0	722	722	PRON	PER	I
+0	736	736	PRON	PER	I
+0	739	739	PRON	PER	my
+5	747	748	PROP	GPE	New England
+6	765	765	PROP	GPE	Newburyport
+7	767	767	PROP	GPE	Arkham
+0	770	770	PRON	PER	my
+207	770	771	NOM	PER	my mother
+8	770	773	PROP	FAC	my mother ’s family
+0	777	777	PRON	PER	I
+208	779	780	NOM	VEH	no car
+209	786	786	NOM	VEH	train
+210	788	793	NOM	VEH	trolley , and motor - coach
+6	803	803	PROP	GPE	Newburyport
+211	804	804	PRON	PER	they
+0	806	806	PRON	PER	me
+212	808	810	NOM	VEH	the steam train
+7	817	817	PROP	GPE	Arkham
+213	824	828	NOM	FAC	the station ticket - office
+0	831	831	PRON	PER	I
+0	839	839	PRON	PER	I
+2	842	842	PROP	GPE	Innsmouth
+214	844	850	NOM	PER	The stout , shrewd - faced agent
+214	855	855	PRON	PER	him
+215	858	860	NOM	PER	no local man
+0	865	865	PRON	PER	my
+0	877	877	PRON	PER	my
+216	877	879	NOM	PER	my other informants
+0	884	884	PRON	PER	You
+217	887	889	NOM	VEH	that old bus
+0	891	891	PRON	PER	I
+0	895	895	PRON	PER	he
+217	912	912	PRON	PER	It
+2	915	915	PROP	GPE	Innsmouth
+0	917	917	PRON	PER	you
+218	926	927	NOM	PER	the people
+219	935	937	NOM	PER	an Innsmouth fellow
+117	939	940	PROP	PER	Joe Sargent
+7	951	951	PROP	GPE	Arkham
+0	954	954	PRON	PER	I
+0	964	964	PRON	PER	I
+0	972	972	PRON	PER	I
+220	976	979	NOM	PER	two or three people
+221	981	981	PRON	FAC	it
+222	985	987	NOM	PER	those Innsmouth folks
+223	990	991	NOM	FAC	the Square
+118	995	995	PROP	PER	Hammond
+9	995	998	PROP	FAC	Hammond ’s Drug Store
+224	1007	1007	PRON	PER	they
+0	1018	1018	PRON	PER	I’ve
+0	1029	1029	PRON	PER	I
+2	1034	1034	PROP	GPE	Innsmouth
+225	1039	1042	NOM	GPE	a town not shewn
+0	1056	1056	PRON	PER	me
+226	1059	1060	NOM	PER	the agent
+227	1072	1076	NOM	GPE	A town able to inspire
+227	1080	1080	PRON	GPE	its
+228	1080	1081	NOM	PER	its neighbours
+0	1083	1083	PRON	PER	I
+229	1096	1097	NOM	PER	a tourist
+7	1105	1105	PROP	GPE	Arkham
+0	1106	1106	PRON	PER	I
+230	1110	1110	NOM	FAC	there
+0	1114	1114	PRON	PER	I
+226	1116	1117	NOM	PER	the agent
+0	1120	1120	PRON	PER	me
+226	1125	1125	PRON	PER	He
+226	1141	1141	PRON	PER	he
+2	1145	1145	PROP	GPE	Innsmouth
+2	1149	1149	PRON	GPE	it
+232	1151	1163	NOM	GPE	a queer kind of a town down at the mouth of the Manuxet
+233	1155	1156	NOM	GPE	a town
+234	1159	1163	NOM	LOC	the mouth of the Manuxet
+10	1162	1163	PROP	LOC	the Manuxet
+235	1169	1170	NOM	GPE	a city
+236	1173	1179	NOM	GPE	a port before the War of 1812
+237	1194	1195	NOM	FAC	No railroad
+11	1198	1200	PROP	FAC	B. & M.
+238	1206	1210	NOM	FAC	the branch line from Rowley
+12	1210	1210	PROP	GPE	Rowley
+239	1218	1220	NOM	FAC	More empty houses
+240	1224	1224	NOM	PER	people
+0	1226	1226	PRON	PER	I
+241	1240	1240	NOM	PER	Everybody
+7	1246	1246	PROP	GPE	Arkham
+13	1248	1248	PROP	GPE	Ipswich
+242	1251	1251	PRON	PER	they
+243	1254	1256	NOM	FAC	a few mills
+244	1264	1274	NOM	FAC	one gold refinery running on the leanest kind of part time
+245	1277	1278	NOM	FAC	That refinery
+119	1290	1292	PROP	PER	Old Man Marsh
+245	1296	1296	PRON	FAC	it
+14	1300	1301	PROP	LOC	richer’n Croesus
+120	1303	1305	PROP	PER	Queer old duck
+120	1314	1314	PRON	PER	his
+246	1314	1315	NOM	FAC	his home
+120	1317	1317	PRON	PER	He
+120	1333	1333	PRON	PER	him
+247	1339	1348	NOM	PER	Grandson of Captain Obed Marsh , who founded the business
+121	1341	1343	PROP	PER	Captain Obed Marsh
+248	1347	1348	NOM	ORG	the business
+247	1350	1350	PRON	PER	His
+249	1350	1351	NOM	PER	His mother
+122	1354	1354	PROP	PER	ben
+250	1355	1358	NOM	PER	some kind of foreigner
+251	1360	1360	PRON	PER	they
+252	1362	1365	NOM	PER	a South Sea islander
+241	1368	1368	NOM	PER	everybody
+123	1370	1370	PROP	PER	Cain
+247	1372	1372	PRON	PER	he
+254	1374	1376	NOM	PER	an Ipswich girl
+251	1381	1381	PRON	PER	They
+2	1386	1386	PROP	GPE	Innsmouth
+255	1386	1387	NOM	PER	Innsmouth people
+240	1387	1387	NOM	PER	people
+257	1390	1391	NOM	PER	folks here
+257	1402	1402	PRON	PER	they
+121	1408	1408	PROP	PER	Marsh
+1498	1408	1410	NOM	PER	Marsh ’s children
+1499	1412	1412	NOM	PER	grandchildren
+1500	1416	1417	NOM	PER	anyone else
+257	1421	1421	PRON	PER	I
+257	1425	1425	PRON	PER	I
+0	1432	1432	PRON	PER	me
+258	1443	1445	NOM	PER	the elder children
+259	1456	1458	NOM	PER	the old man
+241	1464	1464	NOM	PER	everybody
+2	1468	1468	PROP	GPE	Innsmouth
+261	1472	1473	NOM	PER	young fellow
+261	1475	1475	PRON	PER	you
+262	1484	1486	NOM	PER	people around here
+262	1489	1489	PRON	PER	They
+262	1498	1498	PRON	PER	they
+262	1502	1502	PRON	PER	they
+262	1507	1507	PRON	PER	They
+2	1513	1513	PROP	GPE	Innsmouth
+0	1526	1526	PRON	PER	I
+0	1530	1530	PRON	PER	I
+262	1532	1532	PRON	PER	they
+261	1546	1546	PRON	PER	you
+121	1551	1552	PROP	PER	Captain Marsh
+1501	1556	1557	NOM	PER	the devil
+2	1567	1567	PROP	GPE	Innsmouth
+1502	1581	1585	NOM	LOC	some place near the wharves
+1503	1584	1585	NOM	LOC	the wharves
+240	1587	1587	NOM	PER	people
+262	1596	1596	PRON	PER	I
+15	1599	1599	PROP	GPE	Panton
+16	1601	1601	PROP	GPE	Vermont
+262	1613	1613	PRON	PER	me
+261	1616	1616	PRON	PER	You
+1505	1626	1629	NOM	PER	the old - timers
+1506	1632	1634	NOM	LOC	the black reef
+1507	1636	1637	NOM	LOC	the coast
+3	1639	1640	PROP	LOC	Devil Reef
+262	1642	1642	PRON	PER	they
+1506	1644	1644	PRON	GPE	it
+1506	1646	1646	PRON	LOC	It
+1506	1662	1662	PRON	LOC	it
+261	1667	1667	PRON	PER	you
+1506	1671	1671	PRON	LOC	it
+1508	1672	1673	NOM	LOC	an island
+1509	1689	1690	NOM	LOC	that reef
+1510	1701	1707	NOM	LOC	some kind of caves near the top
+1506	1709	1709	PRON	FAC	It
+1511	1711	1715	NOM	LOC	a rugged , uneven thing
+195	1732	1732	NOM	PER	sailors
+1513	1747	1750	NOM	PER	sailors that did n’t
+2	1753	1753	PROP	GPE	Innsmouth
+195	1759	1759	PRON	PER	they
+121	1762	1764	PROP	PER	old Captain Marsh
+121	1767	1767	PRON	PER	he
+1506	1773	1773	PRON	FAC	it
+121	1784	1784	PRON	PER	he
+262	1788	1788	PRON	PER	I
+121	1803	1803	PRON	PER	he
+121	1819	1819	PRON	PER	his
+1514	1822	1822	NOM	PER	daemons
+230	1823	1823	NOM	LOC	there
+262	1828	1828	PRON	PER	I
+1516	1836	1837	NOM	PER	the Captain
+1517	1844	1845	NOM	LOC	the reef
+1518	1860	1863	NOM	PER	the folks in Innsmouth
+2	1863	1863	PROP	GPE	Innsmouth
+1518	1868	1868	PRON	PER	They
+17	1890	1890	PROP	GPE	China
+1519	1894	1895	NOM	VEH	the shipping
+262	1916	1916	PRON	PER	I
+1520	1924	1924	NOM	GPE	town
+1521	1929	1930	NOM	GPE	the place
+1522	1946	1949	NOM	PER	400 people living there
+230	1949	1949	NOM	GPE	there
+1524	1960	1960	NOM	PER	folks
+262	1968	1968	PRON	PER	I
+262	1972	1972	PRON	PER	I
+263	1975	1978	NOM	PER	those that hold it
+0	1980	1980	PRON	PER	I
+222	1982	1984	NOM	PER	those Innsmouth folks
+0	1985	1985	PRON	PER	myself
+0	1988	1988	PRON	PER	I
+222	1995	1995	PRON	PER	their
+265	1995	1996	NOM	GPE	their town
+0	1998	1998	PRON	PER	I
+266	2000	2000	PRON	PER	you
+0	2004	2004	PRON	PER	I
+266	2007	2007	PRON	PER	you
+266	2012	2012	PRON	PER	your
+1525	2018	2018	PRON	PER	our
+1526	2018	2021	NOM	VEH	our New England ships
+1527	2028	2031	NOM	GPE	queer ports in Africa
+18	2031	2031	PROP	GPE	Africa
+19	2033	2033	PROP	GPE	Asia
+20	2035	2037	PROP	LOC	the South Seas
+1528	2045	2054	NOM	PER	queer kinds of people they sometimes brought back with ’em
+240	2048	2048	NOM	PER	people
+1526	2049	2049	PRON	PER	they
+1530	2054	2054	PRON	PER	’em
+266	2056	2056	PRON	PER	You
+267	2061	2070	NOM	PER	the Salem man that came home with a Chinese wife
+268	2066	2066	NOM	FAC	home
+269	2068	2070	NOM	PER	a Chinese wife
+266	2074	2074	PRON	PER	you
+270	2082	2087	NOM	PER	Fiji Islanders somewhere around Cape Cod
+21	2086	2087	PROP	GPE	Cape Cod
+271	2100	2102	NOM	PER	the Innsmouth people
+1521	2104	2105	NOM	GPE	The place
+273	2112	2116	NOM	LOC	the rest of the country
+197	2115	2116	NOM	LOC	the country
+275	2118	2120	NOM	LOC	marshes and creeks
+276	2123	2123	PRON	PER	we
+121	2143	2145	PROP	PER	old Captain Marsh
+121	2154	2154	PRON	PER	he
+277	2156	2160	NOM	VEH	all three of his ships
+121	2159	2159	PRON	PER	his
+278	2179	2181	NOM	PER	the Innsmouth folks
+0	2184	2184	PRON	PER	I
+266	2198	2198	PRON	PER	you
+266	2201	2201	PRON	PER	You
+117	2207	2207	PROP	PER	Sargent
+266	2209	2209	PRON	PER	you
+117	2211	2211	PRON	PER	his
+279	2211	2212	NOM	VEH	his bus
+1531	2214	2216	NOM	PER	Some of ’em
+1532	2216	2216	PRON	PER	’em
+1533	2218	2233	NOM	PER	queer narrow heads with flat noses and bulgy , stary eyes that never seem to shut
+1531	2236	2236	PRON	PER	their
+1531	2251	2251	PRON	PER	their
+1534	2268	2270	NOM	PER	The older fellows
+1531	2278	2278	PRON	PER	I
+1531	2282	2282	PRON	PER	I
+1535	2286	2292	NOM	PER	a very old chap of that kind
+280	2295	2295	PRON	PER	they
+124	2304	2304	PROP	PER	Animals
+280	2308	2308	PRON	PER	they
+281	2322	2324	NOM	PER	Nobody around here
+7	2327	2327	PROP	GPE	Arkham
+13	2329	2329	PROP	GPE	Ipswich
+280	2339	2339	PRON	PER	they
+280	2344	2344	PRON	PER	themselves
+280	2346	2346	PRON	PER	they
+1520	2349	2349	NOM	GPE	town
+1537	2352	2352	NOM	PER	anyone
+280	2357	2357	PRON	PER	their
+1538	2357	2358	NOM	FAC	their grounds
+4	2367	2368	PROP	FAC	Innsmouth Harbour
+230	2383	2383	NOM	FAC	there
+1540	2384	2384	PRON	PER	yourself
+1541	2388	2389	NOM	PER	the folks
+1540	2391	2391	PRON	PER	you
+1542	2394	2395	NOM	PER	Those people
+1543	2401	2402	NOM	VEH	the railroad
+1544	2407	2408	NOM	VEH	the train
+12	2410	2410	PROP	GPE	Rowley
+1542	2419	2419	PRON	PER	they
+1545	2421	2422	NOM	VEH	that bus
+1546	2429	2430	NOM	FAC	a hotel
+1547	2429	2432	NOM	FAC	a hotel in Innsmouth
+2	2432	2432	PROP	GPE	Innsmouth
+22	2435	2437	PROP	FAC	the Gilman House
+282	2440	2440	PRON	PER	I
+282	2450	2450	PRON	PER	I
+1540	2454	2454	PRON	PER	you
+1540	2473	2473	PRON	PER	you
+1548	2476	2478	NOM	VEH	an evening bus
+230	2479	2479	NOM	GPE	there
+7	2481	2481	PROP	GPE	Arkham
+1550	2488	2495	NOM	PER	a factory inspector who stopped at the Gilman
+23	2494	2495	PROP	FAC	the Gilman
+1550	2503	2503	PRON	PER	he
+1521	2511	2512	NOM	GPE	the place
+1550	2515	2515	PRON	PER	they
+1552	2517	2520	NOM	PER	a queer crowd there
+1553	2523	2524	NOM	PER	this fellow
+1554	2528	2529	NOM	FAC	other rooms
+282	2540	2540	PRON	PER	him
+282	2549	2549	PRON	PER	he
+282	2553	2553	PRON	PER	he
+282	2578	2578	PRON	PER	he
+282	2582	2582	PRON	PER	he
+1553	2614	2615	NOM	PER	This fellow
+125	2617	2617	PROP	PER	Casey
+1553	2619	2619	PRON	PER	his
+278	2630	2632	NOM	PER	the Innsmouth folks
+1553	2634	2634	PRON	PER	him
+1553	2642	2642	PRON	PER	He
+285	2644	2645	NOM	LOC	the Marsh
+286	2654	2663	NOM	FAC	an old mill on the lower falls of the Manuxet
+287	2658	2663	NOM	LOC	the lower falls of the Manuxet
+10	2662	2663	PROP	LOC	the Manuxet
+1553	2666	2666	PRON	PER	he
+0	2672	2672	PRON	PER	I
+288	2691	2691	PRON	PER	You
+126	2702	2703	PROP	PER	the Marshes
+126	2707	2707	PRON	PER	they
+126	2710	2710	PRON	PER	They
+126	2725	2725	PRON	PER	they
+289	2747	2748	NOM	PER	the sailors
+290	2750	2751	NOM	PER	refinery men
+291	2766	2770	NOM	PER	some of the Marsh womenfolks
+292	2768	2770	NOM	PER	the Marsh womenfolks
+240	2772	2772	NOM	PER	People
+294	2782	2784	NOM	FAC	some heathen port
+1553	2788	2788	PRON	PER	he
+295	2800	2801	NOM	PER	seafaring men
+296	2809	2809	NOM	PER	Others
+1553	2814	2814	PRON	PER	he
+297	2817	2824	NOM	FAC	an old pirate cache out on Devil Reef
+3	2823	2824	PROP	LOC	Devil Reef
+298	2833	2835	NOM	PER	The old Captain
+299	2848	2860	NOM	FAC	a good - sized ship out of the place since the Civil War
+1521	2855	2856	NOM	GPE	the place
+301	2866	2867	NOM	FAC	the Marshes
+126	2886	2886	PRON	PER	they
+0	2888	2888	PRON	PER	me
+278	2891	2893	NOM	PER	the Innsmouth folks
+278	2899	2899	PRON	PER	themselves
+127	2901	2901	PROP	PER	Gawd
+278	2903	2903	PRON	PER	they
+24	2912	2912	PROP	GPE	South
+1555	2913	2914	NOM	PER	Sea cannibals
+25	2916	2916	PROP	GPE	Guinea
+1556	2916	2917	NOM	PER	Guinea savages
+1557	2917	2917	NOM	PER	savages
+1558	2920	2924	NOM	PER	That plague of ’ 46
+1521	2933	2934	NOM	GPE	the place
+278	2938	2938	PRON	PER	they
+301	2946	2947	NOM	FAC	the Marshes
+1560	2949	2952	NOM	PER	the other rich folks
+126	2960	2960	PRON	PER	I
+1561	2962	2962	PRON	PER	you
+1562	2969	2974	NOM	PER	400 people in the whole town
+1563	2972	2974	NOM	GPE	the whole town
+1564	2978	2984	NOM	FAC	all the streets they say there are
+278	2981	2981	PRON	PER	they
+126	2986	2986	PRON	PER	I
+278	2988	2988	PRON	PER	they
+278	2991	2991	PRON	PER	they
+278	3010	3010	PRON	PER	They
+304	3022	3022	NOM	VEH	truck
+305	3036	3036	NOM	PER	Nobody
+306	3042	3043	NOM	PER	these people
+307	3046	3048	NOM	PER	state school officials
+308	3050	3051	NOM	PER	census men
+309	3059	3059	PRON	PER	You
+310	3062	3064	NOM	PER	that prying strangers
+2	3069	3069	PROP	GPE	Innsmouth
+0	3071	3071	PRON	PER	I
+311	3080	3085	NOM	PER	government man that ’s disappeared there
+312	3093	3101	NOM	PER	one who went crazy and is out at Danvers
+26	3101	3101	PROP	GPE	Danvers
+313	3104	3104	PRON	PER	They
+314	3113	3114	NOM	PER	that fellow
+0	3120	3120	PRON	PER	I
+0	3127	3127	PRON	PER	I
+309	3129	3129	PRON	PER	you
+0	3131	3131	PRON	PER	I
+230	3135	3135	NOM	FAC	there
+0	3144	3144	PRON	PER	I
+309	3152	3152	PRON	PER	you
+316	3156	3158	NOM	PER	the people hereabouts
+309	3161	3161	PRON	PER	you
+309	3168	3168	PRON	PER	you
+2	3181	3181	PROP	GPE	Innsmouth
+309	3189	3189	PRON	PER	you
+309	3194	3194	PRON	PER	I
+1565	3201	3204	NOM	FAC	the Newburyport Public Library
+2	3209	3209	PROP	GPE	Innsmouth
+309	3212	3212	PRON	PER	I
+1566	3217	3218	NOM	PER	the natives
+1567	3220	3221	NOM	FAC	the shops
+1568	3223	3225	NOM	FAC	the lunch room
+1569	3227	3228	NOM	FAC	the garages
+1570	3231	3233	NOM	FAC	the fire station
+309	3235	3235	PRON	PER	I
+1566	3238	3238	PRON	PER	them
+1571	3245	3248	NOM	PER	the ticket - agent
+309	3255	3255	PRON	PER	I
+1566	3263	3263	PRON	PER	their
+1566	3268	3268	PRON	PER	They
+2	3288	3288	PROP	GPE	Innsmouth
+309	3295	3295	PRON	PER	I
+1572	3299	3300	NOM	PER	the clerk
+309	3303	3303	PRON	PER	my
+1573	3307	3311	NOM	GPE	a dismal , decadent place
+1574	3314	3318	NOM	PER	the people at the library
+1575	3317	3318	NOM	FAC	the library
+1576	3331	3332	NOM	PER	the educated
+2	3334	3334	PROP	GPE	Innsmouth
+1577	3360	3361	NOM	GPE	the town
+1578	3374	3379	NOM	GPE	a seat of great marine prosperity
+1579	3388	3396	NOM	FAC	a minor factory centre using the Manuxet as power
+10	3393	3394	PROP	LOC	the Manuxet
+1580	3416	3417	NOM	GPE	the county
+1581	3445	3448	NOM	FAC	the Marsh Refining Company
+4	3500	3501	PROP	FAC	Innsmouth Harbour
+1582	3503	3503	NOM	PER	Foreigners
+230	3506	3506	NOM	FAC	there
+1584	3516	3519	NOM	PER	a number of Poles
+1585	3521	3525	NOM	PER	Portuguese who had tried it
+2	3550	3550	PROP	GPE	Innsmouth
+1586	3556	3558	NOM	LOC	the whole countryside
+1587	3571	3577	NOM	FAC	the museum of Miskatonic University at Arkham
+27	3574	3575	PROP	ORG	Miskatonic University
+7	3577	3577	PROP	GPE	Arkham
+1588	3581	3588	NOM	FAC	the display room of the Newburyport Historical Society
+1589	3585	3588	NOM	ORG	the Newburyport Historical Society
+309	3605	3605	PRON	PER	me
+309	3621	3621	PRON	PER	I
+309	3628	3628	PRON	PER	my
+309	3639	3639	PRON	PER	I
+1590	3669	3670	NOM	PER	The librarian
+309	3672	3672	PRON	PER	me
+1591	3678	3682	NOM	PER	the curator of the Society
+1592	3681	3682	NOM	ORG	the Society
+128	3684	3691	PROP	PER	a Miss Anna Tilton , who lived nearby
+128	3686	3687	PROP	PER	Anna Tilton
+1593	3699	3700	NOM	PER	ancient gentlewoman
+309	3706	3706	PRON	PER	me
+1594	3708	3710	NOM	FAC	the closed building
+309	3730	3730	PRON	PER	my
+309	3733	3733	PRON	PER	I
+309	3762	3762	PRON	PER	me
+309	3788	3788	PRON	PER	I
+309	3793	3793	PRON	PER	I
+1595	3812	3812	PRON	PER	It
+1596	3874	3874	NOM	PER	one
+1595	3904	3904	PRON	FAC	its
+309	3917	3917	PRON	PER	I
+309	3925	3925	PRON	PER	me
+309	3947	3947	PRON	PER	I
+309	3963	3963	PRON	PER	me
+309	3970	3970	PRON	PER	I
+1597	3977	3982	NOM	PER	some known racial or national stream
+1598	3991	3993	NOM	LOC	every recognised stream
+309	4031	4031	PRON	PER	I
+1599	4049	4050	NOM	LOC	another planet
+309	4054	4054	PRON	PER	I
+309	4058	4058	PRON	PER	my
+1600	4146	4146	PRON	PER	they
+309	4168	4168	PRON	PER	I
+128	4208	4209	PROP	PER	Miss Tilton
+1601	4220	4224	NOM	FAC	a shop in State Street
+28	4223	4224	PROP	FAC	State Street
+1602	4229	4232	NOM	PER	a drunken Innsmouth man
+29	4240	4241	PROP	ORG	The Society
+1603	4247	4248	NOM	PER	the pawnbroker
+1595	4253	4253	PRON	PER	it
+1595	4258	4258	PRON	PER	its
+1595	4261	4261	PRON	PER	It
+128	4283	4284	PROP	PER	Miss Tilton
+5	4297	4298	PROP	GPE	New England
+121	4315	4318	PROP	PER	old Captain Obed Marsh
+126	4337	4338	PROP	LOC	the Marshes
+1600	4345	4345	PRON	PER	they
+126	4348	4348	PRON	PER	its
+1600	4353	4353	PRON	PER	they
+1592	4359	4360	NOM	PER	the Society
+1605	4369	4371	NOM	PER	the good lady
+309	4373	4373	PRON	PER	me
+1606	4376	4377	NOM	FAC	the building
+1605	4378	4378	PRON	PER	she
+1607	4395	4400	NOM	PER	the intelligent people of the region
+1608	4399	4400	NOM	GPE	the region
+1605	4402	4402	PRON	PER	Her
+2	4407	4407	PROP	GPE	Innsmouth
+1605	4410	4410	PRON	PER	she
+1605	4430	4430	PRON	PER	she
+309	4432	4432	PRON	PER	me
+1609	4455	4458	NOM	FAC	all the orthodox churches
+1605	4464	4464	PRON	PER	she
+31	4468	4472	PROP	LOC	The Esoteric Order of Dagon
+130	4472	4472	PROP	GPE	Dagon
+1610	4487	4488	NOM	LOC	the East
+2	4497	4499	PROP	LOC	the Innsmouth fisheries
+126	4506	4506	PRON	PER	Its
+1611	4509	4511	NOM	PER	a simple people
+1577	4538	4539	NOM	GPE	the town
+1613	4542	4542	NOM	PER	Freemasonry
+1614	4549	4556	NOM	FAC	the old Masonic Hall on New Church Green
+34	4554	4556	PROP	FAC	New Church Green
+128	4562	4565	PROP	PER	the pious Miss Tilton
+1615	4573	4579	NOM	GPE	the ancient town of decay and desolation
+309	4583	4583	PRON	PER	me
+309	4592	4592	PRON	PER	my
+309	4606	4606	PRON	PER	I
+309	4611	4611	PRON	PER	my
+1616	4611	4613	NOM	FAC	my small room
+1617	4615	4618	NOM	FAC	the “ Y ”
+0	4633	4633	PRON	PER	I
+118	4642	4642	PROP	PER	Hammond
+9	4642	4645	PROP	FAC	Hammond ’s Drug Store
+35	4647	4649	PROP	FAC	old Market Square
+317	4652	4654	NOM	VEH	the Innsmouth bus
+317	4660	4660	PRON	PER	its
+0	4664	4664	PRON	PER	I
+318	4676	4677	NOM	FAC	the street
+319	4681	4683	NOM	FAC	the Ideal Lunch
+223	4685	4686	NOM	FAC	the square
+1571	4689	4692	NOM	PER	the ticket - agent
+322	4699	4700	NOM	PER	local people
+2	4703	4703	PROP	GPE	Innsmouth
+2	4705	4705	PRON	GPE	its
+323	4705	4706	NOM	PER	its denizens
+324	4712	4716	NOM	VEH	a small motor - coach
+28	4726	4727	PROP	FAC	State Street
+0	4740	4740	PRON	PER	me
+0	4742	4742	PRON	PER	I
+325	4761	4766	NOM	FAC	the windshield—“Arkham - Innsmouth - Newb’port”—soon
+326	4772	4773	NOM	PER	three passengers
+327	4775	4785	NOM	PER	dark , unkempt men of sullen visage and somewhat youthful cast
+328	4789	4790	NOM	VEH	the vehicle
+326	4792	4792	PRON	PER	they
+28	4800	4801	PROP	FAC	State Street
+329	4810	4811	NOM	PER	The driver
+0	4816	4816	PRON	PER	I
+329	4818	4818	PRON	PER	him
+329	4820	4820	PRON	PER	he
+330	4823	4825	NOM	FAC	the drug store
+0	4833	4833	PRON	PER	I
+1571	4843	4846	NOM	PER	the ticket - agent
+0	4851	4851	PRON	PER	I
+0	4858	4858	PRON	PER	me
+0	4875	4875	PRON	PER	me
+332	4880	4882	NOM	PER	the local people
+333	4889	4894	NOM	VEH	a bus owned and driven by
+334	4895	4896	NOM	PER	this man
+335	4908	4910	NOM	PER	such a man
+334	4912	4912	PRON	PER	his
+336	4912	4913	NOM	PER	his kinsfolk
+329	4916	4917	NOM	PER	the driver
+338	4921	4922	NOM	FAC	the store
+0	4923	4923	PRON	PER	I
+329	4926	4926	PRON	PER	him
+0	4936	4936	PRON	PER	my
+329	4940	4940	PRON	PER	He
+339	4942	4954	NOM	PER	a thin , stoop - shouldered man not much under six feet tall
+329	4970	4970	PRON	PER	His
+329	4988	4988	PRON	PER	his
+329	4991	4991	PRON	PER	him
+1596	4995	4995	NOM	PER	one
+329	4999	4999	PRON	PER	his
+329	5005	5005	PRON	PER	He
+329	5037	5037	PRON	PER	His
+329	5083	5083	PRON	PER	His
+329	5130	5130	PRON	PER	he
+341	5133	5134	NOM	VEH	the bus
+0	5135	5135	PRON	PER	I
+329	5137	5137	PRON	PER	his
+329	5144	5144	PRON	PER	his
+0	5152	5152	PRON	PER	I
+342	5154	5154	PRON	PER	them
+0	5157	5157	PRON	PER	I
+329	5160	5160	PRON	PER	he
+343	5173	5174	NOM	PER	the fellow
+0	5176	5176	PRON	PER	my
+329	5179	5179	PRON	PER	He
+344	5188	5190	NOM	FAC	the fish docks
+329	5195	5195	PRON	PER	him
+344	5198	5198	PRON	PER	their
+329	5208	5208	PRON	PER	him
+0	5209	5209	PRON	PER	I
+329	5215	5215	PRON	PER	His
+129	5221	5221	PROP	PER	Asiatic
+0	5231	5231	PRON	PER	I
+218	5235	5236	NOM	PER	the people
+329	5238	5238	PRON	PER	him
+0	5241	5241	PRON	PER	I
+0	5242	5242	PRON	PER	myself
+0	5253	5253	PRON	PER	I
+0	5257	5257	PRON	PER	I
+346	5263	5265	NOM	PER	no other passengers
+341	5267	5268	NOM	VEH	the bus
+0	5271	5271	PRON	PER	I
+348	5281	5282	NOM	PER	this driver
+0	5290	5290	PRON	PER	I
+0	5292	5292	PRON	PER	my
+349	5296	5298	NOM	PER	the man aboard
+329	5301	5301	PRON	PER	him
+329	5314	5314	PRON	PER	He
+0	5318	5318	PRON	PER	me
+329	5323	5323	PRON	PER	he
+0	5331	5331	PRON	PER	I
+329	5337	5337	PRON	PER	him
+341	5345	5346	NOM	VEH	the bus
+0	5349	5349	PRON	PER	I
+351	5353	5354	NOM	LOC	the shore
+352	5361	5363	NOM	VEH	the decrepit vehicle
+353	5373	5379	NOM	FAC	the old brick buildings of State Street
+28	5378	5379	PROP	FAC	State Street
+354	5391	5395	NOM	PER	the people on the sidewalks
+355	5394	5395	NOM	FAC	the sidewalks
+0	5397	5397	PRON	PER	I
+0	5399	5399	PRON	PER	I
+354	5402	5402	PRON	PER	them
+341	5410	5411	NOM	VEH	the bus
+341	5424	5424	PRON	FAC	it
+357	5427	5427	PRON	PER	we
+36	5433	5434	PROP	FAC	High Street
+358	5444	5455	NOM	FAC	stately old mansions of the early republic and still older colonial farmhouses
+359	5448	5450	NOM	GPE	the early republic
+360	5453	5455	NOM	FAC	older colonial farmhouses
+361	5458	5460	NOM	FAC	the Lower Green
+37	5462	5463	PROP	LOC	Parker River
+362	5469	5477	NOM	LOC	a long , monotonous stretch of open shore country
+357	5505	5505	PRON	PER	we
+0	5511	5511	PRON	PER	I
+363	5514	5516	NOM	LOC	the blue water
+364	5518	5523	NOM	LOC	the sandy line of Plum Island
+38	5522	5523	PROP	LOC	Plum Island
+357	5526	5526	PRON	PER	we
+365	5531	5532	NOM	LOC	the beach
+357	5534	5534	PRON	PER	our
+366	5534	5536	NOM	FAC	our narrow road
+367	5540	5542	NOM	FAC	the main highway
+12	5544	5544	PROP	GPE	Rowley
+13	5546	5546	PROP	GPE	Ipswich
+368	5550	5552	NOM	FAC	no visible houses
+0	5555	5555	PRON	PER	I
+369	5562	5563	NOM	FAC	the road
+357	5587	5587	PRON	PER	we
+370	5589	5591	NOM	FAC	crude wooden bridges
+371	5593	5594	NOM	LOC	tidal creeks
+1608	5605	5606	NOM	LOC	the region
+0	5612	5612	PRON	PER	I
+0	5637	5637	PRON	PER	I
+373	5645	5650	NOM	LOC	a fertile and thickly settled countryside
+374	5672	5673	NOM	PER	simple folk
+351	5697	5698	NOM	LOC	the shore
+357	5722	5722	PRON	PER	we
+38	5726	5727	PROP	GPE	Plum Island
+376	5730	5739	NOM	LOC	the vast expanse of the open Atlantic on our left
+377	5734	5736	NOM	LOC	the open Atlantic
+357	5738	5738	PRON	PER	our
+357	5741	5741	PRON	PER	Our
+0	5750	5750	PRON	PER	I
+378	5760	5770	NOM	LOC	the lonely crest ahead where the rutted roadway met the sky
+379	5765	5767	NOM	FAC	the rutted roadway
+341	5776	5777	NOM	VEH	the bus
+381	5788	5790	NOM	LOC	the sane earth
+382	5808	5809	NOM	LOC	the sea
+383	5816	5818	NOM	PER	the silent driver
+0	5834	5834	PRON	PER	I
+383	5837	5837	PRON	PER	him
+0	5838	5838	PRON	PER	I
+383	5844	5844	PRON	PER	his
+383	5851	5851	PRON	PER	his
+357	5868	5868	PRON	PER	we
+384	5870	5871	NOM	LOC	the crest
+385	5874	5877	NOM	LOC	the outspread valley beyond
+10	5880	5881	PROP	LOC	the Manuxet
+382	5883	5884	NOM	LOC	the sea
+387	5888	5897	NOM	LOC	the long line of cliffs that culminate in Kingsport Head
+40	5896	5897	PROP	GPE	Kingsport Head
+41	5902	5903	PROP	GPE	Cape Ann
+0	5911	5911	PRON	PER	I
+388	5925	5935	NOM	FAC	the queer ancient house of which so many legends are told
+0	5942	5942	PRON	PER	my
+0	5952	5952	PRON	PER	me
+0	5954	5954	PRON	PER	I
+0	5957	5957	PRON	PER	I
+2	5968	5968	PROP	GPE	Innsmouth
+2	5970	5970	PRON	GPE	It
+389	5972	5989	NOM	GPE	a town of wide extent and dense construction , yet one with a portentous dearth of visible life
+390	6019	6021	NOM	FAC	One of them
+391	6021	6021	PRON	FAC	them
+392	6048	6057	NOM	FAC	The vast huddle of sagging gambrel roofs and peaked gables
+357	6070	6070	PRON	PER	we
+393	6073	6076	NOM	FAC	the now descending road
+0	6077	6077	PRON	PER	I
+394	6090	6094	NOM	FAC	some large square Georgian houses
+395	6107	6107	NOM	PER	widow
+396	6112	6112	NOM	FAC	These
+397	6118	6119	NOM	LOC	the water
+396	6137	6137	PRON	FAC	them
+0	6138	6138	PRON	PER	I
+398	6148	6150	NOM	FAC	the abandoned railway
+399	6169	6176	NOM	FAC	the old carriage roads to Rowley and Ipswich
+12	6174	6174	PROP	GPE	Rowley
+13	6176	6176	PROP	GPE	Ipswich
+400	6178	6179	NOM	FAC	The decay
+401	6184	6185	NOM	FAC	the waterfront
+400	6189	6189	PRON	FAC	its
+0	6192	6192	PRON	PER	I
+402	6199	6211	NOM	FAC	a fairly well - preserved brick structure which looked like a small factory
+403	6209	6211	NOM	FAC	a small factory
+404	6213	6214	NOM	FAC	The harbour
+405	6224	6227	NOM	LOC	an ancient stone breakwater
+0	6231	6231	PRON	PER	I
+406	6240	6243	NOM	PER	a few seated fishermen
+407	6256	6258	NOM	FAC	a bygone lighthouse
+0	6272	6272	PRON	PER	I
+408	6274	6277	NOM	FAC	a few decrepit cabins
+409	6279	6280	NOM	FAC	moored dories
+410	6288	6291	NOM	LOC	The only deep water
+411	6296	6297	NOM	LOC	the river
+412	6301	6303	NOM	FAC	the belfried structure
+413	6309	6310	NOM	LOC	the ocean
+414	6312	6313	NOM	LOC	the breakwater
+415	6320	6323	NOM	FAC	the ruins of wharves
+351	6327	6328	NOM	LOC	the shore
+417	6347	6347	NOM	LOC	sea
+0	6354	6354	PRON	PER	I
+0	6377	6377	PRON	PER	I
+3	6382	6383	PROP	LOC	Devil Reef
+0	6386	6386	PRON	PER	I
+0	6407	6407	PRON	PER	I
+418	6418	6418	PRON	PER	We
+419	6420	6421	NOM	PER	no one
+369	6423	6424	NOM	FAC	the road
+421	6431	6437	NOM	FAC	deserted farms in varying stages of ruin
+0	6440	6440	PRON	PER	I
+422	6442	6462	NOM	FAC	a few inhabited houses with rags stuffed in the broken windows and shells and dead fish lying about the littered yards
+423	6460	6462	NOM	FAC	the littered yards
+0	6467	6467	PRON	PER	I
+424	6469	6486	NOM	PER	listless - looking people working in barren gardens or digging clams on the fishy - smelling beach below
+425	6475	6476	NOM	FAC	barren gardens
+426	6481	6486	NOM	LOC	the fishy - smelling beach below
+427	6491	6496	NOM	PER	dirty , simian - visaged children
+306	6505	6506	NOM	PER	these people
+429	6511	6513	NOM	FAC	the dismal buildings
+0	6527	6527	PRON	PER	I
+0	6542	6542	PRON	PER	I
+0	6550	6550	PRON	PER	I
+341	6577	6578	NOM	VEH	the bus
+0	6583	6583	PRON	PER	I
+431	6598	6602	NOM	FAC	The leaning , unpainted houses
+369	6610	6611	NOM	FAC	the road
+433	6621	6621	PRON	PER	we
+0	6639	6639	PRON	PER	I
+434	6643	6650	NOM	FAC	a cobblestone pavement and stretches of brick sidewalk
+435	6655	6657	NOM	FAC	All the houses
+436	6675	6678	NOM	FAC	buildings that had collapsed
+437	6691	6692	NOM	FAC	cross streets
+438	6694	6694	NOM	FAC	junctions
+439	6705	6709	NOM	LOC	shoreward realms of unpaved squalor
+440	6714	6717	NOM	PER	those on the right
+0	6726	6726	PRON	PER	I
+441	6729	6730	NOM	PER	no people
+1577	6732	6733	NOM	GPE	the town
+443	6741	6743	NOM	FAC	a sparse habitation
+444	6752	6757	NOM	VEH	an occasional battered motor - car
+445	6762	6764	NOM	FAC	Pavement and sidewalks
+446	6772	6775	NOM	FAC	most of the houses
+447	6774	6775	NOM	FAC	the houses
+446	6790	6790	PRON	FAC	they
+448	6799	6801	NOM	PER	an amateur antiquarian
+0	6802	6802	PRON	PER	I
+0	6805	6805	PRON	PER	my
+0	6809	6809	PRON	PER	my
+0	6826	6826	PRON	PER	I
+0	6831	6831	PRON	PER	my
+449	6831	6832	NOM	FAC	my destination
+341	6843	6844	NOM	VEH	The bus
+451	6857	6860	NOM	FAC	churches on two sides
+0	6874	6874	PRON	PER	I
+452	6878	6888	NOM	FAC	a large pillared hall on the right - hand junction ahead
+453	6890	6891	NOM	FAC	The structure
+0	6915	6915	PRON	PER	I
+130	6928	6928	PROP	PER	Dagon
+454	6936	6939	NOM	FAC	the former Masonic Hall
+455	6944	6946	NOM	PER	a degraded cult
+0	6949	6949	PRON	PER	I
+0	6955	6955	PRON	PER	my
+318	6968	6969	NOM	FAC	the street
+0	6972	6972	PRON	PER	I
+0	6981	6981	PRON	PER	my
+457	6984	6985	NOM	VEH	the coach
+458	6991	7021	NOM	FAC	a squat - towered stone church of manifestly later date than most of the houses , built in a clumsy Gothic fashion and having a disproportionately high basement with shuttered windows
+447	7004	7005	NOM	FAC	the houses
+458	7027	7027	PRON	FAC	its
+0	7034	7034	PRON	PER	I
+0	7037	7037	PRON	PER	I
+0	7072	7072	PRON	PER	me
+0	7074	7074	PRON	PER	I
+460	7084	7086	NOM	FAC	the church basement
+0	7099	7099	PRON	PER	I
+461	7110	7112	NOM	LOC	that dark rectangle
+0	7116	7116	PRON	PER	my
+462	7150	7163	NOM	PER	the driver that I had seen since entering the compact part of the town
+0	7153	7153	PRON	PER	I
+463	7158	7163	NOM	LOC	the compact part of the town
+1577	7162	7163	NOM	GPE	the town
+0	7167	7167	PRON	PER	I
+0	7173	7173	PRON	PER	I
+0	7187	7187	PRON	PER	I
+465	7195	7196	NOM	PER	the pastor
+130	7209	7209	PROP	PER	Dagon
+466	7215	7217	NOM	ORG	the local churches
+0	7225	7225	PRON	PER	my
+465	7240	7240	PRON	PER	he
+128	7250	7251	PROP	PER	Miss Tilton
+0	7254	7254	PRON	PER	me
+0	7263	7263	PRON	PER	my
+0	7287	7287	PRON	PER	I
+0	7294	7294	PRON	PER	I
+467	7312	7315	NOM	PER	a local mystery cult
+467	7319	7319	PRON	FAC	its
+468	7331	7332	NOM	PER	the community
+469	7349	7353	NOM	PER	repellent - looking youngish people
+355	7358	7359	NOM	FAC	the sidewalks
+471	7361	7370	NOM	PER	lone individuals , and silent knots of two or three
+472	7372	7378	NOM	FAC	The lower floors of the crumbling houses
+473	7376	7378	NOM	FAC	the crumbling houses
+474	7381	7385	NOM	FAC	small shops with dingy signs
+0	7388	7388	PRON	PER	I
+475	7390	7394	NOM	VEH	a parked truck or two
+476	7396	7396	PRON	PER	we
+0	7412	7412	PRON	PER	I
+477	7414	7419	NOM	LOC	a fairly deep river - gorge
+478	7424	7436	NOM	FAC	a wide , iron - railed highway bridge beyond which a large square
+476	7441	7441	PRON	PER	we
+479	7444	7445	NOM	FAC	the bridge
+0	7446	7446	PRON	PER	I
+480	7454	7463	NOM	FAC	some factory buildings on the edge of the grassy bluff
+481	7461	7463	NOM	LOC	the grassy bluff
+482	7469	7472	NOM	LOC	The water far below
+0	7478	7478	PRON	PER	I
+0	7488	7488	PRON	PER	my
+0	7496	7496	PRON	PER	my
+476	7509	7509	PRON	PER	we
+483	7512	7518	NOM	FAC	the large semicircular square across the river
+411	7517	7518	NOM	LOC	the river
+485	7531	7556	NOM	FAC	a tall , cupola - crowned building with remnants of yellow paint and with a half - effaced sign proclaiming it to be the Gilman House
+485	7551	7551	PRON	FAC	it
+22	7554	7556	PROP	FAC	the Gilman House
+0	7558	7558	PRON	PER	I
+1545	7565	7566	NOM	VEH	that bus
+0	7574	7574	PRON	PER	my
+487	7577	7580	NOM	FAC	the shabby hotel lobby
+488	7585	7588	NOM	PER	one person in sight
+489	7590	7602	NOM	PER	an elderly man without what I had come to call the “ Innsmouth
+0	7595	7595	PRON	PER	I
+2	7602	7602	PROP	GPE	Innsmouth
+0	7604	7604	PRON	PER	I
+489	7609	7609	PRON	PER	him
+0	7616	7616	PRON	PER	me
+490	7626	7627	NOM	FAC	this hotel
+0	7631	7631	PRON	PER	I
+223	7635	7636	NOM	FAC	the square
+341	7640	7641	NOM	VEH	the bus
+493	7657	7660	NOM	LOC	the cobblestoned open space
+494	7662	7667	NOM	LOC	the straight line of the river
+411	7666	7667	NOM	LOC	the river
+496	7672	7689	NOM	FAC	a semicircle of slant - roofed brick buildings of about the 1800 period , from which several streets
+497	7688	7689	NOM	FAC	several streets
+0	7715	7715	PRON	PER	I
+0	7719	7719	PRON	PER	my
+0	7729	7729	PRON	PER	I
+498	7737	7738	NOM	FAC	The buildings
+499	7748	7750	NOM	FAC	a dozen shops
+500	7759	7765	NOM	FAC	a grocery of the First National chain
+501	7768	7770	NOM	FAC	a dismal restaurant
+502	7772	7774	NOM	FAC	a drug store
+503	7777	7781	NOM	PER	a wholesale fish - dealer
+504	7777	7783	NOM	FAC	a wholesale fish - dealer ’s office
+505	7794	7798	NOM	FAC	the square near the river
+411	7797	7798	NOM	LOC	the river
+507	7800	7807	NOM	FAC	an office of the town ’s only industry
+1577	7803	7804	NOM	GPE	the town
+1581	7809	7812	NOM	FAC	the Marsh Refining Company
+510	7817	7818	NOM	PER	ten people
+511	7825	7828	NOM	VEH	automobiles and motor trucks
+0	7833	7833	PRON	PER	I
+512	7843	7847	NOM	FAC	the civic centre of Innsmouth
+2	7847	7847	PROP	GPE	Innsmouth
+0	7850	7850	PRON	PER	I
+404	7856	7857	NOM	FAC	the harbour
+514	7866	7870	NOM	FAC	three once beautiful Georgian steeples
+351	7874	7875	NOM	LOC	the shore
+516	7877	7882	NOM	LOC	the opposite bank of the river
+411	7881	7882	NOM	LOC	the river
+0	7883	7883	PRON	PER	I
+518	7885	7896	NOM	FAC	the white belfry surmounting what I took to be the Marsh refinery
+0	7890	7890	PRON	PER	I
+519	7894	7896	NOM	FAC	the Marsh refinery
+0	7903	7903	PRON	PER	I
+0	7907	7907	PRON	PER	my
+520	7911	7913	NOM	FAC	the chain grocery
+2	7924	7924	PROP	GPE	Innsmouth
+0	7926	7926	PRON	PER	I
+521	7928	7933	NOM	PER	a solitary boy of about seventeen
+521	7951	7951	PRON	PER	He
+0	7959	7959	PRON	PER	I
+521	7963	7963	PRON	PER	he
+1521	7967	7968	NOM	GPE	the place
+1521	7970	7970	PRON	FAC	its
+1521	7975	7975	PRON	FAC	its
+523	7975	7977	NOM	PER	its furtive people
+524	7982	7983	NOM	PER	any outsider
+521	7988	7988	PRON	PER	him
+521	7990	7990	PRON	PER	He
+7	7993	7993	PROP	GPE	Arkham
+525	7997	8013	NOM	PER	a family who came from Ipswich , and went back home whenever he got a moment off
+13	8002	8002	PROP	GPE	Ipswich
+268	8007	8007	NOM	FAC	home
+521	8009	8009	PRON	PER	he
+521	8015	8015	PRON	PER	His
+527	8015	8016	NOM	PER	His family
+521	8020	8020	PRON	PER	him
+2	8024	8024	PROP	GPE	Innsmouth
+528	8027	8028	NOM	PER	the chain
+521	8031	8031	PRON	PER	him
+230	8032	8032	NOM	FAC	there
+521	8034	8034	PRON	PER	he
+521	8041	8041	PRON	PER	his
+230	8044	8044	NOM	FAC	There
+521	8047	8047	PRON	PER	he
+531	8050	8052	NOM	FAC	no public library
+2	8058	8058	PROP	GPE	Innsmouth
+0	8061	8061	PRON	PER	I
+0	8065	8065	PRON	PER	my
+318	8069	8070	NOM	FAC	The street
+0	8071	8071	PRON	PER	I
+42	8076	8076	PROP	GPE	Federal
+533	8082	8086	NOM	FAC	the fine old residence streets
+43	8088	8088	PROP	GPE	Broad
+44	8090	8090	PROP	GPE	Washington
+45	8092	8092	PROP	GPE	Lafayette
+46	8095	8095	PROP	GPE	Adams
+533	8100	8100	PRON	FAC	it
+534	8102	8104	NOM	FAC	the shoreward slums
+535	8109	8110	NOM	FAC	these slums
+47	8113	8114	PROP	FAC	Main Street
+0	8117	8117	PRON	PER	I
+536	8120	8123	NOM	FAC	the old Georgian churches
+536	8126	8126	PRON	FAC	they
+537	8139	8139	PRON	PER	oneself
+538	8143	8144	NOM	FAC	such neighbourhoods
+411	8149	8150	NOM	LOC	the river
+218	8153	8154	NOM	PER	the people
+541	8160	8161	NOM	PER	Some strangers
+542	8166	8167	NOM	LOC	Certain spots
+0	8174	8174	PRON	PER	he
+1596	8181	8181	NOM	PER	One
+519	8191	8193	NOM	FAC	the Marsh refinery
+545	8197	8202	NOM	FAC	any of the still used churches
+546	8199	8202	NOM	FAC	the still used churches
+547	8206	8211	NOM	FAC	the pillared Order of Dagon Hall
+34	8213	8215	PROP	FAC	New Church Green
+548	8217	8218	NOM	FAC	Those churches
+548	8227	8227	PRON	PER	their
+548	8244	8244	PRON	PER	Their
+549	8267	8268	NOM	LOC	this earth
+550	8270	8271	NOM	PER	The youth
+551	8270	8274	NOM	PER	The youth ’s own pastor
+48	8276	8284	PROP	FAC	Dr. Wallace of Asbury M. E. Church in Arkham
+49	8279	8279	PROP	GPE	Asbury
+7	8284	8284	PROP	GPE	Arkham
+0	8289	8289	PRON	PER	him
+552	8293	8296	NOM	FAC	any church in Innsmouth
+2	8296	8296	PROP	GPE	Innsmouth
+271	8300	8302	NOM	PER	the Innsmouth people
+550	8304	8305	NOM	PER	the youth
+271	8312	8312	PRON	PER	them
+271	8314	8314	PRON	PER	They
+271	8334	8334	PRON	PER	they
+271	8340	8340	PRON	PER	their
+271	8353	8353	PRON	PER	they
+271	8356	8356	PRON	PER	they
+271	8369	8369	PRON	PER	They
+555	8383	8384	NOM	LOC	the world
+271	8387	8387	PRON	PER	they
+271	8398	8398	PRON	PER	Their
+1596	8408	8408	NOM	PER	one
+271	8419	8419	PRON	PER	their
+271	8429	8429	PRON	PER	them
+271	8432	8432	PRON	PER	their
+557	8432	8433	NOM	FAC	their churches
+271	8440	8440	PRON	PER	their
+271	8458	8458	PRON	PER	They
+558	8475	8475	NOM	FAC	harbour
+3	8481	8482	PROP	LOC	Devil Reef
+559	8488	8490	NOM	PER	everyone in sight
+1596	8502	8502	NOM	PER	one
+561	8513	8521	NOM	PER	rather young people who were seen about in public
+562	8526	8527	NOM	PER	the oldest
+271	8543	8543	PRON	PER	they
+563	8546	8551	NOM	PER	persons with no trace of aberrancy
+564	8554	8559	NOM	PER	the old clerk at the hotel
+565	8558	8559	NOM	FAC	the hotel
+1596	8561	8561	NOM	PER	One
+567	8566	8571	NOM	PER	the bulk of the older folk
+568	8569	8571	NOM	PER	the older folk
+569	8616	8618	NOM	PER	a single individual
+550	8665	8666	NOM	PER	the youth
+1596	8680	8680	NOM	PER	one
+1566	8685	8686	NOM	PER	the natives
+2	8696	8696	PROP	GPE	Innsmouth
+550	8698	8699	NOM	PER	The youth
+574	8703	8711	NOM	PER	many specimens even worse than the worst visible ones
+240	8720	8720	NOM	PER	People
+576	8729	8736	NOM	LOC	The tottering waterfront hovels north of the river
+411	8735	8736	NOM	LOC	the river
+578	8741	8742	NOM	FAC	hidden tunnels
+579	8762	8763	NOM	PER	these beings
+579	8772	8772	PRON	PER	They
+580	8775	8778	NOM	PER	certain especially repulsive characters
+581	8783	8784	NOM	PER	government agents
+582	8786	8790	NOM	PER	others from the outside world
+583	8788	8790	NOM	LOC	the outside world
+1520	8793	8793	NOM	GPE	town
+0	8802	8802	PRON	PER	my
+585	8802	8803	NOM	PER	my informant
+1566	8808	8809	NOM	PER	the natives
+1521	8812	8813	NOM	GPE	the place
+588	8815	8820	NOM	PER	The only one who would talk
+589	8822	8853	NOM	PER	a very aged but normal - looking man who lived at the poorhouse on the north rim of the town and spent his time walking about or lounging around the fire station
+590	8836	8841	NOM	LOC	the north rim of the town
+1577	8840	8841	NOM	GPE	the town
+589	8844	8844	PRON	PER	his
+1570	8851	8853	NOM	FAC	the fire station
+593	8855	8857	NOM	PER	This hoary character
+131	8859	8860	PROP	PER	Zadok Allen
+594	8877	8879	NOM	PER	the town drunkard
+593	8881	8881	PRON	PER	He
+595	8883	8912	NOM	PER	a strange , furtive creature who constantly looked over his shoulder as if afraid of something , and when sober could not be persuaded to talk at all with strangers
+593	8892	8892	PRON	PER	his
+596	8912	8912	NOM	PER	strangers
+593	8914	8914	PRON	PER	He
+593	8925	8925	PRON	PER	his
+593	8954	8954	PRON	PER	him
+593	8957	8957	PRON	PER	his
+593	8977	8977	PRON	PER	his
+305	8982	8982	NOM	PER	Nobody
+593	8985	8985	PRON	PER	him
+1566	8988	8989	NOM	PER	the natives
+593	8993	8993	PRON	PER	him
+596	8999	8999	NOM	PER	strangers
+593	9011	9011	PRON	PER	him
+593	9017	9017	PRON	PER	him
+600	9030	9034	NOM	PER	Several non - native residents
+131	9046	9047	PROP	PER	old Zadok
+601	9051	9053	NOM	PER	the malformed denizens
+602	9063	9068	NOM	PER	None of the non - natives
+603	9065	9068	NOM	PER	the non - natives
+604	9092	9093	NOM	FAC	the streets
+1566	9112	9113	NOM	PER	the natives
+1577	9135	9136	NOM	GPE	the town
+607	9135	9139	NOM	FAC	the town ’s real business
+608	9141	9142	NOM	FAC	the refinery
+223	9149	9150	NOM	FAC	the square
+610	9158	9158	PRON	PER	we
+119	9161	9163	PROP	PER	Old Man Marsh
+611	9172	9173	NOM	FAC	the works
+612	9175	9179	NOM	VEH	a closed , curtained car
+119	9189	9189	PROP	PER	Marsh
+119	9195	9195	PRON	PER	He
+613	9199	9201	NOM	PER	a great dandy
+240	9204	9204	NOM	PER	people
+119	9206	9206	PRON	PER	he
+119	9225	9225	PRON	PER	His
+615	9225	9226	NOM	PER	His sons
+616	9230	9234	NOM	FAC	the office in the square
+223	9233	9234	NOM	FAC	the square
+615	9238	9238	PRON	PER	they
+618	9255	9257	NOM	PER	the younger generation
+619	9259	9260	NOM	PER	The sons
+619	9262	9262	PRON	PER	their
+620	9262	9263	NOM	PER	their sisters
+621	9272	9274	NOM	PER	the elder ones
+621	9281	9281	PRON	PER	their
+622	9286	9290	NOM	PER	One of the Marsh daughters
+623	9288	9290	NOM	PER	the Marsh daughters
+624	9292	9319	NOM	PER	a repellent , reptilian - looking woman who wore an excess of weird jewellery clearly of the same exotic tradition as that to which the strange tiara belonged
+0	9321	9321	PRON	PER	My
+585	9321	9322	NOM	PER	My informant
+626	9344	9347	NOM	PER	pirates or of daemons
+627	9349	9350	NOM	PER	The clergymen
+628	9353	9353	NOM	PER	priests
+627	9357	9357	PRON	PER	they
+1596	9375	9375	NOM	PER	one
+627	9380	9380	PRON	PER	them
+550	9384	9385	NOM	PER	the youth
+2	9397	9397	PROP	GPE	Innsmouth
+301	9399	9400	NOM	FAC	The Marshes
+632	9404	9412	NOM	PER	the other three gently bred families of the town
+1577	9411	9412	NOM	GPE	the town
+132	9414	9415	PROP	PER	the Waites
+133	9417	9418	PROP	PER	the Gilmans
+134	9421	9422	PROP	PER	the Eliots
+632	9429	9429	PRON	PER	They
+634	9432	9436	NOM	FAC	immense houses along Washington Street
+50	9435	9436	PROP	FAC	Washington Street
+635	9447	9454	NOM	PER	living kinsfolk whose personal aspect forbade public view
+0	9466	9466	PRON	PER	me
+550	9476	9477	NOM	PER	the youth
+0	9480	9480	PRON	PER	my
+1577	9491	9492	NOM	GPE	the town
+638	9491	9495	NOM	LOC	the town ’s salient features
+0	9502	9502	PRON	PER	I
+639	9524	9529	NOM	FAC	the single restaurant I had seen
+0	9527	9527	PRON	PER	I
+0	9531	9531	PRON	PER	I
+0	9550	9550	PRON	PER	My
+0	9553	9553	PRON	PER	I
+640	9560	9562	NOM	FAC	the principal streets
+641	9566	9572	NOM	PER	any non - natives I might encounter
+0	9570	9570	PRON	PER	I
+642	9576	9581	NOM	FAC	the eight o’clock coach for Arkham
+7	9581	9581	PROP	GPE	Arkham
+1577	9583	9584	NOM	GPE	The town
+0	9586	9586	PRON	PER	I
+0	9604	9604	PRON	PER	I
+0	9607	9607	PRON	PER	my
+0	9617	9617	PRON	PER	I
+0	9619	9619	PRON	PER	my
+2	9627	9627	PROP	GPE	Innsmouth
+479	9637	9638	NOM	FAC	the bridge
+645	9645	9647	NOM	LOC	the lower falls
+0	9649	9649	PRON	PER	I
+519	9653	9655	NOM	FAC	the Marsh refinery
+647	9667	9668	NOM	FAC	This building
+648	9671	9674	NOM	LOC	the steep river bluff
+649	9676	9677	NOM	FAC	a bridge
+0	9685	9685	PRON	PER	I
+650	9689	9702	NOM	FAC	the earliest civic centre , displaced after the Revolution by the present Town Square
+651	9699	9702	NOM	GPE	the present Town Square
+652	9707	9713	NOM	LOC	the gorge on the Main Street bridge
+653	9710	9713	NOM	FAC	the Main Street bridge
+0	9715	9715	PRON	PER	I
+0	9725	9725	PRON	PER	me
+654	9728	9732	NOM	FAC	Collapsing huddles of gambrel roofs
+655	9749	9751	NOM	FAC	an ancient church
+656	9753	9757	NOM	FAC	Some houses along Main Street
+47	9756	9757	PROP	FAC	Main Street
+657	9762	9762	NOM	FAC	most
+658	9763	9763	PRON	FAC	were
+659	9769	9771	NOM	FAC	unpaved side streets
+0	9772	9772	PRON	PER	I
+660	9780	9781	NOM	FAC	deserted hovels
+401	9814	9815	NOM	FAC	the waterfront
+662	9822	9824	NOM	FAC	a deserted house
+663	9833	9833	NOM	FAC	houses
+664	9846	9853	NOM	FAC	such endless avenues of fishy - eyed vacancy
+51	9895	9896	PROP	FAC	Fish Street
+52	9901	9901	PROP	FAC	Main
+51	9904	9904	PRON	FAC	it
+665	9908	9912	NOM	FAC	many brick and stone warehouses
+53	9918	9919	PROP	FAC	Water Street
+51	9922	9922	PRON	FAC	its
+0	9942	9942	PRON	PER	I
+666	9947	9953	NOM	PER	the scattered fishermen on the distant breakwater
+667	9951	9953	NOM	LOC	the distant breakwater
+0	9960	9960	PRON	PER	I
+10	9976	9977	PROP	LOC	the Manuxet
+1577	9979	9980	NOM	GPE	The town
+0	9987	9987	PRON	PER	my
+0	9991	9991	PRON	PER	I
+0	9994	9994	PRON	PER	me
+0	9997	9997	PRON	PER	I
+0	9999	9999	PRON	PER	my
+669	10003	10007	NOM	FAC	the tottering Water Street bridge
+670	10009	10012	NOM	FAC	The Fish Street bridge
+411	10025	10026	NOM	LOC	the river
+672	10034	10041	NOM	FAC	active fish - packing houses in Water Street
+53	10040	10041	PROP	FAC	Water Street
+673	10063	10065	NOM	FAC	the dismal streets
+674	10067	10068	NOM	FAC	unpaved lanes
+0	10071	10071	PRON	PER	I
+675	10080	10082	NOM	LOC	the southerly desertion
+218	10088	10089	NOM	PER	the people
+677	10098	10102	NOM	LOC	the centre of the town
+1577	10101	10102	NOM	GPE	the town
+0	10106	10106	PRON	PER	I
+0	10117	10117	PRON	PER	I
+679	10128	10130	NOM	PER	the Innsmouth folk
+680	10133	10136	NOM	LOC	here than farther inland
+681	10159	10160	NOM	GPE	this district
+0	10175	10175	PRON	PER	me
+0	10184	10184	PRON	PER	I
+682	10195	10198	NOM	FAC	the visibly inhabited houses
+683	10207	10213	NOM	FAC	the most rigidly boarded - up facades
+0	10227	10227	PRON	PER	I
+684	10231	10238	NOM	FAC	the hidden tunnels suggested by the grocery boy
+685	10236	10238	NOM	PER	the grocery boy
+0	10241	10241	PRON	PER	I
+0	10243	10243	PRON	PER	myself
+686	10249	10250	NOM	PER	those denizens
+0	10255	10255	PRON	PER	I
+687	10282	10292	NOM	FAC	two fine but ruinous old churches at Main and Church Streets
+52	10289	10289	PROP	FAC	Main
+54	10291	10292	PROP	FAC	Church Streets
+0	10294	10294	PRON	PER	I
+688	10298	10301	NOM	FAC	that vile waterfront slum
+0	10303	10303	PRON	PER	My
+34	10308	10310	PROP	FAC	New Church Green
+0	10316	10316	PRON	PER	I
+689	10322	10340	NOM	FAC	the church in whose basement I had glimpsed the inexplicably frightening form of that strangely diademed priest or pastor
+690	10326	10326	NOM	FAC	basement
+0	10327	10327	PRON	PER	I
+691	10335	10338	NOM	PER	that strangely diademed priest
+692	10340	10340	NOM	PER	pastor
+693	10344	10346	NOM	PER	the grocery youth
+0	10349	10349	PRON	PER	me
+694	10351	10352	NOM	FAC	the churches
+695	10357	10361	NOM	FAC	the Order of Dagon Hall
+55	10360	10361	PROP	FAC	Dagon Hall
+696	10364	10368	NOM	FAC	not advisable neighbourhoods for strangers
+596	10368	10368	NOM	PER	strangers
+0	10371	10371	PRON	PER	I
+52	10375	10375	PROP	GPE	Main
+57	10377	10377	PROP	GPE	Martin
+58	10384	10385	PROP	FAC	Federal Street
+698	10389	10390	NOM	FAC	the Green
+699	10394	10408	NOM	FAC	the decayed patrician neighbourhood of northern Broad , Washington , Lafayette , and Adams Streets
+43	10399	10400	PROP	FAC	northern Broad
+44	10402	10402	PROP	GPE	Washington
+45	10404	10404	PROP	GPE	Lafayette
+60	10407	10408	PROP	FAC	Adams Streets
+700	10411	10414	NOM	FAC	these stately old avenues
+700	10422	10422	PRON	FAC	their
+701	10432	10432	NOM	FAC	Mansion
+702	10432	10434	NOM	FAC	Mansion after mansion
+701	10434	10434	NOM	FAC	mansion
+0	10436	10436	PRON	PER	my
+704	10439	10448	NOM	FAC	most of them decrepit and boarded up amidst neglected grounds
+701	10441	10441	PRON	FAC	them
+705	10447	10448	NOM	FAC	neglected grounds
+706	10455	10456	NOM	FAC	each street
+50	10463	10464	PROP	FAC	Washington Street
+707	10467	10475	NOM	FAC	a row of four or five in excellent repair
+708	10482	10482	NOM	FAC	gardens
+709	10484	10488	NOM	FAC	The most sumptuous of these
+61	10500	10501	PROP	FAC	Lafayette Street
+0	10503	10503	PRON	PER	I
+710	10507	10517	NOM	FAC	the home of Old Man Marsh , the afflicted refinery owner
+119	10510	10512	PROP	PER	Old Man Marsh
+711	10514	10517	NOM	PER	the afflicted refinery owner
+712	10520	10522	NOM	FAC	all these streets
+713	10523	10525	NOM	PER	no living thing
+0	10530	10530	PRON	PER	I
+2	10541	10541	PROP	GPE	Innsmouth
+0	10549	10549	PRON	PER	me
+714	10553	10559	NOM	FAC	some of the best - preserved mansions
+715	10555	10559	NOM	FAC	the best - preserved mansions
+716	10581	10587	NOM	LOC	this hushed city of alienage and death
+0	10590	10590	PRON	PER	I
+0	10613	10613	PRON	PER	I
+717	10623	10627	NOM	FAC	a belfry on my left
+0	10626	10626	PRON	PER	my
+0	10632	10632	PRON	PER	I
+718	10634	10641	NOM	FAC	the squat church from which those notes came
+50	10644	10645	PROP	FAC	Washington Street
+411	10647	10648	NOM	LOC	the river
+0	10650	10650	PRON	PER	I
+720	10666	10667	NOM	FAC	a factory
+721	10678	10681	NOM	FAC	an old railway station
+722	10683	10686	NOM	FAC	covered railway bridge beyond
+723	10689	10693	NOM	LOC	the gorge on my right
+0	10692	10692	PRON	PER	my
+724	10695	10700	NOM	FAC	The uncertain bridge now before me
+0	10700	10700	PRON	PER	me
+0	10709	10709	PRON	PER	I
+725	10717	10719	NOM	LOC	the south bank
+726	10726	10729	NOM	PER	Furtive , shambling creatures
+0	10733	10733	PRON	PER	my
+0	10741	10741	PRON	PER	me
+2	10746	10746	PROP	GPE	Innsmouth
+0	10753	10753	PRON	PER	I
+62	10756	10757	PROP	FAC	Paine Street
+223	10759	10760	NOM	FAC	the Square
+728	10766	10767	NOM	VEH	some vehicle
+0	10770	10770	PRON	PER	me
+7	10772	10772	PROP	GPE	Arkham
+729	10782	10784	NOM	VEH	that sinister bus
+0	10790	10790	PRON	PER	I
+730	10792	10795	NOM	FAC	the tumbledown fire station
+0	10797	10797	PRON	PER	my
+731	10802	10839	NOM	PER	the red - faced , bushy - bearded , watery - eyed old man in nondescript rags who sat on a bench in front of it talking with a pair of unkempt but not abnormal - looking firemen
+732	10830	10839	NOM	PER	a pair of unkempt but not abnormal - looking firemen
+131	10848	10849	PROP	PER	Zadok Allen
+733	10851	10870	NOM	PER	the half - crazed , liquorish nonagenarian whose tales of old Innsmouth and its shadow were so hideous and incredible
+734	10861	10870	NOM	PER	old Innsmouth and its shadow were so hideous and incredible
+735	10878	10892	NOM	PER	some imp of the perverse — or some sardonic pull from dark , hidden sources
+0	10896	10896	PRON	PER	me
+0	10898	10898	PRON	PER	my
+0	10901	10901	PRON	PER	I
+0	10904	10904	PRON	PER	I
+0	10911	10911	PRON	PER	my
+0	10918	10918	PRON	PER	I
+223	10924	10925	NOM	FAC	the Square
+737	10935	10941	NOM	GPE	this festering city of death and decay
+131	10948	10949	PROP	PER	Zadok Allen
+0	10955	10955	PRON	PER	my
+0	10959	10959	PRON	PER	me
+0	10961	10961	PRON	PER	my
+0	10965	10965	PRON	PER	I
+259	10970	10972	NOM	PER	the old man
+0	10988	10988	PRON	PER	I
+1566	10993	10994	NOM	PER	the natives
+259	11003	11003	PRON	PER	him
+1577	11013	11014	NOM	GPE	the town
+741	11027	11027	NOM	VEH	ships
+742	11029	11029	NOM	FAC	factories
+0	11041	11041	PRON	PER	me
+131	11064	11065	PROP	PER	old Zadok
+2	11074	11074	PROP	GPE	Innsmouth
+0	11091	11091	PRON	PER	my
+0	11094	11094	PRON	PER	I
+0	11096	11096	PRON	PER	I
+0	11113	11113	PRON	PER	I
+0	11124	11124	PRON	PER	I
+0	11127	11127	PRON	PER	I
+131	11131	11131	PRON	PER	him
+743	11137	11138	NOM	PER	the firemen
+0	11147	11147	PRON	PER	I
+0	11150	11150	PRON	PER	I
+685	11162	11164	NOM	PER	the grocery boy
+0	11167	11167	PRON	PER	me
+0	11173	11173	PRON	PER	I
+1570	11177	11179	NOM	FAC	the fire station
+131	11188	11189	PROP	PER	old Zadok
+131	11191	11191	PRON	PER	he
+131	11197	11197	PRON	PER	his
+550	11201	11202	NOM	PER	The youth
+131	11205	11205	PRON	PER	he
+747	11213	11214	NOM	FAC	the station
+748	11243	11247	NOM	FAC	a dingy variety - store
+749	11250	11254	NOM	FAC	the Square in Eliot Street
+63	11253	11254	PROP	FAC	Eliot Street
+750	11256	11264	NOM	PER	The dirty - looking fellow who waited on me
+0	11264	11264	PRON	PER	me
+750	11281	11281	PRON	PER	his
+751	11291	11293	NOM	PER	such convivial strangers
+752	11295	11295	NOM	PER	truckmen
+753	11297	11299	NOM	PER	gold - buyers
+754	11302	11303	NOM	PER	the like
+1520	11309	11309	NOM	GPE	town
+223	11312	11313	NOM	FAC	the Square
+0	11314	11314	PRON	PER	I
+0	11320	11320	PRON	PER	me
+62	11327	11328	PROP	FAC	Paine Street
+757	11330	11335	NOM	FAC	the corner of the Gilman House
+758	11333	11335	NOM	FAC	the Gilman House
+0	11337	11337	PRON	PER	I
+759	11350	11353	NOM	PER	old Zadok Allen himself
+131	11351	11352	PROP	PER	Zadok Allen
+759	11353	11353	PRON	PER	himself
+0	11358	11358	PRON	PER	my
+0	11361	11361	PRON	PER	I
+759	11363	11363	PRON	PER	his
+0	11367	11367	PRON	PER	my
+759	11376	11376	PRON	PER	he
+0	11383	11383	PRON	PER	me
+0	11385	11385	PRON	PER	I
+64	11388	11389	PROP	FAC	Waite Street
+0	11391	11391	PRON	PER	my
+760	11394	11401	NOM	GPE	the most deserted region I could think of
+0	11398	11398	PRON	PER	I
+0	11403	11403	PRON	PER	I
+0	11406	11406	PRON	PER	my
+685	11411	11413	NOM	PER	the grocery boy
+762	11421	11432	NOM	FAC	the wholly abandoned stretch of southern waterfront which I had previously visited
+0	11429	11429	PRON	PER	I
+763	11434	11438	NOM	PER	The only people in sight
+764	11442	11447	NOM	PER	the fishermen on the distant breakwater
+667	11445	11447	NOM	LOC	the distant breakwater
+0	11456	11456	PRON	PER	I
+766	11471	11473	NOM	FAC	some abandoned wharf
+131	11480	11480	PROP	PER	Zadok
+0	11488	11488	PRON	PER	I
+47	11490	11491	PROP	GPE	Main Street
+0	11492	11492	PRON	PER	I
+767	11502	11502	NOM	PER	Mister
+0	11506	11506	PRON	PER	me
+0	11509	11509	PRON	PER	I
+259	11512	11514	NOM	PER	the old man
+0	11527	11527	PRON	PER	I
+769	11533	11533	PRON	PER	we
+53	11537	11538	PROP	FAC	Water Street
+0	11563	11563	PRON	PER	I
+0	11569	11569	PRON	PER	I
+382	11577	11578	NOM	LOC	the sea
+771	11589	11595	NOM	FAC	an earth - and - masonry wharf
+397	11606	11607	NOM	LOC	the water
+773	11622	11627	NOM	FAC	a ruined warehouse on the north
+774	11626	11627	NOM	LOC	the north
+0	11631	11631	PRON	PER	I
+775	11635	11642	NOM	LOC	the ideal place for a long secret colloquy
+0	11645	11645	PRON	PER	I
+0	11647	11647	PRON	PER	my
+776	11647	11648	NOM	PER	my companion
+777	11650	11651	NOM	FAC	the lane
+0	11682	11682	PRON	PER	I
+0	11689	11689	PRON	PER	me
+0	11698	11698	PRON	PER	I
+7	11707	11707	PROP	GPE	Arkham
+0	11710	11710	PRON	PER	I
+778	11718	11720	NOM	PER	the ancient tippler
+0	11724	11724	PRON	PER	my
+0	11730	11730	PRON	PER	my
+0	11732	11732	PRON	PER	I
+0	11742	11742	PRON	PER	I
+131	11746	11746	PROP	PER	Zadok
+131	11759	11759	PRON	PER	his
+0	11770	11770	PRON	PER	my
+131	11772	11772	PRON	PER	he
+0	11775	11775	PRON	PER	my
+2	11778	11778	PROP	PER	Innsmouth
+131	11786	11786	PRON	PER	He
+0	11818	11818	PRON	PER	I
+0	11820	11820	PRON	PER	my
+0	11836	11836	PRON	PER	I
+131	11840	11841	PROP	PER	old Zadok
+0	11858	11858	PRON	PER	my
+0	11877	11877	PRON	PER	me
+0	11885	11885	PRON	PER	My
+779	11889	11893	NOM	LOC	the fishy - smelling sea
+131	11896	11896	PRON	PER	he
+779	11899	11899	PRON	LOC	it
+131	11907	11907	PRON	PER	his
+780	11913	11920	NOM	LOC	the low , distant line of Devil Reef
+3	11919	11920	PROP	LOC	Devil Reef
+131	11937	11937	PRON	PER	him
+131	11940	11940	PRON	PER	he
+131	11958	11958	PRON	PER	He
+0	11961	11961	PRON	PER	me
+0	11966	11966	PRON	PER	my
+136	11982	11982	PROP	PER	Thar
+781	11989	11998	NOM	LOC	that cursed place of all wickedness whar the deep water
+1618	12001	12004	NOM	FAC	Gate o ’ hell
+1619	12012	12015	NOM	PER	no saoundin’-line kin tech
+137	12017	12019	PROP	PER	Ol’ Cap’n Obed
+131	12023	12023	PRON	PER	him
+131	12031	12031	PRON	PER	him
+1620	12033	12036	NOM	LOC	the Saouth Sea islands
+241	12039	12039	NOM	PER	Everybody
+1622	12059	12061	NOM	PER	the new ones
+782	12065	12069	NOM	PER	the best of our menfolks
+783	12068	12068	PRON	PER	our
+784	12068	12069	NOM	PER	our menfolks
+1623	12083	12085	NOM	FAC	the Elizy brig
+785	12088	12090	NOM	PER	the Ranger snow
+1624	12092	12096	NOM	PER	both of ’em Gilman venters
+121	12098	12099	PROP	GPE	Obed Marsh
+121	12100	12100	PRON	PER	he
+1625	12102	12104	NOM	VEH	three ships afloat
+67	12106	12107	PROP	FAC	brigantine Columby
+138	12110	12110	PROP	PER	Hetty
+786	12118	12118	PRON	PER	He
+1626	12124	12126	NOM	PER	kep ’ on
+57	12139	12139	PROP	PER	Martin
+140	12142	12143	PROP	PER	Malay Pride
+305	12158	12158	NOM	PER	nobody
+137	12160	12161	PROP	PER	Cap’n Obed
+1628	12163	12167	NOM	PER	old limb o ’ Satan
+141	12167	12167	PROP	PER	Satan
+787	12169	12169	PRON	PER	Heh
+0	12173	12173	PRON	PER	I
+786	12176	12176	PRON	PER	him
+1541	12190	12191	NOM	PER	the folks
+68	12196	12196	PROP	GPE	Christian
+788	12203	12203	PRON	PER	their
+1541	12211	12211	PRON	PER	they
+1630	12218	12225	NOM	PER	some o ’ the folks in the Injies
+789	12221	12225	NOM	PER	the folks in the Injies
+1631	12231	12231	PRON	PER	’em
+788	12238	12238	PRON	PER	their
+1524	12246	12246	NOM	PER	folks
+142	12251	12252	PROP	PER	Matt Eliot
+142	12254	12254	PRON	PER	his
+1633	12254	12256	NOM	PER	his fust mate
+142	12265	12265	PRON	PER	he
+1524	12269	12269	NOM	PER	folks
+791	12278	12282	NOM	LOC	an island east of Otaheité
+69	12282	12282	PROP	GPE	Otaheité
+791	12284	12284	PRON	PER	they
+1634	12293	12293	NOM	PER	anybody
+791	12302	12302	PRON	PER	them
+70	12304	12304	PROP	GPE	Ponape
+71	12307	12308	PROP	LOC	the Carolines
+72	12323	12324	PROP	GPE	Easter Island
+791	12326	12326	PRON	PER	They
+792	12328	12333	NOM	LOC	a little volcanic island near thar
+73	12333	12333	PROP	GPE	thar
+791	12338	12338	PRON	PER	they
+793	12340	12344	NOM	FAC	other ruins with diff’rent carvin’s
+794	12346	12349	NOM	FAC	ruins all wore away
+791	12351	12351	PRON	PER	they
+382	12355	12356	NOM	LOC	the sea
+143	12371	12371	PROP	PER	Wal
+796	12373	12373	NOM	PER	Sir
+142	12375	12375	PROP	PER	Matt
+142	12376	12376	PRON	PER	he
+1566	12378	12379	NOM	PER	the natives
+1566	12386	12386	PRON	PER	they
+1635	12404	12417	NOM	PER	a queer kind o ’ gold an ’ covered with picters o ’ monsters
+798	12424	12429	NOM	FAC	the ruins on the little island
+799	12427	12429	NOM	LOC	the little island
+1636	12443	12455	NOM	PER	drawed in all kinds o ’ positions like they was human bein ’s
+305	12457	12457	NOM	PER	Nobody
+1566	12463	12463	PRON	PER	them
+1566	12465	12465	PRON	PER	they
+1638	12474	12476	NOM	PER	the other natives
+1566	12479	12479	PRON	PER	they
+1639	12488	12491	NOM	LOC	the very next islands
+142	12497	12497	PROP	PER	Matt
+142	12498	12498	PRON	PER	he
+137	12509	12510	PROP	PER	Cap’n Obed
+137	12512	12512	PROP	PER	Obed
+137	12513	12513	PRON	PER	he
+1640	12521	12524	NOM	PER	the han’some young folks
+1566	12541	12541	PRON	PER	they
+1641	12543	12545	NOM	PER	many old folks
+137	12550	12550	PRON	PER	he
+1642	12552	12555	NOM	PER	some of the folks
+1541	12554	12555	NOM	PER	the folks
+144	12561	12561	PROP	PER	Kanakys
+137	12566	12566	PROP	PER	Obed
+1566	12574	12574	PRON	PER	them
+800	12574	12575	NOM	PER	them heathen
+0	12577	12577	PRON	PER	I
+801	12581	12581	PRON	PER	he
+801	12586	12586	PRON	PER	he
+1566	12597	12597	PRON	PER	they
+1566	12603	12603	PRON	PER	they
+1566	12610	12610	PRON	PER	they
+1644	12624	12626	NOM	PER	the old chief
+146	12628	12628	PROP	GPE	Walakea
+1566	12630	12630	PRON	PER	they
+146	12632	12632	PRON	PER	him
+305	12634	12634	NOM	PER	Nobody
+137	12636	12636	PROP	PER	Obed
+1646	12641	12644	NOM	PER	the old yeller devil
+137	12647	12648	PROP	PER	the Cap’n
+1524	12651	12651	NOM	PER	folks
+1524	12653	12653	PRON	PER	they
+1648	12659	12659	PRON	PER	heh
+305	12661	12661	NOM	PER	Nobody
+801	12664	12664	PRON	PER	me
+801	12667	12667	PRON	PER	I
+1650	12669	12669	PRON	PER	’em
+801	12673	12673	PRON	PER	I
+1650	12676	12676	PRON	PER	you
+1651	12679	12680	NOM	PER	young feller
+1650	12687	12687	PRON	PER	ye
+1650	12689	12689	PRON	PER	ye
+802	12695	12695	PRON	PER	them
+137	12702	12702	PROP	PER	Obed
+259	12706	12708	NOM	PER	The old man
+801	12715	12715	PRON	PER	I
+801	12717	12717	PRON	PER	myself
+259	12726	12726	PRON	PER	his
+801	12731	12731	PRON	PER	I
+259	12733	12733	PRON	PER	his
+143	12743	12743	PROP	PER	Wal
+796	12745	12745	NOM	PER	Sir
+259	12748	12748	PRON	PER	he
+802	12751	12751	PRON	PER	they
+1654	12758	12759	NOM	PER	most folks
+802	12770	12770	PRON	PER	they
+803	12776	12777	NOM	PER	these Kanakys
+803	12784	12784	PRON	PER	their
+804	12784	12786	NOM	PER	their young men
+1655	12791	12800	NOM	PER	some kind o ’ god - things that lived under
+382	12801	12802	NOM	LOC	the sea
+803	12816	12816	PRON	PER	They
+1656	12821	12823	NOM	LOC	the little islet
+1657	12833	12841	NOM	PER	them awful picters o ’ frog - fish monsters
+1658	12846	12850	NOM	PER	picters o ’ these things
+806	12852	12852	PRON	PER	Mebbe
+803	12853	12853	PRON	PER	they
+1659	12855	12859	NOM	PER	the kind o ’ critters
+803	12871	12871	PRON	PER	They
+1660	12879	12882	NOM	LOC	the sea - bottom
+807	12886	12887	NOM	LOC	this island
+803	12895	12895	PRON	PER	they
+808	12908	12909	NOM	LOC	the island
+144	12920	12921	PROP	PER	the Kanakys
+803	12924	12924	PRON	PER	they
+803	12936	12936	PRON	PER	they
+144	12953	12953	PRON	PER	Them
+809	12956	12957	NOM	PER	human sacrifices
+810	12970	12972	NOM	LOC	the upper world
+144	12978	12978	PRON	PER	they
+811	12981	12982	NOM	PER	the victims
+0	12987	12987	PRON	PER	me
+0	12993	12993	PRON	PER	I
+812	13010	13011	NOM	PER	the heathens
+812	13014	13014	PRON	PER	they
+812	13028	13028	PRON	PER	They
+813	13035	13036	NOM	PER	young folks
+75	13051	13051	PROP	GPE	Hallowe’en
+812	13068	13068	PRON	PER	they
+814	13072	13073	NOM	PER	the things
+812	13085	13085	PRON	PER	they
+382	13092	13093	NOM	LOC	the sea
+143	13109	13109	PROP	PER	Wal
+0	13112	13112	PRON	PER	I
+1566	13115	13116	NOM	PER	the natives
+817	13121	13124	NOM	LOC	the little volcanic islet
+818	13129	13129	NOM	VEH	canoes
+1661	13163	13165	NOM	LOC	the main island
+812	13171	13171	PRON	PER	they
+812	13178	13178	PRON	PER	they
+1662	13180	13180	PRON	PER	arter
+1541	13184	13185	NOM	PER	the folks
+75	13202	13202	PROP	PER	Hallowe’en
+820	13204	13204	PRON	PER	Ye
+812	13207	13207	PRON	PER	they
+812	13222	13222	PRON	PER	they
+0	13226	13226	PRON	PER	I
+144	13229	13230	PROP	PER	The Kanakys
+1663	13232	13232	PRON	PER	’em
+1664	13234	13239	NOM	PER	haow folks from the other islands
+1665	13237	13239	NOM	LOC	the other islands
+144	13246	13246	PRON	PER	they
+144	13251	13251	PRON	PER	their
+144	13257	13257	PRON	PER	they
+144	13259	13259	PRON	PER	they
+144	13265	13265	PRON	PER	they
+1666	13274	13274	NOM	PER	humans
+144	13276	13276	PRON	PER	they
+821	13290	13290	PRON	PER	hev
+144	13305	13305	PRON	PER	they
+144	13315	13315	PRON	PER	they
+1634	13320	13320	NOM	PER	anybody
+808	13322	13323	NOM	LOC	the island
+144	13333	13333	PRON	PER	them
+144	13340	13341	PROP	PER	the Kanakys
+144	13349	13349	PRON	PER	they
+822	13363	13364	NOM	PER	human folks
+144	13401	13401	PRON	PER	Them
+144	13404	13405	PROP	PER	the Kanakys
+144	13408	13408	PRON	PER	they
+1669	13414	13414	NOM	PER	children
+144	13433	13433	PRON	PER	they
+397	13437	13438	NOM	LOC	the water
+1671	13442	13449	NOM	FAC	the main lot o ’ things daown thar
+1651	13459	13460	NOM	PER	young feller
+144	13462	13462	PRON	PER	them
+144	13479	13480	PRON	PER	Them things
+144	13485	13485	PRON	PER	they
+796	13493	13493	NOM	PER	Sir
+137	13500	13500	PROP	PER	Obed
+144	13502	13502	PRON	PER	them
+144	13504	13504	PRON	PER	they
+144	13513	13513	PRON	PER	them
+144	13520	13520	PRON	PER	they
+144	13530	13530	PRON	PER	they
+1672	13532	13534	NOM	PER	kep ’ hid
+144	13536	13536	PRON	PER	they
+397	13542	13543	NOM	LOC	the water
+1521	13548	13549	NOM	FAC	the place
+827	13551	13551	NOM	PER	Some
+296	13556	13556	NOM	PER	others
+397	13569	13570	NOM	LOC	the water
+144	13574	13574	PRON	PER	they
+144	13580	13580	PRON	PER	them
+144	13584	13584	PRON	PER	Them
+144	13596	13596	PRON	PER	them
+1674	13600	13600	NOM	PER	human
+808	13604	13605	NOM	LOC	the island
+144	13607	13607	PRON	PER	they
+144	13613	13613	PRON	PER	they
+397	13630	13631	NOM	LOC	the water
+1677	13643	13644	NOM	PER	a man
+829	13653	13653	PRON	PER	his
+830	13653	13661	NOM	PER	his own five - times - great - grandfather
+831	13666	13668	NOM	LOC	the dry land
+241	13680	13680	NOM	PER	Everybody
+832	13695	13697	NOM	PER	the other islanders
+833	13703	13708	NOM	PER	the sea - gods daown below
+834	13725	13725	PRON	PER	they
+397	13729	13730	NOM	LOC	the water
+834	13751	13751	PRON	PER	They
+834	13754	13754	PRON	PER	they
+834	13761	13761	PRON	PER	they
+835	13770	13770	PRON	PER	I
+835	13783	13783	PRON	PER	he
+146	13787	13788	PROP	PER	old Walakea
+146	13794	13794	PROP	GPE	Walakea
+1680	13799	13826	NOM	PER	one of the few as had n’t got none of the fish blood — bein ’ of a royal line that intermarried with royal lines on other islands
+1681	13822	13826	NOM	PER	royal lines on other islands
+1682	13825	13826	NOM	LOC	other islands
+146	13829	13829	PROP	PER	Walakea
+835	13830	13830	PRON	PER	he
+137	13832	13832	PROP	PER	Obed
+835	13854	13854	PRON	PER	him
+1683	13856	13871	NOM	PER	some o ’ the folks in the village as had changed a lot from human shape
+1684	13859	13863	NOM	PER	the folks in the village
+1685	13862	13863	NOM	GPE	the village
+835	13879	13879	PRON	PER	he
+835	13883	13883	PRON	PER	him
+1686	13891	13896	NOM	LOC	right aout o ’ the water
+397	13895	13896	NOM	LOC	the water
+835	13901	13901	PRON	PER	he
+835	13903	13903	PRON	PER	him
+837	13904	13914	NOM	PER	a funny kind o ’ thingumajig made aout o ’ lead
+835	13919	13919	PRON	PER	he
+397	13931	13932	NOM	LOC	the water
+1687	13942	13943	NOM	PER	The idee
+146	13960	13960	PROP	PER	Walakea
+555	13969	13970	NOM	LOC	the world
+1689	13974	13990	NOM	PER	anybody that looked abaout cud find a nest an ’ bring ’em up ef they was wanted
+1689	13988	13988	PRON	PER	they
+142	13993	13993	PROP	PER	Matt
+142	13994	13994	PRON	PER	he
+808	14011	14012	NOM	LOC	the island
+137	14015	14016	PROP	PER	the Cap’n
+142	14025	14025	PRON	PER	he
+142	14038	14038	PRON	PER	him
+137	14056	14056	PROP	PER	Obed
+835	14068	14068	PRON	PER	him
+1690	14073	14081	NOM	FAC	Waite ’s old run - daown fullin ’ mill
+835	14083	14083	PRON	PER	He
+1524	14095	14095	NOM	PER	folks
+835	14108	14108	PRON	PER	his
+840	14108	14109	NOM	PER	his crews
+840	14125	14125	PRON	PER	they
+835	14134	14134	PRON	PER	he
+835	14136	14136	PRON	PER	his
+841	14136	14139	NOM	PER	his women - folks
+0	14166	14166	PRON	PER	I
+835	14174	14174	PRON	PER	he
+1692	14176	14178	NOM	PER	the island people
+832	14186	14188	NOM	PER	the other islanders
+832	14205	14205	PRON	PER	their
+832	14210	14210	PRON	PER	they
+832	14217	14217	PRON	PER	them
+832	14231	14231	PRON	PER	they
+1694	14240	14244	NOM	PER	any o ’ them Kanakys
+832	14243	14243	PRON	PER	them
+144	14244	14244	PROP	PER	Kanakys
+1660	14253	14256	NOM	LOC	the sea - bottom
+832	14273	14273	PRON	PER	they
+1661	14282	14284	NOM	LOC	the main island
+1696	14286	14296	NOM	LOC	the little volcanic islet excep ’ what parts of the ruins
+1697	14295	14296	NOM	FAC	the ruins
+1698	14305	14306	NOM	FAC	some places
+844	14307	14307	PRON	PER	they
+843	14323	14323	PRON	PER	ye
+844	14330	14330	PRON	PER	them
+845	14332	14334	NOM	PER	the Old Ones
+1524	14338	14338	NOM	PER	Folks
+1700	14355	14360	NOM	PER	none o ’ the nearby Kanakys
+144	14360	14360	PROP	PER	Kanakys
+846	14373	14373	PRON	PER	they
+847	14377	14381	NOM	PER	any people on that island
+848	14380	14381	NOM	LOC	that island
+137	14387	14387	PROP	PER	Obed
+137	14394	14394	PRON	PER	his
+1701	14404	14407	NOM	LOC	the whole of Innsmouth
+2	14407	14407	PROP	GPE	Innsmouth
+849	14418	14422	NOM	PER	the master of a ship
+850	14421	14422	NOM	VEH	a ship
+851	14425	14426	NOM	PER	the crew
+1702	14429	14436	NOM	PER	Most o ’ the folks araound the taown
+1703	14432	14436	NOM	PER	the folks araound the taown
+1704	14435	14436	NOM	FAC	the taown
+1702	14452	14452	PRON	PER	they
+1705	14458	14460	NOM	PER	the fishin ’
+137	14481	14481	PRON	PER	he
+1541	14488	14489	NOM	PER	the folks
+852	14500	14502	NOM	LOC	a Christian heaven
+137	14510	14510	PRON	PER	He
+855	14512	14512	PRON	PER	’em
+137	14513	14513	PRON	PER	he
+1524	14517	14517	NOM	PER	folks
+854	14521	14524	NOM	PER	gods that give somethin’
+855	14525	14525	PRON	PER	ye
+1707	14533	14538	NOM	PER	a good bunch o ’ men
+137	14542	14542	PRON	PER	him
+137	14544	14544	PRON	PER	he
+1541	14573	14573	PRON	PER	them
+808	14583	14584	NOM	LOC	the island
+137	14587	14587	PRON	PER	he
+417	14600	14600	NOM	LOC	sea
+1541	14604	14604	PRON	PER	they
+1541	14611	14611	PRON	PER	them
+137	14628	14628	PROP	PER	Obed
+137	14638	14638	PRON	PER	him
+137	14640	14640	PRON	PER	he
+259	14660	14662	NOM	PER	the old man
+259	14679	14679	PRON	PER	his
+858	14689	14692	NOM	LOC	the distant black reef
+0	14695	14695	PRON	PER	I
+259	14698	14698	PRON	PER	him
+259	14699	14699	PRON	PER	he
+0	14705	14705	PRON	PER	I
+0	14707	14707	PRON	PER	I
+259	14712	14712	PRON	PER	him
+0	14720	14720	PRON	PER	I
+0	14724	14724	PRON	PER	me
+0	14728	14728	PRON	PER	I
+0	14767	14767	PRON	PER	I
+0	14807	14807	PRON	PER	I
+6	14811	14811	PROP	GPE	Newburyport
+859	14823	14825	NOM	LOC	some strange island
+259	14838	14838	PRON	PER	himself
+860	14842	14844	NOM	PER	this antique toper
+0	14846	14846	PRON	PER	I
+131	14848	14848	PROP	PER	Zadok
+259	14853	14853	PRON	PER	he
+259	14865	14865	PRON	PER	he
+259	14882	14882	PRON	PER	his
+259	14888	14888	PRON	PER	He
+259	14899	14899	PRON	PER	his
+259	14910	14910	PRON	PER	himself
+0	14912	14912	PRON	PER	I
+259	14920	14920	PRON	PER	he
+0	14926	14926	PRON	PER	I
+259	14940	14940	PRON	PER	he
+0	14947	14947	PRON	PER	I
+861	14957	14958	NOM	PER	Poor Matt
+142	14958	14958	PROP	PER	Matt
+142	14960	14960	PROP	PER	Matt
+259	14961	14961	PRON	PER	he
+1709	14972	14976	NOM	PER	the folks on his side
+259	14975	14975	PRON	PER	his
+862	14984	14985	NOM	PER	the preachers
+862	14990	14990	PRON	PER	they
+1710	14992	14998	NOM	FAC	the Congregational parson aout o ’ taown
+863	15002	15004	NOM	PER	the Methodist feller
+76	15010	15011	PROP	FAC	Resolved Babcock
+1711	15013	15022	NOM	PER	the Baptist parson , agin — Wrath o ’ Jehovy
+130	15024	15024	PRON	PER	I
+1712	15026	15029	NOM	PER	a mighty little critter
+130	15032	15032	PRON	PER	I
+130	15035	15035	PRON	PER	I
+0	15041	15041	PRON	PER	I
+130	15044	15044	PROP	PER	Dagon
+77	15047	15052	PROP	FAC	Ashtoreth — Belial an ’ Beëlzebub
+78	15054	15055	PROP	FAC	Golden Caff
+1713	15058	15066	NOM	PER	the idols o ’ Canaan an ’ the Philistines
+1714	15068	15077	NOM	PER	Babylonish abominations — Mene , mene , tekel , upharsin
+259	15080	15080	PRON	PER	He
+259	15089	15089	PRON	PER	his
+130	15093	15093	PRON	PER	I
+259	15095	15095	PRON	PER	he
+130	15106	15106	PRON	PER	I
+259	15109	15109	PRON	PER	his
+259	15111	15111	PRON	PER	he
+130	15114	15114	PRON	PER	me
+130	15129	15129	PRON	PER	me
+1715	15133	15133	PRON	PER	Heh
+130	15142	15142	PRON	PER	me
+1651	15144	15145	NOM	PER	young feller
+864	15152	15155	NOM	PER	twenty odd other folks
+3	15161	15162	PROP	FAC	Devil Reef
+865	15175	15175	PRON	PER	ye
+130	15189	15189	PRON	PER	me
+0	15197	15197	PRON	PER	me
+137	15199	15199	PROP	PER	Obed
+1717	15208	15216	NOM	LOC	the deep water t’other side o ’ the reef
+1517	15215	15216	NOM	LOC	the reef
+865	15226	15226	PRON	PER	ye
+0	15231	15231	PRON	PER	me
+137	15233	15233	PRON	PER	he
+146	15243	15243	PROP	PER	Walakea
+137	15245	15245	PRON	PER	him
+867	15249	15249	NOM	PER	boy
+1718	15255	15255	PRON	PER	they
+868	15266	15268	NOM	PER	the next Hallowe’en
+1719	15274	15277	NOM	PER	the new church parsons
+1720	15279	15279	NOM	PER	fellers
+195	15284	15284	NOM	PER	sailors
+1718	15287	15287	PRON	PER	them
+147	15325	15326	PROP	PER	Old Zadok
+0	15329	15329	PRON	PER	me
+147	15334	15334	PRON	PER	he
+1722	15355	15355	PRON	PER	hey
+0	15357	15357	PRON	PER	Mebbe
+0	15363	15363	PRON	PER	me
+0	15369	15369	PRON	PER	I
+417	15376	15376	NOM	LOC	sea
+0	15383	15383	PRON	PER	my
+869	15383	15384	NOM	LOC	my haouse
+0	15388	15388	PRON	PER	I
+870	15391	15391	PRON	PER	ye
+871	15393	15397	NOM	PER	little pitchers hev big ears
+871	15401	15401	PRON	PER	I
+1541	15416	15417	NOM	PER	the folks
+1517	15420	15421	NOM	LOC	the reef
+874	15423	15423	PRON	PER	Heh
+0	15433	15433	PRON	PER	I
+0	15435	15435	PRON	PER	my
+875	15435	15436	NOM	PER	my pa
+1517	15448	15449	NOM	LOC	the reef
+1541	15470	15471	NOM	PER	the folks
+1726	15474	15475	NOM	FAC	a dory
+1727	15486	15488	NOM	LOC	the deep water
+870	15499	15499	PRON	PER	ye
+1728	15503	15519	NOM	PER	a little shaver alone up in a cupalo a - watchin ’ shapes as wa’n’t human shapes
+874	15529	15529	PRON	PER	Heh
+259	15541	15543	NOM	PER	The old man
+1728	15549	15549	PRON	PER	I
+259	15558	15558	PRON	PER	He
+1728	15564	15564	PRON	PER	my
+1728	15571	15571	PRON	PER	me
+870	15586	15586	PRON	PER	ye
+1730	15592	15597	NOM	LOC	Obed ’s dory beyond the reef
+1517	15596	15597	NOM	LOC	the reef
+1732	15606	15608	NOM	PER	a young feller
+268	15613	15613	NOM	FAC	home
+1634	15618	15618	NOM	PER	anybody
+148	15626	15628	PROP	PER	Hiram Gilman agin
+1634	15631	15631	PRON	PER	they
+149	15635	15636	PROP	PER	Nick Pierce
+80	15640	15641	PROP	FAC	Luelly Waite
+81	15645	15646	PROP	LOC	Adoniram Saouthwick
+150	15650	15651	PROP	PER	Henry Garrison
+1733	15655	15655	PRON	PER	Heh
+1634	15672	15672	PRON	PER	their
+1634	15677	15677	PRON	PER	them
+143	15687	15687	PROP	PER	Wal
+796	15689	15689	NOM	PER	Sir
+137	15695	15695	PROP	PER	Obed
+137	15700	15700	PRON	PER	his
+1524	15704	15704	NOM	PER	Folks
+137	15706	15706	PRON	PER	his
+1734	15718	15718	NOM	PER	nobody’d
+1735	15738	15739	NOM	PER	Other folks
+404	15751	15752	NOM	FAC	the harbour
+884	15764	15764	PRON	PER	we
+82	15770	15770	PROP	GPE	Newb’ryport
+7	15772	15772	PROP	GPE	Arkham
+83	15776	15776	PROP	GPE	Boston
+137	15781	15781	PROP	PER	Obed
+1736	15790	15792	NOM	PER	Some Kingsport fishermen
+1737	15795	15796	NOM	VEH	the ketch
+881	15802	15802	NOM	VEH	sloops
+882	15805	15805	PRON	PER	they
+305	15810	15810	NOM	PER	Nobody
+884	15820	15820	PRON	PER	our
+885	15820	15821	NOM	PER	our folks
+1738	15823	15828	NOM	ORG	the Esoteric Order o ’ Dagon
+886	15833	15834	NOM	FAC	Masonic Hall
+84	15836	15837	PROP	FAC	Calvary Commandery
+142	15849	15850	PROP	PER	Matt Eliot
+887	15852	15853	NOM	PER	a Mason
+142	15863	15863	PRON	PER	he
+0	15875	15875	PRON	PER	I
+137	15880	15880	PROP	PER	Obed
+888	15889	15889	PRON	PER	they
+889	15892	15894	NOM	LOC	that Kanaky isle
+0	15896	15896	PRON	PER	I
+890	15899	15899	PRON	PER	he
+1739	15911	15912	NOM	PER	no younguns
+397	15916	15917	NOM	LOC	the water
+890	15927	15927	PRON	PER	He
+891	15929	15929	PRON	PER	them
+890	15944	15944	PRON	PER	I
+1741	15946	15947	NOM	PER	the others
+1524	15979	15979	NOM	PER	folks
+1509	15996	15997	NOM	LOC	that reef
+890	15999	15999	PRON	PER	I
+890	16001	16001	PRON	PER	I
+0	16011	16011	PRON	PER	I
+892	16017	16017	PRON	PER	They
+1517	16030	16031	NOM	LOC	the reef
+890	16035	16035	PRON	PER	I
+1744	16039	16040	NOM	PER	the dories
+1745	16050	16051	NOM	PER	two others
+1746	16054	16054	NOM	FAC	gaol
+382	16102	16103	NOM	LOC	the sea
+147	16112	16112	PROP	PER	Zadok
+0	16122	16122	PRON	PER	I
+147	16124	16124	PRON	PER	him
+0	16135	16135	PRON	PER	my
+147	16157	16157	PRON	PER	him
+0	16159	16159	PRON	PER	I
+0	16180	16180	PRON	PER	I
+147	16184	16184	PRON	PER	his
+0	16194	16194	PRON	PER	I
+0	16200	16200	PRON	PER	I
+1517	16223	16224	NOM	LOC	the reef
+404	16230	16231	NOM	FAC	the harbour
+10	16233	16234	PROP	LOC	the Manuxet
+151	16239	16239	PROP	PER	God
+1749	16244	16247	NOM	FAC	the streets of Innsmouth
+2	16247	16247	PROP	GPE	Innsmouth
+1750	16253	16253	PRON	PER	they
+1751	16255	16255	PRON	PER	our
+1752	16259	16259	NOM	PER	pa
+1752	16267	16267	PRON	PER	he
+1752	16274	16274	PRON	PER	his
+152	16278	16279	PROP	PER	Selectman Mowry
+147	16284	16284	PRON	PER	he
+895	16291	16307	NOM	PER	Maounds o ’ the dead an ’ the dyin ’ . . . shots an ’ screams
+85	16314	16315	PROP	GPE	Ol’ Squar
+1753	16322	16324	NOM	FAC	New Church Green
+1746	16328	16328	NOM	FAC	gaol
+1524	16347	16347	NOM	PER	folks
+896	16354	16354	PRON	PER	our
+897	16354	16355	NOM	PER	our people
+305	16361	16361	NOM	PER	nobody
+897	16364	16364	PRON	PER	them
+137	16370	16370	PROP	PER	Obed
+897	16373	16373	PRON	PER	them
+895	16386	16386	PRON	PER	my
+875	16386	16387	NOM	PER	my pa
+259	16395	16397	NOM	PER	The old man
+259	16405	16405	PRON	PER	His
+895	16408	16408	PRON	PER	my
+897	16419	16419	PRON	PER	they
+898	16427	16427	PRON	PER	he
+896	16446	16446	PRON	PER	us
+898	16454	16454	PRON	PER	hez
+1759	16458	16458	NOM	PER	guests
+897	16462	16462	PRON	PER	they
+897	16467	16467	PRON	PER	they
+144	16470	16471	PROP	PER	the Kanakys
+898	16475	16475	PRON	PER	he
+137	16490	16490	PROP	PER	Obed
+1760	16496	16501	NOM	PER	a crazy man on the subjeck
+137	16503	16503	PRON	PER	He
+897	16505	16505	PRON	PER	they
+896	16507	16507	PRON	PER	us
+1761	16516	16516	PRON	PER	hev
+897	16518	16518	PRON	PER	they
+1762	16532	16533	NOM	LOC	the aoutside
+896	16536	16536	PRON	PER	we
+1763	16540	16543	NOM	PER	shy o ’ strangers
+596	16543	16543	NOM	PER	strangers
+896	16545	16545	PRON	PER	we
+896	16551	16551	PRON	PER	us
+896	16553	16553	PRON	PER	We
+898	16555	16555	PRON	PER	he
+130	16563	16563	PROP	GPE	Dagon
+900	16569	16569	PRON	PER	they
+901	16578	16580	NOM	PER	some on us
+896	16580	16580	PRON	PER	us
+902	16583	16583	PRON	PER	Them
+902	16605	16605	PRON	PER	they
+902	16613	16613	PRON	PER	They
+902	16629	16629	PRON	PER	they
+902	16638	16638	PRON	PER	they
+896	16647	16647	PRON	PER	We
+1764	16650	16650	PRON	PER	hev
+902	16651	16651	PRON	PER	them
+86	16661	16663	PROP	LOC	the Saouth Sea
+902	16668	16668	PRON	PER	them
+144	16669	16669	PROP	PER	Kanakys
+902	16674	16674	PRON	PER	their
+902	16695	16695	PRON	PER	they
+902	16701	16701	PRON	PER	they
+903	16710	16711	NOM	PER	no strangers
+904	16715	16716	NOM	LOC	tales aoutside
+902	16722	16722	PRON	PER	they
+1765	16727	16738	NOM	PER	All in the band of the faithful — Order o ’ Dagon
+1766	16742	16744	NOM	PER	the children shud
+130	16757	16758	PROP	PER	Father Dagon
+905	16760	16760	PRON	PER	we
+153	16770	16771	PROP	PER	Cthulhu fhtagn
+906	16775	16775	PRON	PER	Cthulhu
+147	16783	16784	PROP	PER	Old Zadok
+0	16793	16793	PRON	PER	I
+0	16795	16795	PRON	PER	my
+907	16798	16800	NOM	PER	Poor old soul
+147	16809	16809	PRON	PER	his
+147	16813	16813	PRON	PER	his
+147	16824	16824	PRON	PER	him
+147	16833	16833	PRON	PER	He
+147	16844	16844	PRON	PER	his
+147	16851	16851	PRON	PER	his
+151	16855	16855	PROP	PER	God
+0	16858	16858	PRON	PER	I
+0	16861	16861	PRON	PER	I
+1767	16874	16875	NOM	PER	upharsin!—the folks
+1767	16883	16883	PRON	PER	them
+1767	16888	16888	PRON	PER	them
+7	16893	16893	PROP	GPE	Arkham
+13	16895	16895	PROP	GPE	Ipswich
+1768	16905	16905	PRON	PER	you
+151	16911	16911	PRON	PER	me
+151	16916	16916	PROP	PER	God
+151	16919	16919	PRON	PER	I
+1767	16922	16922	PRON	PER	They
+151	16926	16926	PRON	PER	me
+151	16931	16931	PRON	PER	I
+151	16935	16935	PRON	PER	I
+130	16947	16947	PROP	PER	Dagon
+130	16960	16960	PRON	PER	I
+130	16972	16972	PRON	PER	I
+130	16979	16979	PRON	PER	I’d
+1769	16996	17002	NOM	PER	children born senct ’ forty - six
+130	17015	17015	PRON	PER	I
+1769	17036	17036	PRON	PER	them
+130	17042	17042	PRON	PER	my
+1770	17049	17053	NOM	PER	no full - blooded one
+130	17055	17055	PRON	PER	I
+0	17064	17064	PRON	PER	I
+0	17072	17072	PRON	PER	I
+1524	17086	17086	NOM	PER	folks
+0	17088	17088	PRON	PER	me
+0	17096	17096	PRON	PER	I
+909	17101	17103	NOM	PER	gov’munt draft men
+240	17123	17123	NOM	PER	People
+910	17132	17134	NOM	FAC	shops shet daown
+404	17141	17142	NOM	FAC	the harbour
+1524	17151	17151	PRON	PER	they
+1524	17155	17155	PRON	PER	they
+411	17166	17167	NOM	LOC	the river
+1773	17169	17174	NOM	FAC	that cursed reef o ’ Satan
+912	17181	17183	NOM	PER	more attic winders
+913	17205	17205	PRON	PER	hev
+305	17206	17206	NOM	PER	nobody
+1524	17214	17214	NOM	PER	Folks
+1524	17217	17217	PRON	PER	their
+1775	17220	17220	PRON	PER	us
+1776	17223	17223	PRON	PER	you
+1776	17235	17235	PRON	PER	ye
+1524	17241	17241	PRON	PER	they
+915	17276	17276	NOM	PER	Nobody’ll
+1524	17280	17280	PRON	PER	They
+916	17282	17282	PRON	PER	them
+278	17293	17295	NOM	PER	the Innsmouth folks
+278	17307	17307	PRON	PER	them
+1778	17307	17318	NOM	PER	them that lives here shoo off as many strangers as they kin
+596	17315	17315	NOM	PER	strangers
+278	17317	17317	PRON	PER	they
+917	17323	17324	NOM	PER	the rest
+154	17336	17336	PROP	PER	Beasts
+154	17348	17348	PRON	PER	they
+137	17362	17363	PROP	PER	Cap’n Obed
+1780	17365	17368	NOM	PER	a second wife that
+1781	17369	17372	NOM	PER	nobody in the taown
+137	17378	17378	PRON	PER	he
+1524	17389	17389	PRON	PER	them
+137	17391	17391	PRON	PER	he
+1782	17397	17398	NOM	PER	three children
+918	17400	17400	PRON	PER	her
+1783	17408	17414	NOM	PER	one gal as looked like anybody else
+87	17420	17420	PROP	GPE	Europe
+137	17422	17422	PROP	PER	Obed
+918	17425	17425	PRON	PER	her
+919	17432	17434	NOM	PER	an Arkham feller
+305	17442	17442	NOM	PER	nobody
+921	17444	17444	PRON	PER	hev
+2	17449	17449	PROP	GPE	Innsmouth
+1524	17450	17450	NOM	PER	folks
+155	17453	17454	PROP	PER	Barnabas Marsh
+923	17457	17459	NOM	FAC	the refin’ry naow
+137	17461	17461	PROP	PER	Obed
+924	17461	17463	NOM	PER	Obed ’s grandson
+137	17465	17465	PRON	PER	his
+925	17465	17467	NOM	PER	his fust wife
+926	17469	17471	NOM	PER	son of Onesiphorus
+156	17471	17471	PROP	PER	Onesiphorus
+137	17473	17473	PRON	PER	his
+927	17473	17475	NOM	PER	his eldest son
+155	17478	17478	PRON	PER	his
+249	17478	17479	NOM	PER	his mother
+1524	17484	17484	PRON	PER	them
+155	17493	17494	PROP	PER	naow Barnabas
+137	17502	17502	PRON	PER	his
+1524	17516	17516	PRON	PER	They
+137	17518	17518	PRON	PER	he
+137	17524	17524	PRON	PER	he
+397	17528	17529	NOM	LOC	the water
+1785	17532	17532	PRON	PER	Mebbe
+137	17533	17533	PRON	PER	he
+1524	17539	17539	PRON	PER	they
+1524	17548	17548	PRON	PER	they
+157	17567	17567	PROP	PER	Dun’t
+137	17570	17570	PRON	PER	his
+929	17570	17572	NOM	PER	his poor wife
+929	17576	17576	PRON	PER	she
+13	17579	17579	PROP	GPE	Ipswich
+1524	17583	17583	PRON	PER	they
+155	17586	17586	PROP	PER	Barnabas
+137	17588	17588	PRON	PER	he
+929	17590	17590	PRON	PER	her
+137	17598	17598	PRON	PER	he
+930	17608	17611	NOM	PER	all the next gen’ration
+931	17616	17618	NOM	PER	the fust wife
+932	17616	17620	NOM	PER	the fust wife ’s children
+917	17625	17626	NOM	PER	the rest
+259	17656	17658	NOM	PER	the old man
+259	17668	17668	PRON	PER	He
+259	17680	17680	PRON	PER	his
+1517	17685	17686	NOM	LOC	the reef
+259	17694	17694	PRON	PER	his
+929	17697	17697	PRON	PER	I
+259	17704	17704	PRON	PER	his
+147	17708	17708	PROP	PER	Zadok
+147	17721	17721	PRON	PER	his
+1789	17730	17730	PRON	PER	yew
+1789	17734	17734	PRON	PER	ye
+1789	17739	17739	PRON	PER	ye
+933	17746	17749	NOM	FAC	a taown like this
+1790	17790	17790	NOM	FAC	attics
+1789	17793	17793	PRON	PER	ye
+1789	17799	17799	PRON	PER	ye
+694	17810	17811	NOM	FAC	the churches
+55	17817	17818	PROP	FAC	Dagon Hall
+1789	17834	17834	PRON	PER	ye
+1791	17841	17850	NOM	LOC	that awful reef every May - Eve an ’ Hallowmass
+259	17855	17857	NOM	PER	the old man
+143	17863	17863	PROP	GPE	Wal
+796	17865	17865	NOM	PER	Sir
+0	17868	17868	PRON	PER	me
+143	17870	17870	PRON	PER	ye
+147	17878	17878	PROP	PER	Zadok
+147	17889	17889	PRON	PER	his
+0	17892	17892	PRON	PER	me
+0	17895	17895	PRON	PER	I
+143	17902	17902	PRON	PER	ye
+937	17906	17906	PRON	PER	thar
+147	17912	17912	PRON	PER	me
+937	17914	17914	PRON	PER	them
+147	17917	17917	PRON	PER	I
+121	17919	17920	PROP	PER	Obed Marsh
+121	17921	17921	PRON	PER	he
+938	17928	17928	PRON	PER	hez
+939	17934	17934	PRON	PER	Heh
+939	17936	17936	PRON	PER	heh
+0	17943	17943	PRON	PER	I
+0	17949	17949	PRON	PER	me
+0	17951	17951	PRON	PER	I
+305	17957	17957	NOM	PER	nobody
+143	17963	17963	PRON	PER	you
+1651	17965	17966	NOM	PER	young feller
+143	17968	17968	PROP	PER	Wal
+0	17972	17972	PRON	PER	I
+305	17975	17975	NOM	PER	nobody
+0	17979	17979	PRON	PER	I
+143	17987	17987	PRON	PER	You
+0	17995	17995	PRON	PER	me
+867	17997	17997	NOM	PER	boy
+0	18002	18002	PRON	PER	I
+305	18007	18007	NOM	PER	nobody
+0	18012	18012	PRON	PER	I
+0	18014	18014	PRON	PER	I
+0	18026	18026	PRON	PER	I
+143	18035	18035	PRON	PER	Yew
+1792	18045	18045	PRON	PER	hey
+143	18047	18047	PROP	PER	Wal
+945	18057	18057	PRON	PER	them
+945	18060	18060	PRON	PER	hez
+945	18065	18065	PRON	PER	they
+945	18073	18073	PRON	PER	They
+945	18085	18085	PRON	PER	they
+945	18105	18105	PRON	PER	Them
+946	18110	18113	NOM	LOC	the river betwixt Water
+89	18116	18117	PROP	FAC	Main Streets
+945	18123	18123	PRON	PER	them
+945	18128	18128	PRON	PER	they
+945	18134	18134	PRON	PER	they
+0	18141	18141	PRON	PER	I
+945	18145	18145	PRON	PER	they
+947	18164	18164	PRON	PER	d’ye
+0	18166	18166	PRON	PER	me
+0	18168	18168	PRON	PER	I
+948	18170	18170	PRON	PER	ye
+0	18171	18171	PRON	PER	I
+945	18174	18174	PRON	PER	them
+0	18178	18178	PRON	PER	I
+259	18206	18208	NOM	PER	the old man
+0	18213	18213	PRON	PER	me
+259	18216	18216	PRON	PER	His
+0	18221	18221	PRON	PER	me
+1794	18223	18225	NOM	LOC	the malodorous sea
+259	18231	18231	PRON	PER	his
+259	18235	18235	PRON	PER	his
+259	18247	18247	PRON	PER	His
+0	18253	18253	PRON	PER	my
+259	18257	18257	PRON	PER	he
+0	18262	18262	PRON	PER	I
+0	18264	18264	PRON	PER	my
+259	18270	18270	PRON	PER	he
+0	18278	18278	PRON	PER	I
+1795	18289	18302	NOM	PER	one set of ripples more local than the long - flung line of breakers
+147	18306	18306	PROP	PER	Zadok
+0	18309	18309	PRON	PER	me
+0	18312	18312	PRON	PER	I
+259	18336	18336	PRON	PER	his
+1796	18360	18360	PRON	PER	They
+1797	18362	18362	PRON	PER	us
+0	18367	18367	PRON	PER	your
+949	18399	18401	NOM	FAC	the bygone wharf
+950	18405	18407	NOM	PER	the mad ancient
+0	18434	18434	PRON	PER	I
+0	18437	18437	PRON	PER	my
+950	18440	18440	PRON	PER	he
+950	18443	18443	PRON	PER	his
+0	18446	18446	PRON	PER	my
+318	18453	18454	NOM	FAC	the street
+952	18459	18462	NOM	FAC	the ruined warehouse wall
+0	18464	18464	PRON	PER	I
+382	18468	18469	NOM	LOC	the sea
+0	18479	18479	PRON	PER	I
+53	18481	18482	PROP	FAC	Water Street
+53	18486	18486	PRON	FAC	it
+131	18496	18499	PROP	PER	Zadok Allen . IV
+0	18501	18501	PRON	PER	I
+0	18509	18509	PRON	PER	I
+685	18529	18531	NOM	PER	The grocery boy
+0	18534	18534	PRON	PER	me
+0	18542	18542	PRON	PER	me
+131	18556	18557	PROP	PER	old Zadok
+0	18566	18566	PRON	PER	me
+0	18573	18573	PRON	PER	my
+1577	18579	18580	NOM	GPE	the town
+1577	18582	18582	PRON	GPE	its
+0	18589	18589	PRON	PER	I
+0	18604	18604	PRON	PER	I
+0	18611	18611	PRON	PER	my
+0	18621	18621	PRON	PER	my
+956	18627	18629	NOM	VEH	the Arkham bus
+90	18631	18632	PROP	FAC	Town Square
+0	18637	18637	PRON	PER	I
+0	18641	18641	PRON	PER	my
+957	18656	18664	NOM	FAC	the deserted streets of gaping roofs and leaning houses
+958	18663	18664	NOM	FAC	leaning houses
+959	18666	18673	NOM	FAC	the hotel where I had checked my valise
+0	18669	18669	PRON	PER	I
+0	18672	18672	PRON	PER	my
+0	18677	18677	PRON	PER	my
+960	18677	18678	NOM	VEH	my bus
+0	18702	18702	PRON	PER	I
+0	18708	18708	PRON	PER	my
+0	18714	18714	PRON	PER	I
+2	18729	18729	PROP	GPE	Innsmouth
+961	18735	18748	NOM	VEH	some other vehicle than the bus driven by that sinister - looking fellow Sargent
+962	18739	18742	NOM	VEH	the bus driven by
+963	18743	18748	NOM	PER	that sinister - looking fellow Sargent
+117	18748	18748	PROP	PER	Sargent
+0	18751	18751	PRON	PER	I
+964	18766	18768	NOM	FAC	every silent corner
+0	18771	18771	PRON	PER	I
+0	18775	18775	PRON	PER	I
+693	18789	18791	NOM	PER	the grocery youth
+0	18798	18798	PRON	PER	I
+0	18804	18804	PRON	PER	I
+91	18806	18807	PROP	FAC	Marsh Street
+92	18810	18810	PROP	GPE	State
+0	18812	18812	PRON	PER	my
+90	18815	18816	PROP	FAC	Town Square
+966	18819	18823	NOM	FAC	the corner of Fall Street
+967	18822	18823	NOM	FAC	Fall Street
+0	18824	18824	PRON	PER	I
+968	18828	18832	NOM	PER	scattered groups of furtive whisperers
+969	18831	18832	NOM	PER	furtive whisperers
+0	18836	18836	PRON	PER	I
+223	18839	18840	NOM	FAC	the Square
+0	18841	18841	PRON	PER	I
+971	18844	18847	NOM	PER	almost all the loiterers
+22	18854	18856	PROP	FAC	the Gilman House
+0	18872	18872	PRON	PER	me
+0	18874	18874	PRON	PER	I
+0	18876	18876	PRON	PER	my
+972	18879	18880	NOM	FAC	the lobby
+0	18883	18883	PRON	PER	I
+973	18886	18890	NOM	PER	none of these unpleasant creatures
+0	18893	18893	PRON	PER	my
+974	18893	18899	NOM	PER	my fellow - passengers on the coach
+457	18898	18899	NOM	VEH	the coach
+341	18901	18902	NOM	VEH	The bus
+326	18910	18911	NOM	PER	three passengers
+978	18917	18924	NOM	PER	an evil - looking fellow on the sidewalk
+979	18923	18924	NOM	FAC	the sidewalk
+329	18931	18932	NOM	PER	the driver
+117	18934	18934	PROP	PER	Sargent
+565	18949	18950	NOM	FAC	the hotel
+982	18953	18954	NOM	PER	the passengers
+983	18956	18965	NOM	PER	the same men whom I had seen arriving in Newburyport
+0	18960	18960	PRON	PER	I
+6	18965	18965	PROP	GPE	Newburyport
+979	18971	18972	NOM	FAC	the sidewalk
+0	18985	18985	PRON	PER	I
+0	18993	18993	PRON	PER	I
+985	18995	18997	NOM	VEH	the empty coach
+0	19003	19003	PRON	PER	I
+117	19013	19013	PROP	PER	Sargent
+0	19026	19026	PRON	PER	I
+986	19043	19044	NOM	VEH	the engine
+6	19052	19052	PROP	GPE	Newburyport
+341	19055	19056	NOM	VEH	the bus
+7	19063	19063	PROP	GPE	Arkham
+2	19087	19087	PROP	GPE	Innsmouth
+7	19091	19091	PROP	GPE	Arkham
+117	19095	19095	PROP	PER	Sargent
+0	19100	19100	PRON	PER	I
+23	19107	19108	PROP	FAC	the Gilman
+1572	19111	19112	NOM	PER	the clerk
+0	19119	19119	PRON	PER	me
+989	19144	19150	NOM	GPE	this decaying and half - unlighted town
+0	19152	19152	PRON	PER	I
+341	19154	19155	NOM	VEH	the bus
+991	19158	19160	NOM	FAC	the hotel lobby
+992	19163	19170	NOM	PER	the sullen , queer - looking night clerk
+0	19172	19172	PRON	PER	me
+0	19173	19173	PRON	PER	I
+993	19176	19177	NOM	FAC	Room 428
+994	19179	19182	NOM	FAC	next the top floor
+0	19197	19197	PRON	PER	I
+995	19201	19204	NOM	FAC	this hotel in Newburyport
+6	19204	19204	PROP	GPE	Newburyport
+0	19206	19206	PRON	PER	I
+0	19212	19212	PRON	PER	my
+1572	19216	19217	NOM	PER	the clerk
+0	19219	19219	PRON	PER	my
+997	19224	19228	NOM	PER	that sour , solitary attendant
+998	19230	19234	NOM	FAC	three creaking flights of stairs
+999	19236	19243	NOM	FAC	dusty corridors which seemed wholly devoid of life
+0	19245	19245	PRON	PER	My
+1000	19245	19246	NOM	FAC	My room
+1001	19248	19289	NOM	FAC	a dismal rear one with two windows and bare , cheap furnishings , overlooked a dingy courtyard otherwise hemmed in by low , deserted brick blocks , and commanded a view of decrepit westward - stretching roofs with a marshy countryside beyond
+1002	19262	19273	NOM	FAC	a dingy courtyard otherwise hemmed in by low , deserted brick blocks
+1003	19286	19289	NOM	LOC	a marshy countryside beyond
+1004	19295	19296	NOM	FAC	the corridor
+1005	19298	19299	NOM	FAC	a bathroom
+0	19331	19331	PRON	PER	I
+223	19334	19335	NOM	FAC	the Square
+0	19348	19348	PRON	PER	I
+0	19354	19354	PRON	PER	I
+1007	19357	19359	NOM	PER	the unwholesome loafers
+1008	19362	19363	NOM	FAC	the grocery
+0	19367	19367	PRON	PER	I
+1009	19372	19377	NOM	FAC	the restaurant I had shunned before
+0	19374	19374	PRON	PER	I
+1010	19379	19390	NOM	PER	a stooped , narrow - headed man with staring , unwinking eyes
+1011	19393	19406	NOM	PER	a flat - nosed wench with unbelievably thick , clumsy hands being in attendance
+0	19419	19419	PRON	PER	me
+0	19442	19442	PRON	PER	me
+0	19445	19445	PRON	PER	I
+0	19450	19450	PRON	PER	my
+1012	19450	19455	NOM	FAC	my cheerless room at the Gilman
+23	19454	19455	PROP	FAC	the Gilman
+1013	19466	19477	NOM	PER	the evil - visaged clerk at the rickety stand beside his desk
+1013	19476	19476	PRON	PER	his
+0	19482	19482	PRON	PER	I
+0	19503	19503	PRON	PER	I
+0	19509	19509	PRON	PER	I
+0	19513	19513	PRON	PER	I
+0	19519	19519	PRON	PER	my
+1014	19535	19541	NOM	GPE	this ancient , blight - shadowed town
+0	19543	19543	PRON	PER	I
+1014	19547	19547	PRON	GPE	its
+1015	19547	19548	NOM	LOC	its borders
+0	19553	19553	PRON	PER	I
+1016	19557	19559	NOM	PER	the aged drunkard
+0	19568	19568	PRON	PER	I
+0	19570	19570	PRON	PER	I
+1016	19576	19576	PRON	PER	his
+0	19586	19586	PRON	PER	my
+0	19591	19591	PRON	PER	I
+1017	19597	19599	NOM	PER	that factory inspector
+1018	19602	19606	NOM	PER	the Newburyport ticket - agent
+758	19608	19610	NOM	FAC	the Gilman House
+758	19615	19615	PRON	FAC	its
+1020	19615	19617	NOM	PER	its nocturnal tenants
+1021	19631	19634	NOM	FAC	the black church doorway
+0	19641	19641	PRON	PER	my
+0	19656	19656	PRON	PER	my
+1022	19662	19663	NOM	FAC	the room
+1577	19680	19681	NOM	GPE	the town
+0	19701	19701	PRON	PER	me
+0	19712	19712	PRON	PER	my
+1000	19712	19713	NOM	FAC	my room
+0	19753	19753	PRON	PER	my
+0	19755	19755	PRON	PER	I
+0	19798	19798	PRON	PER	I
+0	19800	19800	PRON	PER	myself
+1025	19806	19808	NOM	FAC	the vacant place
+0	19827	19827	PRON	PER	I
+0	19830	19830	PRON	PER	my
+0	19841	19841	PRON	PER	I
+0	19846	19846	PRON	PER	I
+0	19849	19849	PRON	PER	I
+0	19859	19859	PRON	PER	I
+1026	19893	19894	NOM	FAC	connecting rooms
+0	19898	19898	PRON	PER	I
+0	19903	19903	PRON	PER	I
+0	19913	19913	PRON	PER	I
+0	19922	19922	PRON	PER	my
+0	19936	19936	PRON	PER	my
+0	19939	19939	PRON	PER	I
+0	19943	19943	PRON	PER	my
+0	19948	19948	PRON	PER	I
+0	19951	19951	PRON	PER	my
+0	19954	19954	PRON	PER	I
+0	19972	19972	PRON	PER	I
+0	19976	19976	PRON	PER	my
+0	19978	19978	PRON	PER	I
+0	19981	19981	PRON	PER	my
+0	19984	19984	PRON	PER	I
+0	19996	19996	PRON	PER	I
+1027	20003	20004	NOM	PER	That inspector
+0	20011	20011	PRON	PER	my
+0	20016	20016	PRON	PER	I
+0	20021	20021	PRON	PER	I
+0	20029	20029	PRON	PER	I
+0	20037	20037	PRON	PER	I
+1028	20044	20044	NOM	FAC	corridors
+1029	20056	20058	NOM	FAC	the other rooms
+0	20075	20075	PRON	PER	me
+0	20086	20086	PRON	PER	I
+0	20095	20095	PRON	PER	I
+1030	20104	20105	NOM	GPE	This town
+1031	20107	20109	NOM	PER	some queer people
+1032	20120	20131	NOM	FAC	this one of those inns where travellers were slain for their money
+1033	20123	20131	NOM	FAC	those inns where travellers were slain for their money
+1034	20126	20126	NOM	PER	travellers
+1034	20130	20130	PRON	PER	their
+0	20134	20134	PRON	PER	I
+1035	20144	20145	NOM	PER	the townsfolk
+1036	20150	20151	NOM	PER	curious visitors
+0	20154	20154	PRON	PER	my
+0	20172	20172	PRON	PER	me
+0	20174	20174	PRON	PER	I
+0	20189	20189	PRON	PER	me
+0	20197	20197	PRON	PER	I
+0	20203	20203	PRON	PER	I
+0	20221	20221	PRON	PER	I
+0	20236	20236	PRON	PER	myself
+0	20275	20275	PRON	PER	me
+0	20277	20277	PRON	PER	I
+0	20280	20280	PRON	PER	I
+0	20335	20335	PRON	PER	my
+0	20349	20349	PRON	PER	my
+0	20366	20366	PRON	PER	My
+0	20384	20384	PRON	PER	my
+0	20389	20389	PRON	PER	I
+0	20400	20400	PRON	PER	my
+0	20407	20407	PRON	PER	my
+0	20444	20444	PRON	PER	me
+0	20458	20458	PRON	PER	me
+0	20472	20472	PRON	PER	I
+0	20478	20478	PRON	PER	I
+1037	20484	20488	NOM	PER	the would - be intruder
+0	20502	20502	PRON	PER	I
+1038	20504	20508	NOM	FAC	the room to the north
+0	20524	20524	PRON	PER	my
+1000	20524	20525	NOM	FAC	my room
+0	20538	20538	PRON	PER	I
+1040	20544	20545	NOM	PER	the prowler
+1022	20547	20548	NOM	FAC	the room
+0	20560	20560	PRON	PER	I
+1042	20563	20569	NOM	FAC	the room to the south of me
+0	20569	20569	PRON	PER	me
+1043	20596	20597	NOM	FAC	the hall
+0	20604	20604	PRON	PER	I
+1040	20607	20608	NOM	PER	the prowler
+0	20615	20615	PRON	PER	my
+1040	20621	20621	PRON	PER	his
+0	20640	20640	PRON	PER	I
+0	20649	20649	PRON	PER	I
+0	20669	20669	PRON	PER	I
+1045	20672	20674	NOM	PER	the unseen fumbler
+1046	20707	20708	NOM	FAC	that hotel
+0	20713	20713	PRON	PER	I
+1047	20726	20726	NOM	FAC	lobby
+0	20732	20732	PRON	PER	my
+0	20738	20738	PRON	PER	I
+0	20745	20745	PRON	PER	my
+0	20769	20769	PRON	PER	I
+0	20796	20796	PRON	PER	I
+0	20802	20802	PRON	PER	I
+0	20806	20806	PRON	PER	my
+0	20813	20813	PRON	PER	I
+0	20825	20825	PRON	PER	I
+0	20836	20836	PRON	PER	I
+0	20867	20867	PRON	PER	I
+1048	20874	20876	NOM	PER	the factory inspector
+1049	20883	20887	NOM	FAC	this mouldering and pestilential building
+0	20891	20891	PRON	PER	my
+0	20899	20899	PRON	PER	I
+0	20902	20902	PRON	PER	my
+1050	20916	20917	NOM	GPE	the state
+1051	20923	20931	NOM	FAC	no fire escape on this side of the hotel
+565	20930	20931	NOM	FAC	the hotel
+0	20934	20934	PRON	PER	I
+0	20937	20937	PRON	PER	my
+1053	20948	20950	NOM	FAC	the cobbled courtyard
+1054	20960	20968	NOM	FAC	some ancient brick business blocks abutted on the hotel
+565	20967	20968	NOM	FAC	the hotel
+1054	20970	20970	PRON	FAC	their
+0	20981	20981	PRON	PER	my
+1056	20981	20985	NOM	FAC	my fourth - story level
+1057	20991	20994	NOM	FAC	these lines of buildings
+0	20995	20995	PRON	PER	I
+1058	21001	21007	NOM	FAC	a room two doors from my own
+0	21006	21006	PRON	PER	my
+0	21025	21025	PRON	PER	my
+0	21034	21034	PRON	PER	I
+0	21041	21041	PRON	PER	I
+0	21045	21045	PRON	PER	I
+1004	21052	21053	NOM	FAC	the corridor
+0	21056	21056	PRON	PER	my
+1060	21069	21071	NOM	FAC	the desired room
+0	21076	21076	PRON	PER	My
+1061	21100	21101	NOM	FAC	the rooms
+0	21109	21109	PRON	PER	I
+0	21117	21117	PRON	PER	my
+0	21129	21129	PRON	PER	me
+0	21133	21133	PRON	PER	I
+1062	21145	21146	NOM	FAC	the house
+1062	21148	21148	PRON	FAC	its
+0	21152	21152	PRON	PER	I
+0	21154	21154	PRON	PER	I
+0	21161	21161	PRON	PER	I
+0	21191	21191	PRON	PER	me
+0	21198	21198	PRON	PER	My
+0	21202	21202	PRON	PER	I
+0	21224	21224	PRON	PER	I
+0	21227	21227	PRON	PER	my
+1577	21266	21267	NOM	GPE	the town
+0	21272	21272	PRON	PER	my
+1064	21281	21283	NOM	FAC	the abutting buildings
+685	21299	21301	NOM	PER	the grocery boy
+1520	21310	21310	NOM	GPE	town
+0	21314	21314	PRON	PER	I
+1022	21326	21327	NOM	FAC	the room
+0	21335	21335	PRON	PER	my
+0	21339	21339	PRON	PER	I
+1068	21364	21364	PRON	FAC	it
+0	21369	21369	PRON	PER	I
+1068	21375	21375	PRON	FAC	it
+1069	21388	21390	NOM	FAC	the next room
+0	21403	21403	PRON	PER	me
+0	21423	21423	PRON	PER	I
+0	21427	21427	PRON	PER	my
+0	21431	21431	PRON	PER	I
+1070	21437	21441	NOM	FAC	the buildings in Paine Street
+62	21440	21441	PROP	FAC	Paine Street
+0	21450	21450	PRON	PER	I
+1071	21455	21456	NOM	FAC	the courtyard
+1072	21458	21462	NOM	FAC	the adjacent or opposite buildings
+44	21464	21464	PROP	GPE	Washington
+93	21466	21466	PROP	GPE	Bates
+94	21472	21472	PROP	GPE	Paine
+44	21478	21478	PROP	GPE	Washington
+0	21484	21484	PRON	PER	I
+44	21489	21489	PROP	GPE	Washington
+1073	21496	21499	NOM	GPE	the Town Square region
+0	21501	21501	PRON	PER	My
+94	21507	21507	PROP	GPE	Paine
+1570	21510	21512	NOM	FAC	the fire station
+0	21521	21521	PRON	PER	I
+0	21526	21526	PRON	PER	I
+1075	21530	21537	NOM	LOC	the squalid sea of decaying roofs below me
+0	21537	21537	PRON	PER	me
+1076	21559	21562	NOM	LOC	the river - gorge
+1077	21567	21568	NOM	FAC	abandoned factories
+1078	21570	21571	NOM	FAC	railway station
+1079	21582	21584	NOM	FAC	the rusted railway
+1080	21586	21588	NOM	FAC	the Rowley road
+1081	21592	21607	NOM	LOC	a flat , marshy terrain dotted with islets of higher and dryer scrub - grown land
+1082	21599	21607	NOM	LOC	islets of higher and dryer scrub - grown land
+1083	21612	21616	NOM	LOC	the creek - threaded countryside
+1084	21620	21624	NOM	FAC	the narrow road to Ipswich
+13	21624	21624	PROP	GPE	Ipswich
+0	21631	21631	PRON	PER	I
+0	21636	21636	PRON	PER	my
+565	21639	21640	NOM	FAC	the hotel
+7	21645	21645	PROP	GPE	Arkham
+1086	21645	21651	NOM	GPE	Arkham which I had determined to take
+0	21647	21647	PRON	PER	I
+0	21653	21653	PRON	PER	I
+0	21659	21659	PRON	PER	I
+0	21670	21670	PRON	PER	I
+0	21678	21678	PRON	PER	I
+0	21705	21705	PRON	PER	my
+1004	21712	21713	NOM	FAC	the corridor
+0	21738	21738	PRON	PER	my
+0	21745	21745	PRON	PER	I
+0	21748	21748	PRON	PER	my
+0	21764	21764	PRON	PER	my
+0	21786	21786	PRON	PER	I
+0	21808	21808	PRON	PER	myself
+0	21823	21823	PRON	PER	I
+0	21833	21833	PRON	PER	my
+0	21839	21839	PRON	PER	my
+0	21842	21842	PRON	PER	I
+0	21852	21852	PRON	PER	my
+0	21868	21868	PRON	PER	I
+0	21873	21873	PRON	PER	I
+0	21903	21903	PRON	PER	I
+1088	21905	21906	NOM	PER	those outside
+1089	21929	21935	NOM	FAC	the rooms on both sides of me
+0	21935	21935	PRON	PER	me
+0	21944	21944	PRON	PER	I
+0	21962	21962	PRON	PER	I
+0	21965	21965	PRON	PER	I
+1090	21971	21973	NOM	FAC	the third room
+1091	21975	21987	NOM	FAC	the one from whose window I had hoped to reach the roof below
+0	21980	21980	PRON	PER	I
+0	22000	22000	PRON	PER	I
+0	22006	22006	PRON	PER	my
+1092	22009	22014	NOM	FAC	a chamber with no window egress
+0	22026	22026	PRON	PER	me
+1093	22044	22054	NOM	PER	the intruder who had lately tried my door from this room
+0	22050	22050	PRON	PER	my
+1094	22053	22054	NOM	FAC	this room
+0	22067	22067	PRON	PER	I
+1095	22101	22103	NOM	FAC	this second room
+0	22123	22123	PRON	PER	me
+0	22124	22124	PRON	PER	my
+0	22132	22132	PRON	PER	me
+0	22144	22144	PRON	PER	I
+0	22150	22150	PRON	PER	my
+0	22165	22165	PRON	PER	My
+0	22178	22178	PRON	PER	I
+0	22183	22183	PRON	PER	I
+0	22192	22192	PRON	PER	I
+0	22201	22201	PRON	PER	I
+0	22205	22205	PRON	PER	I
+0	22225	22225	PRON	PER	I
+1096	22233	22237	NOM	PER	the bulk of my assailants
+0	22236	22236	PRON	PER	my
+1097	22236	22237	NOM	PER	my assailants
+1098	22240	22242	NOM	FAC	the southerly room
+0	22270	22270	PRON	PER	I
+1043	22302	22303	NOM	FAC	the hall
+0	22306	22306	PRON	PER	I
+0	22353	22353	PRON	PER	I
+0	22356	22356	PRON	PER	I
+0	22366	22366	PRON	PER	me
+0	22368	22368	PRON	PER	I
+1100	22379	22382	NOM	FAC	the Paine Street block
+0	22390	22390	PRON	PER	my
+0	22401	22401	PRON	PER	my
+0	22404	22404	PRON	PER	I
+1101	22408	22412	NOM	PER	not one of my pursuers
+0	22411	22411	PRON	PER	my
+1102	22411	22412	NOM	PER	my pursuers
+0	22438	22438	PRON	PER	I
+0	22447	22447	PRON	PER	I
+1004	22453	22454	NOM	FAC	the corridor
+1104	22456	22460	NOM	FAC	the room north of me
+0	22460	22460	PRON	PER	me
+1105	22473	22476	NOM	PER	most of my opponents
+0	22475	22475	PRON	PER	my
+1106	22475	22476	NOM	PER	my opponents
+1105	22487	22487	PRON	PER	they
+0	22493	22493	PRON	PER	me
+1107	22501	22506	NOM	LOC	the ridgepole of the block below
+1108	22504	22506	NOM	FAC	the block below
+0	22509	22509	PRON	PER	I
+0	22525	22525	PRON	PER	I
+0	22533	22533	PRON	PER	I
+0	22543	22543	PRON	PER	my
+1109	22569	22572	NOM	FAC	the decrepit brick structures
+0	22573	22573	PRON	PER	I
+0	22582	22582	PRON	PER	I
+1110	22595	22597	NOM	FAC	the shadowed courtyard
+50	22602	22603	PROP	FAC	Washington Street
+1520	22608	22608	NOM	GPE	town
+0	22625	22625	PRON	PER	I
+1112	22638	22639	NOM	PER	the besiegers
+1113	22653	22654	NOM	FAC	The bedstead
+0	22664	22664	PRON	PER	I
+0	22674	22674	PRON	PER	my
+0	22678	22678	PRON	PER	I
+0	22682	22682	PRON	PER	I
+0	22726	22726	PRON	PER	I
+0	22768	22768	PRON	PER	I
+0	22780	22780	PRON	PER	my
+0	22797	22797	PRON	PER	I
+0	22800	22800	PRON	PER	me
+758	22810	22812	NOM	FAC	the Gilman House
+0	22814	22814	PRON	PER	I
+0	22843	22843	PRON	PER	I
+0	22847	22847	PRON	PER	I
+0	22863	22863	PRON	PER	I
+695	22870	22874	NOM	FAC	the Order of Dagon Hall
+55	22873	22874	PROP	FAC	Dagon Hall
+1116	22876	22878	NOM	FAC	the Baptist church
+1117	22881	22883	NOM	ORG	the Congregational church
+0	22885	22885	PRON	PER	I
+419	22895	22896	NOM	PER	no one
+1119	22898	22900	NOM	FAC	the courtyard below
+0	22903	22903	PRON	PER	I
+0	22922	22922	PRON	PER	my
+0	22929	22929	PRON	PER	I
+0	22946	22946	PRON	PER	I
+1521	22965	22966	NOM	FAC	The place
+0	22973	22973	PRON	PER	I
+0	22988	22988	PRON	PER	my
+0	22996	22996	PRON	PER	my
+0	23017	23017	PRON	PER	I
+1121	23021	23030	NOM	FAC	a barn - like second story to the ground floor
+0	23041	23041	PRON	PER	my
+0	23046	23046	PRON	PER	I
+1122	23048	23050	NOM	FAC	the lower hall
+0	23057	23057	PRON	PER	I
+1123	23064	23068	NOM	FAC	the ruined Paine Street doorway
+0	23075	23075	PRON	PER	I
+1071	23098	23099	NOM	FAC	the courtyard
+0	23110	23110	PRON	PER	I
+0	23114	23114	PRON	PER	my
+1125	23127	23130	NOM	FAC	the Gilman House side
+0	23136	23136	PRON	PER	I
+0	23138	23138	PRON	PER	I
+1126	23148	23151	NOM	FAC	the Washington Street side
+0	23152	23152	PRON	PER	I
+0	23163	23163	PRON	PER	my
+1127	23167	23169	NOM	FAC	The hallway inside
+0	23175	23175	PRON	PER	I
+0	23180	23180	PRON	PER	I
+1128	23194	23195	NOM	FAC	another building
+0	23197	23197	PRON	PER	I
+0	23199	23199	PRON	PER	my
+1071	23203	23204	NOM	FAC	the courtyard
+758	23222	23224	NOM	FAC	the Gilman House
+1131	23225	23230	NOM	PER	a large crowd of doubtful shapes
+1132	23254	23255	NOM	PER	The figures
+0	23260	23260	PRON	PER	I
+0	23263	23263	PRON	PER	my
+1132	23266	23266	PRON	PER	they
+0	23271	23271	PRON	PER	I
+1132	23279	23279	PRON	PER	they
+0	23286	23286	PRON	PER	my
+1132	23289	23289	PRON	PER	Their
+1132	23295	23295	PRON	PER	their
+0	23309	23309	PRON	PER	I
+1133	23312	23313	NOM	PER	one figure
+1071	23337	23338	NOM	FAC	the courtyard
+0	23340	23340	PRON	PER	I
+0	23342	23342	PRON	PER	my
+0	23347	23347	PRON	PER	I
+1135	23353	23358	NOM	FAC	this building on the street side
+1136	23356	23358	NOM	FAC	the street side
+0	23367	23367	PRON	PER	I
+0	23369	23369	PRON	PER	I
+318	23379	23380	NOM	FAC	the street
+0	23382	23382	PRON	PER	I
+1043	23387	23388	NOM	FAC	the hall
+1139	23392	23400	NOM	FAC	an empty room with closely shuttered but sashless windows
+0	23407	23407	PRON	PER	my
+0	23410	23410	PRON	PER	I
+0	23412	23412	PRON	PER	I
+0	23436	23436	PRON	PER	I
+50	23440	23441	PROP	FAC	Washington Street
+0	23469	23469	PRON	PER	I
+0	23497	23497	PRON	PER	I
+0	23512	23512	PRON	PER	me
+0	23515	23515	PRON	PER	I
+1140	23538	23540	NOM	GPE	unprosperous rural regions
+1141	23548	23549	NOM	LOC	the south
+0	23552	23552	PRON	PER	I
+0	23554	23554	PRON	PER	my
+0	23565	23565	PRON	PER	I
+0	23575	23575	PRON	PER	me
+0	23578	23578	PRON	PER	I
+1142	23580	23587	NOM	PER	any person or group who looked like pursuers
+1143	23587	23587	NOM	PER	pursuers
+0	23589	23589	PRON	PER	I
+1144	23598	23600	NOM	FAC	the ruined houses
+0	23607	23607	PRON	PER	my
+0	23611	23611	PRON	PER	I
+1145	23630	23632	NOM	PER	any casual wayfarer
+95	23635	23636	PROP	FAC	Bates Street
+0	23637	23637	PRON	PER	I
+1146	23640	23642	NOM	FAC	a yawning vestibule
+1147	23644	23646	NOM	PER	two shambling figures
+0	23651	23651	PRON	PER	me
+0	23657	23657	PRON	PER	my
+63	23666	23667	PROP	FAC	Eliot Street
+44	23670	23670	PROP	GPE	Washington
+1148	23672	23675	NOM	FAC	the intersection of South
+0	23678	23678	PRON	PER	I
+1149	23682	23683	NOM	FAC	this space
+0	23690	23690	PRON	PER	me
+679	23749	23751	NOM	PER	the Innsmouth folk
+0	23754	23754	PRON	PER	I
+419	23760	23761	NOM	PER	no one
+1152	23766	23769	NOM	PER	no pursuer of mine
+0	23769	23769	PRON	PER	mine
+230	23773	23773	NOM	FAC	there
+0	23793	23793	PRON	PER	I
+1577	23806	23807	NOM	GPE	the town
+0	23810	23810	PRON	PER	I
+0	23816	23816	PRON	PER	my
+148	23819	23820	PROP	PER	the Gilman
+0	23826	23826	PRON	PER	I
+44	23837	23837	PROP	GPE	Washington
+1155	23839	23842	NOM	FAC	some other southward street
+565	23848	23849	NOM	FAC	the hotel
+0	23854	23854	PRON	PER	me
+0	23856	23856	PRON	PER	I
+1157	23863	23866	NOM	FAC	that last old building
+0	23870	23870	PRON	PER	I
+318	23873	23874	NOM	FAC	the street
+1159	23876	23878	NOM	FAC	The open space
+0	23882	23882	PRON	PER	I
+0	23890	23890	PRON	PER	I
+1160	23895	23896	NOM	FAC	a park
+1159	23905	23905	PRON	FAC	its
+419	23909	23910	NOM	PER	no one
+90	23930	23931	PROP	FAC	Town Square
+96	23933	23934	PROP	FAC	South Street
+401	23946	23947	NOM	FAC	the waterfront
+417	23955	23955	NOM	LOC	sea
+0	23958	23958	PRON	PER	I
+419	23961	23962	NOM	PER	no one
+96	23967	23967	PRON	FAC	it
+0	23971	23971	PRON	PER	I
+0	23978	23978	PRON	PER	My
+0	23991	23991	PRON	PER	I
+0	23998	23998	PRON	PER	me
+0	24000	24000	PRON	PER	I
+0	24003	24003	PRON	PER	my
+382	24015	24016	NOM	LOC	the sea
+318	24024	24025	NOM	FAC	the street
+414	24032	24033	NOM	LOC	the breakwater
+3	24041	24042	PROP	LOC	Devil Reef
+0	24046	24046	PRON	PER	I
+0	24049	24049	PRON	PER	I
+0	24059	24059	PRON	PER	I
+1168	24073	24075	NOM	LOC	this ragged rock
+0	24094	24094	PRON	PER	I
+1169	24102	24104	NOM	LOC	the distant reef
+0	24115	24115	PRON	PER	my
+0	24125	24125	PRON	PER	My
+1170	24157	24163	NOM	FAC	the lofty cupola of the Gilman House
+758	24161	24163	NOM	FAC	the Gilman House
+0	24172	24172	PRON	PER	me
+0	24193	24193	PRON	PER	my
+0	24202	24202	PRON	PER	I
+0	24205	24205	PRON	PER	I
+0	24207	24207	PRON	PER	my
+0	24216	24216	PRON	PER	my
+1172	24219	24223	NOM	LOC	that hellish and ominous reef
+96	24230	24231	PROP	FAC	South Street
+0	24233	24233	PRON	PER	me
+0	24244	24244	PRON	PER	I
+3	24257	24258	PROP	LOC	Devil Reef
+1173	24262	24263	NOM	PER	some party
+1174	24270	24272	NOM	LOC	that sinister rock
+0	24274	24274	PRON	PER	I
+1175	24281	24283	NOM	LOC	the ruinous green
+413	24288	24289	NOM	LOC	the ocean
+0	24325	24325	PRON	PER	me
+0	24331	24331	PRON	PER	my
+0	24340	24340	PRON	PER	me
+1177	24354	24357	NOM	FAC	that deserted nightmare street
+0	24364	24364	PRON	PER	I
+1178	24367	24375	NOM	LOC	the moonlit waters between the reef and the shore
+1517	24371	24372	NOM	LOC	the reef
+351	24374	24375	NOM	LOC	the shore
+1178	24381	24381	PRON	PER	They
+1577	24393	24394	NOM	GPE	the town
+0	24399	24399	PRON	PER	my
+0	24404	24404	PRON	PER	my
+0	24409	24409	PRON	PER	I
+0	24434	24434	PRON	PER	My
+0	24439	24439	PRON	PER	I
+1182	24442	24443	NOM	FAC	a block
+0	24447	24447	PRON	PER	my
+0	24449	24449	PRON	PER	I
+58	24477	24478	PROP	FAC	Federal Street
+0	24484	24484	PRON	PER	my
+1183	24492	24494	NOM	FAC	the southward highway
+0	24499	24499	PRON	PER	me
+0	24501	24501	PRON	PER	I
+2	24508	24508	PROP	GPE	Innsmouth
+0	24510	24510	PRON	PER	I
+0	24522	24522	PRON	PER	I
+1184	24527	24530	NOM	LOC	the moonlit open space
+1185	24532	24533	NOM	PER	these pursuers
+1186	24536	24538	NOM	FAC	the parallel street
+1187	24552	24553	NOM	FAC	another street
+1188	24559	24560	NOM	PER	the party
+0	24564	24564	PRON	PER	me
+1188	24567	24567	PRON	PER	It
+0	24571	24571	PRON	PER	me
+0	24583	24583	PRON	PER	my
+1189	24592	24597	NOM	FAC	all roads leading out of Innsmouth
+2	24597	24597	PROP	GPE	Innsmouth
+1190	24603	24604	NOM	PER	the denizens
+0	24611	24611	PRON	PER	I
+0	24621	24621	PRON	PER	I
+0	24626	24626	PRON	PER	my
+1191	24632	24633	NOM	FAC	any road
+0	24638	24638	PRON	PER	I
+1192	24653	24655	NOM	LOC	the surrounding region
+0	24660	24660	PRON	PER	my
+0	24680	24680	PRON	PER	I
+398	24683	24685	NOM	FAC	the abandoned railway
+12	24687	24687	PROP	GPE	Rowley
+1194	24706	24716	NOM	FAC	the crumbling station on the edge of the river - gorge
+1195	24710	24716	NOM	LOC	the edge of the river - gorge
+1076	24713	24716	NOM	LOC	the river - gorge
+1035	24724	24725	NOM	PER	the townsfolk
+398	24733	24733	PRON	FAC	its
+398	24739	24739	PRON	LOC	it
+1198	24751	24752	NOM	PER	a fugitive
+0	24756	24756	PRON	PER	I
+0	24762	24762	PRON	PER	my
+398	24770	24770	PRON	FAC	it
+398	24775	24775	PRON	FAC	its
+1080	24782	24784	NOM	FAC	the Rowley road
+1577	24791	24792	NOM	GPE	the town
+1596	24796	24796	NOM	PER	one
+0	24812	24812	PRON	PER	my
+1202	24830	24835	NOM	FAC	the hall of my deserted shelter
+0	24833	24833	PRON	PER	my
+1203	24833	24835	NOM	FAC	my deserted shelter
+0	24837	24837	PRON	PER	I
+685	24841	24843	NOM	PER	the grocery boy
+1205	24860	24862	NOM	FAC	the ancient railway
+0	24865	24865	PRON	PER	I
+97	24875	24876	PROP	FAC	Babson Street
+45	24881	24881	PROP	GPE	Lafayette
+1206	24894	24898	NOM	LOC	the one I had traversed
+0	24896	24896	PRON	PER	I
+45	24911	24911	PROP	GPE	Lafayette
+93	24913	24913	PROP	GPE	Bates
+46	24915	24915	PROP	GPE	Adams
+98	24918	24919	PROP	FAC	Bank Streets
+1207	24921	24927	NOM	LOC	the latter skirting the river - gorge
+1076	24924	24927	NOM	LOC	the river - gorge
+1209	24930	24940	NOM	FAC	the abandoned and dilapidated station I had seen from my window
+0	24935	24935	PRON	PER	I
+0	24939	24939	PRON	PER	my
+0	24942	24942	PRON	PER	My
+100	24948	24948	PROP	FAC	Babson
+0	24951	24951	PRON	PER	I
+1210	24958	24961	NOM	LOC	the earlier open space
+0	24965	24965	PRON	PER	my
+1211	24969	24971	NOM	FAC	a cross street
+0	24981	24981	PRON	PER	I
+318	24983	24984	NOM	FAC	the street
+100	24997	24997	PROP	GPE	Babson
+58	25007	25008	PROP	FAC	Federal Street
+0	25012	25012	PRON	PER	I
+0	25015	25015	PRON	PER	me
+0	25016	25016	PRON	PER	I
+0	25018	25018	PRON	PER	I
+1213	25025	25031	NOM	FAC	the building through which I had escaped
+0	25029	25029	PRON	PER	I
+50	25036	25037	PROP	FAC	Washington Street
+0	25039	25039	PRON	PER	I
+1214	25059	25063	NOM	FAC	the corner of Babson Street
+0	25064	25064	PRON	PER	I
+0	25067	25067	PRON	PER	my
+1215	25070	25073	NOM	FAC	one of the houses
+447	25072	25073	NOM	FAC	the houses
+0	25094	25094	PRON	PER	I
+1215	25096	25096	PRON	FAC	it
+97	25101	25102	PROP	FAC	Babson Street
+42	25106	25106	PROP	GPE	Federal
+0	25111	25111	PRON	PER	me
+1217	25113	25114	NOM	PER	the searchers
+0	25116	25116	PRON	PER	I
+1218	25123	25127	NOM	FAC	the sagging , uneven buildings
+0	25138	25138	PRON	PER	me
+0	25155	25155	PRON	PER	my
+0	25160	25160	PRON	PER	me
+1215	25163	25163	PRON	FAC	it
+0	25166	25166	PRON	PER	my
+0	25169	25169	PRON	PER	I
+1219	25189	25192	NOM	VEH	a motor - car
+1159	25195	25197	NOM	LOC	the open space
+63	25202	25203	PROP	FAC	Eliot Street
+100	25209	25209	PROP	GPE	Babson
+45	25211	25211	PROP	GPE	Lafayette
+0	25214	25214	PRON	PER	I
+0	25231	25231	PRON	PER	I
+1221	25233	25246	NOM	PER	a band of uncouth , crouching shapes loping and shambling in the same direction
+1222	25254	25269	NOM	PER	the party guarding the Ipswich road , since that highway forms an extension of Eliot Street
+1223	25257	25259	NOM	FAC	the Ipswich road
+1224	25262	25263	NOM	FAC	that highway
+1225	25265	25269	NOM	FAC	an extension of Eliot Street
+63	25268	25269	PROP	FAC	Eliot Street
+1226	25271	25276	NOM	PER	Two of the figures I glimpsed
+0	25275	25275	PRON	PER	I
+1227	25298	25299	NOM	PER	this figure
+0	25309	25309	PRON	PER	me
+1227	25315	25317	PRON	PER	me the creature
+1228	25326	25327	NOM	PER	the band
+0	25332	25332	PRON	PER	I
+0	25334	25334	PRON	PER	my
+61	25342	25343	PROP	FAC	Lafayette Street
+101	25347	25347	PROP	GPE	Eliot
+1229	25351	25354	NOM	PER	stragglers of the party
+1188	25353	25354	NOM	PER	the party
+1231	25359	25360	NOM	FAC	that thoroughfare
+0	25362	25362	PRON	PER	I
+90	25373	25374	PROP	FAC	Town Square
+0	25383	25383	PRON	PER	My
+1232	25391	25395	NOM	FAC	broad and moonlit South Street
+1232	25398	25398	PRON	FAC	its
+0	25403	25403	PRON	PER	I
+0	25407	25407	PRON	PER	myself
+1233	25412	25412	NOM	PER	Someone
+63	25420	25421	PROP	FAC	Eliot Street
+1234	25422	25422	NOM	PER	stragglers
+0	25428	25428	PRON	PER	me
+0	25439	25439	PRON	PER	I
+0	25441	25441	PRON	PER	I
+0	25445	25445	PRON	PER	my
+1235	25458	25461	NOM	PER	an average Innsmouth native
+397	25467	25468	NOM	LOC	the water
+0	25476	25476	PRON	PER	my
+0	25479	25479	PRON	PER	I
+0	25492	25492	PRON	PER	I
+0	25506	25506	PRON	PER	I
+1237	25519	25520	NOM	VEH	no ship
+0	25524	25524	PRON	PER	I
+0	25539	25539	PRON	PER	my
+1238	25542	25560	NOM	VEH	a small rowboat pulling in toward the abandoned wharves and laden with some bulky , tarpaulin - covered object
+1239	25548	25550	NOM	FAC	the abandoned wharves
+1238	25562	25562	PRON	PER	Its
+1240	25578	25579	NOM	PER	Several swimmers
+1241	25586	25589	NOM	LOC	the far black reef
+0	25590	25590	PRON	PER	I
+0	25611	25611	PRON	PER	I
+1242	25628	25634	NOM	FAC	the tall cupola of the Gilman House
+758	25632	25634	NOM	FAC	the Gilman House
+1242	25637	25637	PRON	FAC	it
+0	25663	25663	PRON	PER	I
+318	25668	25669	NOM	FAC	the street
+0	25671	25671	PRON	PER	I
+1245	25673	25675	NOM	PER	a muttering band
+44	25678	25678	PROP	GPE	Washington
+1245	25684	25684	PRON	PER	they
+1246	25686	25701	NOM	LOC	the broad open space where I had had my first disquieting glimpse of the moonlit water
+0	25691	25691	PRON	PER	I
+0	25694	25694	PRON	PER	my
+1247	25699	25701	NOM	LOC	the moonlit water
+0	25702	25702	PRON	PER	I
+1245	25705	25705	PRON	PER	them
+1245	25720	25720	PRON	PER	their
+1245	25731	25731	PRON	PER	their
+1248	25735	25736	NOM	PER	One man
+1249	25753	25758	NOM	PER	another figure — robed and tiaraed
+0	25769	25769	PRON	PER	I
+1250	25771	25772	NOM	PER	this party
+1251	25775	25784	NOM	PER	the one I had seen in the Gilman ’s courtyard
+0	25777	25777	PRON	PER	I
+1252	25781	25784	NOM	FAC	the Gilman ’s courtyard
+0	25794	25794	PRON	PER	my
+1253	25794	25795	NOM	FAC	my trail
+1132	25800	25801	NOM	PER	the figures
+0	25806	25806	PRON	PER	my
+0	25808	25808	PRON	PER	I
+0	25823	25823	PRON	PER	I
+0	25830	25830	PRON	PER	I
+1245	25835	25835	PRON	PER	they
+0	25837	25837	PRON	PER	me
+1245	25842	25842	PRON	PER	they
+0	25845	25845	PRON	PER	my
+1255	25845	25846	NOM	PER	my stratagem
+1245	25850	25850	PRON	PER	them
+1245	25853	25853	PRON	PER	they
+1256	25857	25859	NOM	LOC	the moonlit space
+1245	25862	25862	PRON	PER	their
+0	25874	25874	PRON	PER	I
+0	25884	25884	PRON	PER	I
+0	25886	25886	PRON	PER	my
+1257	25892	25902	NOM	FAC	the leaning and decrepit houses that stared blankly into the night
+1258	25907	25909	NOM	FAC	the western sidewalk
+0	25910	25910	PRON	PER	I
+95	25916	25917	PROP	FAC	Bates Street
+0	25920	25920	PRON	PER	I
+1259	25924	25929	NOM	FAC	the buildings on the southern side
+0	25931	25931	PRON	PER	I
+1260	25933	25938	NOM	FAC	two houses shewing signs of habitation
+1261	25947	25948	NOM	FAC	upper rooms
+0	25957	25957	PRON	PER	I
+1262	25960	25961	NOM	FAC	Adams Street
+0	25962	25962	PRON	PER	I
+1677	25972	25973	NOM	PER	a man
+0	25984	25984	PRON	PER	me
+1677	25986	25986	PRON	PER	He
+1264	25996	25997	NOM	PER	a menace
+0	26001	26001	PRON	PER	I
+1265	26003	26010	NOM	FAC	the dismal ruins of the Bank Street warehouses
+1266	26007	26010	NOM	FAC	the Bank Street warehouses
+419	26014	26015	NOM	PER	No one
+1268	26019	26021	NOM	FAC	that dead street
+1076	26023	26026	NOM	LOC	the river - gorge
+0	26036	26036	PRON	PER	my
+1270	26047	26049	NOM	FAC	the ruined station
+1271	26052	26058	NOM	FAC	the great brick warehouse walls around me
+0	26058	26058	PRON	PER	me
+1272	26067	26068	NOM	FAC	private houses
+0	26072	26072	PRON	PER	I
+1273	26074	26077	NOM	FAC	the ancient arcaded station
+1273	26084	26084	PRON	FAC	it
+1274	26090	26097	NOM	FAC	the tracks that started from its farther end
+1273	26095	26095	PRON	FAC	its
+0	26130	26130	PRON	PER	I
+0	26132	26132	PRON	PER	my
+1275	26152	26153	NOM	LOC	the gorge
+0	26160	26160	PRON	PER	I
+1276	26162	26170	NOM	FAC	the long covered bridge where it crossed the chasm
+1276	26167	26167	PRON	FAC	it
+1277	26169	26170	NOM	LOC	the chasm
+1278	26179	26180	NOM	FAC	this bridge
+0	26183	26183	PRON	PER	my
+0	26191	26191	PRON	PER	I
+1278	26194	26194	PRON	FAC	it
+0	26199	26199	PRON	PER	I
+1279	26209	26213	NOM	FAC	the nearest intact highway bridge
+1280	26215	26225	NOM	FAC	The vast , barn - like length of the old bridge
+1281	26223	26225	NOM	FAC	the old bridge
+0	26233	26233	PRON	PER	I
+0	26250	26250	PRON	PER	I
+0	26254	26254	PRON	PER	my
+0	26270	26270	PRON	PER	me
+0	26285	26285	PRON	PER	I
+0	26292	26292	PRON	PER	me
+0	26298	26298	PRON	PER	I
+0	26307	26307	PRON	PER	I
+0	26316	26316	PRON	PER	I
+1282	26319	26321	NOM	FAC	that macabre tunnel
+1283	26323	26325	NOM	FAC	The old tracks
+102	26327	26328	PROP	FAC	River Street
+1284	26338	26348	NOM	GPE	a region increasingly rural and with less and less of Innsmouth
+2	26348	26348	PROP	GPE	Innsmouth
+0	26363	26363	PRON	PER	me
+0	26367	26367	PRON	PER	my
+0	26371	26371	PRON	PER	I
+0	26383	26383	PRON	PER	me
+0	26390	26390	PRON	PER	I
+0	26395	26395	PRON	PER	my
+1080	26401	26403	NOM	FAC	the Rowley road
+1286	26405	26407	NOM	LOC	The marshy region
+1287	26413	26428	NOM	FAC	the single track on a low , grassy embankment where the weedy growth was somewhat thinner
+1288	26417	26428	NOM	LOC	a low , grassy embankment where the weedy growth was somewhat thinner
+1289	26432	26438	NOM	LOC	a sort of island of higher ground
+1290	26445	26453	NOM	LOC	a shallow open cut choked with bushes and brambles
+0	26455	26455	PRON	PER	I
+1080	26468	26470	NOM	FAC	the Rowley road
+0	26476	26476	PRON	PER	my
+1292	26489	26490	NOM	FAC	the track
+0	26501	26501	PRON	PER	I
+0	26507	26507	PRON	PER	I
+1293	26515	26517	NOM	FAC	the railway itself
+1294	26525	26526	NOM	FAC	the cut
+0	26527	26527	PRON	PER	I
+0	26530	26530	PRON	PER	me
+1295	26534	26535	NOM	PER	no pursuer
+1296	26537	26544	NOM	FAC	The ancient spires and roofs of decaying Innsmouth
+2	26544	26544	PROP	GPE	Innsmouth
+0	26556	26556	PRON	PER	I
+0	26576	26576	PRON	PER	my
+1577	26581	26582	NOM	GPE	the town
+0	26588	26588	PRON	PER	my
+0	26592	26592	PRON	PER	me
+0	26599	26599	PRON	PER	I
+0	26604	26604	PRON	PER	I
+0	26623	26623	PRON	PER	me
+1298	26635	26636	NOM	GPE	the city
+1299	26638	26641	NOM	FAC	the level Ipswich road
+0	26649	26649	PRON	PER	I
+0	26657	26657	PRON	PER	I
+1300	26666	26668	NOM	VEH	that moving column
+0	26721	26721	PRON	PER	I
+0	26732	26732	PRON	PER	my
+0	26735	26735	PRON	PER	I
+1301	26738	26754	NOM	PER	those very extreme Innsmouth types said to be hidden in crumbling , centuried warrens near the waterfront
+1302	26748	26754	NOM	FAC	crumbling , centuried warrens near the waterfront
+401	26753	26754	NOM	FAC	the waterfront
+0	26756	26756	PRON	PER	I
+0	26765	26765	PRON	PER	I
+1304	26770	26774	NOM	PER	the parties so far glimpsed
+1305	26782	26783	NOM	FAC	other roads
+0	26788	26788	PRON	PER	my
+1102	26788	26789	NOM	PER	my pursuers
+1307	26795	26798	NOM	GPE	a town as depopulated
+2	26800	26800	PROP	GPE	Innsmouth
+1308	26809	26815	NOM	ORG	such a column as I now beheld
+0	26813	26813	PRON	PER	I
+1309	26818	26822	NOM	FAC	those ancient , unplumbed warrens
+1310	26836	26838	NOM	PER	some unseen ship
+1311	26841	26845	NOM	PER	a legion of unknown outsiders
+1312	26847	26849	NOM	LOC	that hellish reef
+1311	26853	26853	PRON	PER	they
+1311	26857	26857	PRON	PER	they
+1313	26862	26866	NOM	PER	such a column of them
+1311	26866	26866	PRON	PER	them
+1223	26869	26871	NOM	FAC	the Ipswich road
+1315	26874	26879	NOM	PER	the patrols on the other roads
+1316	26877	26879	NOM	FAC	the other roads
+0	26884	26884	PRON	PER	I
+1317	26887	26891	NOM	LOC	the brush - grown cut
+382	26923	26924	NOM	LOC	the sea
+1577	26927	26928	NOM	GPE	the town
+0	26934	26934	PRON	PER	I
+0	26938	26938	PRON	PER	I
+0	26981	26981	PRON	PER	me
+1320	26990	26995	NOM	FAC	the far - off Ipswich road
+0	27008	27008	PRON	PER	I
+0	27023	27023	PRON	PER	I
+1080	27027	27029	NOM	FAC	the Rowley road
+1322	27034	27036	NOM	FAC	the old railway
+1323	27047	27048	NOM	FAC	that road
+0	27051	27051	PRON	PER	I
+1324	27066	27067	NOM	PER	these creatures
+0	27095	27095	PRON	PER	I
+0	27102	27102	PRON	PER	I
+1217	27104	27105	NOM	PER	the searchers
+1292	27110	27111	NOM	FAC	the track
+0	27115	27115	PRON	PER	me
+0	27125	27125	PRON	PER	I
+1324	27131	27131	PRON	PER	them
+1324	27134	27134	PRON	PER	they
+0	27145	27145	PRON	PER	me
+0	27150	27150	PRON	PER	I
+1324	27156	27156	PRON	PER	them
+1324	27158	27158	PRON	PER	they
+0	27161	27161	PRON	PER	I
+1327	27163	27183	NOM	LOC	the close moonlit space where they would surge by , and had curious thoughts about the irredeemable pollution of that space
+1324	27168	27168	PRON	PER	they
+1328	27182	27183	NOM	FAC	that space
+1329	27189	27194	NOM	PER	the worst of all Innsmouth types
+0	27238	27238	PRON	PER	my
+1102	27238	27239	NOM	PER	my pursuers
+1102	27242	27242	PRON	PER	they
+0	27250	27250	PRON	PER	I
+1331	27253	27259	NOM	PER	none of the lower animals in Innsmouth
+2	27259	27259	PROP	GPE	Innsmouth
+0	27268	27268	PRON	PER	I
+0	27280	27280	PRON	PER	I
+0	27283	27283	PRON	PER	my
+1332	27291	27292	NOM	LOC	the west
+1333	27294	27295	NOM	LOC	The horde
+1333	27315	27315	PRON	PER	their
+0	27321	27321	PRON	PER	My
+0	27329	27329	PRON	PER	I
+0	27341	27341	PRON	PER	my
+0	27345	27345	PRON	PER	I
+190	27370	27371	NOM	ORG	the government
+0	27374	27374	PRON	PER	my
+1335	27403	27410	NOM	GPE	that ancient , haunted , and shadowed town
+1336	27412	27413	NOM	LOC	Such places
+1337	27435	27449	NOM	FAC	those dead , stench - cursed streets and huddles of rotting roofs and crumbling steeples
+1338	27448	27449	NOM	FAC	crumbling steeples
+2	27471	27471	PROP	GPE	Innsmouth
+131	27486	27488	PROP	PER	old Zadok Allen
+1339	27490	27492	NOM	PER	The government men
+131	27496	27496	PROP	PER	Zadok
+131	27509	27509	PRON	PER	him
+0	27525	27525	PRON	PER	my
+0	27533	27533	PRON	PER	I
+0	27539	27539	PRON	PER	I
+0	27541	27541	PRON	PER	I
+1080	27556	27558	NOM	FAC	the Rowley road
+0	27565	27565	PRON	PER	me
+0	27567	27567	PRON	PER	I
+1341	27574	27577	NOM	FAC	that desolate railway cut
+0	27581	27581	PRON	PER	my
+0	27585	27585	PRON	PER	my
+1342	27603	27615	NOM	PER	a legion of croaking , baying entities of unknown source flopped noisomely past
+0	27625	27625	PRON	PER	I
+0	27627	27627	PRON	PER	I
+0	27635	27635	PRON	PER	I
+0	27644	27644	PRON	PER	I
+0	27649	27649	PRON	PER	My
+1343	27649	27651	NOM	PER	My other pursuers
+0	27659	27659	PRON	PER	I
+1344	27676	27687	NOM	PER	forms in which there was no mixture of the normal at all
+0	27689	27689	PRON	PER	I
+0	27693	27693	PRON	PER	my
+0	27709	27709	PRON	PER	I
+369	27731	27732	NOM	FAC	the road
+1292	27734	27735	NOM	FAC	the track
+0	27738	27738	PRON	PER	I
+0	27743	27743	PRON	PER	myself
+0	27766	27766	PRON	PER	me
+1347	27770	27774	NOM	LOC	the surface of this earth
+549	27773	27774	NOM	LOC	this earth
+0	27797	27797	PRON	PER	I
+0	27807	27807	PRON	PER	I
+0	27812	27812	PRON	PER	I
+131	27814	27815	PROP	PER	old Zadok
+0	27838	27838	PRON	PER	I
+0	27843	27843	PRON	PER	I
+0	27846	27846	PRON	PER	I
+1349	27871	27872	NOM	LOC	this planet
+1350	27891	27891	NOM	PER	man
+0	27905	27905	PRON	PER	I
+1351	27940	27940	PRON	PER	them
+1352	27963	27968	NOM	PER	one , who led the way
+1677	27984	27985	NOM	PER	a man
+0	28003	28003	PRON	PER	I
+1351	28005	28005	PRON	PER	their
+1351	28031	28031	PRON	PER	their
+1351	28036	28036	PRON	PER	Their
+1351	28044	28044	PRON	PER	their
+1351	28064	28064	PRON	PER	their
+1351	28077	28077	PRON	PER	They
+0	28090	28090	PRON	PER	I
+1351	28095	28095	PRON	PER	they
+1351	28103	28103	PRON	PER	Their
+1351	28123	28123	PRON	PER	their
+1351	28132	28132	PRON	PER	their
+1351	28134	28134	PRON	PER	they
+0	28139	28139	PRON	PER	me
+0	28141	28141	PRON	PER	I
+1351	28146	28146	PRON	PER	they
+6	28160	28160	PROP	GPE	Newburyport
+1351	28164	28164	PRON	PER	They
+1354	28166	28178	NOM	PER	the blasphemous fish - frogs of the nameless design — living and horrible
+0	28182	28182	PRON	PER	I
+1351	28184	28184	PRON	PER	them
+0	28185	28185	PRON	PER	I
+1355	28190	28199	NOM	PER	that humped , tiaraed priest in the black church basement
+1356	28196	28199	NOM	FAC	the black church basement
+0	28204	28204	PRON	PER	me
+1351	28206	28206	PRON	PER	Their
+0	28215	28215	PRON	PER	me
+1351	28222	28222	PRON	PER	them
+0	28226	28226	PRON	PER	my
+0	28253	28253	PRON	PER	I
+0	28267	28267	PRON	PER	me
+0	28269	28269	PRON	PER	my
+1357	28272	28277	NOM	FAC	the brush - grown railway cut
+0	28281	28281	PRON	PER	I
+1358	28285	28287	NOM	FAC	the roadway ahead
+0	28288	28288	PRON	PER	I
+2	28309	28309	PROP	FAC	Innsmouth
+1359	28309	28312	NOM	FAC	Innsmouth ’s ruined roofs
+1360	28325	28327	NOM	PER	a living creature
+0	28329	28329	PRON	PER	I
+1361	28333	28337	NOM	LOC	the desolate salt marshes around
+0	28339	28339	PRON	PER	My
+0	28347	28347	PRON	PER	me
+0	28359	28359	PRON	PER	I
+0	28367	28367	PRON	PER	my
+0	28371	28371	PRON	PER	I
+0	28381	28381	PRON	PER	I
+1362	28386	28389	NOM	LOC	evil - shadowed Innsmouth
+2	28389	28389	PROP	GPE	Innsmouth
+0	28393	28393	PRON	PER	I
+0	28397	28397	PRON	PER	my
+0	28414	28414	PRON	PER	I
+0	28416	28416	PRON	PER	myself
+1363	28429	28431	NOM	FAC	the muddy road
+12	28433	28433	PROP	GPE	Rowley
+0	28437	28437	PRON	PER	I
+1685	28440	28441	NOM	GPE	the village
+0	28448	28448	PRON	PER	myself
+0	28453	28453	PRON	PER	I
+1365	28455	28457	NOM	VEH	the night train
+7	28459	28459	PROP	GPE	Arkham
+1366	28470	28471	NOM	PER	government officials
+230	28472	28472	NOM	GPE	there
+0	28476	28476	PRON	PER	I
+83	28480	28480	PROP	GPE	Boston
+171	28489	28490	NOM	PER	the public
+0	28496	28496	PRON	PER	I
+0	28518	28518	PRON	PER	me
+0	28541	28541	PRON	PER	I
+0	28553	28553	PRON	PER	my
+0	28566	28566	PRON	PER	I
+0	28574	28574	PRON	PER	I
+1369	28587	28590	NOM	FAC	the Miskatonic University Museum
+0	28592	28592	PRON	PER	I
+0	28598	28598	PRON	PER	my
+7	28601	28601	PROP	GPE	Arkham
+0	28607	28607	PRON	PER	I
+0	28632	28632	PRON	PER	I
+1370	28642	28648	NOM	PER	The curator of the historical society there
+158	28650	28653	PROP	PER	Mr. E. Lapham Peabody
+0	28660	28660	PRON	PER	me
+0	28667	28667	PRON	PER	I
+1370	28669	28669	PRON	PER	him
+0	28670	28670	PRON	PER	I
+1371	28672	28696	NOM	PER	a grandson of Eliza Orne of Arkham , who was born in 1867 and had married James Williamson of Ohio at the age of seventeen
+159	28675	28696	PROP	PER	Eliza Orne of Arkham , who was born in 1867 and had married James Williamson of Ohio at the age of seventeen
+7	28678	28678	PROP	GPE	Arkham
+159	28688	28689	PROP	PER	James Williamson
+104	28691	28691	PROP	GPE	Ohio
+1372	28701	28705	NOM	PER	a maternal uncle of mine
+230	28708	28708	NOM	GPE	there
+0	28717	28717	PRON	PER	my
+0	28722	28722	PRON	PER	my
+1374	28722	28723	NOM	PER	my grandmother
+158	28737	28738	PROP	PER	Mr. Peabody
+1374	28748	28748	PRON	PER	her
+1375	28748	28749	NOM	PER	her father
+122	28751	28752	PROP	PER	Benjamin Orne
+1376	28764	28765	NOM	PER	the bride
+1377	28770	28771	NOM	PER	That bride
+1378	28777	28782	NOM	PER	an orphaned Marsh of New Hampshire
+105	28781	28782	PROP	GPE	New Hampshire
+1379	28784	28790	NOM	PER	a cousin of the Essex County Marshes
+106	28787	28790	PROP	FAC	the Essex County Marshes
+1374	28793	28793	PRON	PER	her
+107	28798	28798	PROP	GPE	France
+1374	28800	28800	PRON	PER	she
+1374	28805	28805	PRON	PER	her
+1380	28805	28806	NOM	PER	her family
+1381	28808	28809	NOM	PER	A guardian
+1382	28814	28816	NOM	FAC	a Boston bank
+83	28815	28815	PROP	GPE	Boston
+1374	28819	28819	PRON	PER	her
+1374	28821	28821	PRON	PER	her
+1383	28821	28823	NOM	PER	her French governess
+1384	28826	28827	NOM	PER	that guardian
+7	28833	28833	PROP	GPE	Arkham
+1385	28833	28834	NOM	PER	Arkham people
+1384	28839	28839	PRON	PER	he
+1386	28847	28848	NOM	PER	the governess
+1384	28850	28850	PRON	PER	his
+1387	28856	28857	NOM	PER	The Frenchwoman
+1387	28873	28873	PRON	PER	she
+1387	28879	28879	PRON	PER	she
+1537	28891	28891	NOM	PER	anyone
+1389	28894	28900	NOM	PER	the recorded parents of the young woman
+1390	28898	28900	NOM	PER	the young woman
+160	28902	28902	PROP	PER	Enoch
+161	28904	28908	PROP	PER	Lydia ( Meserve ) Marsh
+1391	28911	28916	NOM	PER	the known families of New Hampshire
+105	28915	28916	PROP	GPE	New Hampshire
+1392	28920	28920	NOM	PER	many
+1390	28923	28923	PRON	PER	she
+1393	28925	28932	NOM	PER	the natural daughter of some Marsh of prominence
+1394	28929	28932	NOM	PER	some Marsh of prominence
+1390	28934	28934	PRON	PER	she
+161	28937	28940	PROP	PER	the true Marsh eyes
+1390	28949	28949	PRON	PER	her
+0	28960	28960	PRON	PER	my
+1374	28960	28961	NOM	PER	my grandmother
+1390	28963	28963	PRON	PER	her
+1396	28963	28965	NOM	PER	her only child
+161	28977	28977	PROP	PER	Marsh
+0	28979	28979	PRON	PER	I
+0	28989	28989	PRON	PER	my
+0	28996	28996	PRON	PER	I
+158	28999	29000	PROP	PER	Mr. Peabody
+0	29004	29004	PRON	PER	I
+0	29010	29010	PRON	PER	myself
+0	29014	29014	PRON	PER	I
+0	29020	29020	PRON	PER	I
+1397	29036	29041	NOM	PER	the well - documented Orne family
+0	29043	29043	PRON	PER	I
+268	29046	29046	NOM	FAC	home
+108	29048	29048	PROP	GPE	Toledo
+83	29050	29050	PROP	GPE	Boston
+109	29058	29058	PROP	GPE	Maumee
+0	29061	29061	PRON	PER	my
+0	29066	29066	PRON	PER	I
+110	29068	29068	PROP	GPE	Oberlin
+0	29070	29070	PRON	PER	my
+0	29109	29109	PRON	PER	my
+0	29130	29130	PRON	PER	I
+0	29135	29135	PRON	PER	my
+1399	29135	29141	NOM	PER	my late mother ’s family in Cleveland
+111	29141	29141	PROP	GPE	Cleveland
+0	29146	29146	PRON	PER	my
+0	29173	29173	PRON	PER	I
+0	29177	29177	PRON	PER	I
+1400	29189	29191	NOM	FAC	the Williamson home
+0	29195	29195	PRON	PER	me
+0	29206	29206	PRON	PER	my
+207	29206	29207	NOM	PER	my mother
+0	29211	29211	PRON	PER	my
+207	29213	29213	PRON	PER	her
+1402	29213	29214	NOM	PER	her parents
+1403	29216	29217	NOM	PER	a child
+207	29220	29220	PRON	PER	she
+207	29223	29223	PRON	PER	her
+1375	29223	29224	NOM	PER	her father
+1375	29226	29226	PRON	PER	he
+108	29229	29229	PROP	GPE	Toledo
+0	29231	29231	PRON	PER	My
+1405	29231	29235	NOM	PER	My Arkham - born grandmother
+7	29232	29232	PROP	GPE	Arkham
+0	29243	29243	PRON	PER	me
+0	29246	29246	PRON	PER	I
+0	29250	29250	PRON	PER	I
+1405	29253	29253	PRON	PER	she
+0	29256	29256	PRON	PER	I
+1405	29268	29268	PRON	PER	she
+0	29278	29278	PRON	PER	my
+1406	29278	29279	NOM	PER	my uncle
+162	29280	29280	PROP	PER	Douglas
+1405	29282	29282	PRON	PER	her
+1407	29282	29284	NOM	PER	her eldest son
+162	29286	29286	PRON	PER	He
+162	29289	29289	PRON	PER	himself
+5	29294	29295	PROP	GPE	New England
+162	29307	29307	PRON	PER	him
+1408	29312	29315	NOM	FAC	the Arkham Historical Society
+7	29313	29313	PROP	GPE	Arkham
+1409	29317	29318	NOM	PER	This uncle
+1405	29321	29321	PRON	PER	her
+0	29324	29324	PRON	PER	I
+1409	29328	29328	PRON	PER	him
+1410	29341	29341	PRON	PER	them
+0	29344	29344	PRON	PER	me
+0	29351	29351	PRON	PER	My
+207	29351	29352	NOM	PER	My mother
+163	29354	29355	PROP	PER	uncle Walter
+1410	29362	29362	PRON	PER	They
+1410	29365	29365	PRON	PER	their
+1412	29365	29366	NOM	PER	their father
+1413	29369	29376	NOM	PER	poor little cousin Lawrence — Walter ’s son
+164	29372	29372	PROP	PER	Lawrence
+163	29374	29374	PROP	PER	Walter
+1414	29374	29376	NOM	PER	Walter ’s son
+163	29385	29385	PRON	PER	his
+1415	29385	29386	NOM	PER	his grandmother
+163	29388	29388	PRON	PER	his
+163	29391	29391	PRON	PER	him
+1416	29397	29400	NOM	FAC	a sanitarium at Canton
+112	29400	29400	PROP	GPE	Canton
+0	29402	29402	PRON	PER	I
+163	29406	29406	PRON	PER	him
+0	29412	29412	PRON	PER	my
+1406	29412	29413	NOM	PER	my uncle
+163	29417	29417	PRON	PER	his
+163	29438	29438	PRON	PER	his
+249	29438	29439	NOM	PER	his mother
+0	29446	29446	PRON	PER	My
+1419	29446	29447	NOM	PER	My grandfather
+1419	29449	29449	PRON	PER	his
+1420	29449	29450	NOM	PER	his widowed
+163	29452	29452	PROP	PER	Walter
+1421	29455	29457	NOM	PER	the Cleveland household
+0	29470	29470	PRON	PER	I
+1521	29473	29474	NOM	FAC	the place
+0	29480	29480	PRON	PER	my
+159	29488	29488	PROP	PER	Williamson
+0	29497	29497	PRON	PER	my
+1419	29497	29498	NOM	PER	my grandfather
+159	29502	29502	PROP	PER	Orne
+0	29504	29504	PRON	PER	I
+0	29509	29509	PRON	PER	my
+1406	29509	29510	NOM	PER	my uncle
+163	29511	29511	PROP	PER	Walter
+0	29516	29516	PRON	PER	my
+163	29522	29522	PRON	PER	his
+159	29549	29550	PROP	LOC	the Orne
+0	29553	29553	PRON	PER	I
+0	29562	29562	PRON	PER	my
+0	29567	29567	PRON	PER	I
+0	29571	29571	PRON	PER	my
+1374	29571	29572	NOM	PER	my grandmother
+162	29574	29575	PROP	PER	uncle Douglas
+0	29579	29579	PRON	PER	me
+1426	29585	29585	PRON	PER	their
+0	29588	29588	PRON	PER	I
+1426	29591	29591	PRON	PER	their
+0	29604	29604	PRON	PER	I
+0	29625	29625	PRON	PER	my
+0	29633	29633	PRON	PER	my
+0	29681	29681	PRON	PER	my
+1406	29681	29682	NOM	PER	my uncle
+0	29684	29684	PRON	PER	me
+1428	29689	29694	NOM	FAC	a downtown safe - deposit vault
+0	29717	29717	PRON	PER	my
+1429	29717	29721	NOM	PER	my mysterious great - grandmother
+0	29723	29723	PRON	PER	my
+1406	29723	29724	NOM	PER	my uncle
+1406	29734	29734	PRON	PER	he
+1406	29749	29749	PRON	PER	his
+0	29756	29756	PRON	PER	my
+1374	29756	29757	NOM	PER	my grandmother
+0	29775	29775	PRON	PER	my
+1432	29775	29781	NOM	PER	my great - grandmother ’s French governess
+5	29791	29792	PROP	GPE	New England
+87	29804	29804	PROP	GPE	Europe
+0	29807	29807	PRON	PER	my
+1406	29807	29808	NOM	PER	my uncle
+1406	29817	29817	PRON	PER	he
+0	29819	29819	PRON	PER	me
+1434	29834	29834	NOM	PER	Artists
+1435	29836	29840	NOM	PER	archaeologists who had seen them
+1436	29840	29840	PRON	PER	them
+419	29850	29851	NOM	PER	no one
+1436	29856	29856	PRON	PER	their
+0	29898	29898	PRON	PER	I
+0	29905	29905	PRON	PER	my
+0	29909	29909	PRON	PER	my
+0	29914	29914	PRON	PER	my
+0	29918	29918	PRON	PER	My
+1406	29918	29919	NOM	PER	My uncle
+1406	29926	29926	PRON	PER	his
+0	29930	29930	PRON	PER	my
+0	29933	29933	PRON	PER	I
+1406	29936	29936	PRON	PER	him
+1406	29941	29941	PRON	PER	he
+1406	29949	29949	PRON	PER	He
+0	29967	29967	PRON	PER	I
+1406	29970	29970	PRON	PER	he
+0	29977	29977	PRON	PER	I
+0	29986	29986	PRON	PER	I
+0	29988	29988	PRON	PER	I
+0	30003	30003	PRON	PER	I
+0	30013	30013	PRON	PER	I
+1439	30017	30022	NOM	FAC	that brier - choked railway cut
+0	30031	30031	PRON	PER	my
+0	30044	30044	PRON	PER	I
+0	30056	30056	PRON	PER	My
+1440	30056	30059	NOM	PER	My great - grandmother
+1441	30062	30071	NOM	PER	a Marsh of unknown source whose husband lived in Arkham
+1442	30065	30071	NOM	PER	unknown source whose husband lived in Arkham
+7	30071	30071	PROP	GPE	Arkham
+131	30077	30077	PROP	PER	Zadok
+1443	30080	30084	NOM	PER	the daughter of Obed Marsh
+121	30083	30084	PROP	PER	Obed Marsh
+1444	30086	30088	NOM	PER	a monstrous mother
+1445	30092	30094	NOM	PER	an Arkham man
+1446	30102	30104	NOM	PER	the ancient toper
+0	30111	30111	PRON	PER	my
+121	30114	30115	PROP	PER	Captain Obed
+7	30119	30119	PROP	GPE	Arkham
+1447	30123	30124	NOM	PER	the curator
+0	30127	30127	PRON	PER	me
+0	30128	30128	PRON	PER	I
+121	30136	30137	PROP	PER	Obed Marsh
+0	30138	30138	PRON	PER	my
+1448	30138	30144	NOM	PER	my own great - great - grandfather
+0	30154	30154	PRON	PER	my
+1449	30154	30159	NOM	PER	my great - great - grandmother
+1450	30179	30181	NOM	PER	some Innsmouth sailor
+1451	30183	30193	NOM	PER	the father of my great - grandmother , whoever he was
+0	30186	30186	PRON	PER	my
+1440	30186	30189	NOM	PER	my great - grandmother
+1451	30192	30192	PRON	PER	he
+0	30205	30205	PRON	PER	my
+1374	30205	30206	NOM	PER	my grandmother
+1454	30208	30211	NOM	PER	self - slain uncle
+0	30217	30217	PRON	PER	my
+0	30234	30234	PRON	PER	my
+0	30240	30240	PRON	PER	my
+1406	30240	30241	NOM	PER	my uncle
+1406	30243	30243	PRON	PER	himself
+5	30249	30250	PROP	GPE	New England
+0	30257	30257	PRON	PER	I
+0	30266	30266	PRON	PER	My
+1456	30266	30267	NOM	PER	My father
+0	30269	30269	PRON	PER	me
+1457	30273	30275	NOM	FAC	an insurance office
+0	30278	30278	PRON	PER	I
+0	30280	30280	PRON	PER	myself
+1458	30321	30323	NOM	FAC	Great watery spaces
+0	30327	30327	PRON	PER	me
+0	30330	30330	PRON	PER	I
+1459	30335	30337	NOM	FAC	titanic sunken porticos
+0	30348	30348	PRON	PER	my
+1460	30348	30349	NOM	PER	my companions
+0	30360	30360	PRON	PER	me
+0	30366	30366	PRON	PER	I
+1461	30373	30373	PRON	PER	they
+0	30377	30377	PRON	PER	me
+0	30381	30381	PRON	PER	I
+1461	30385	30385	PRON	PER	them
+1461	30388	30388	PRON	PER	their
+1461	30393	30393	PRON	PER	their
+1461	30401	30401	PRON	PER	their
+0	30413	30413	PRON	PER	I
+0	30420	30420	PRON	PER	I
+0	30430	30430	PRON	PER	me
+1462	30432	30433	NOM	PER	a madman
+1463	30435	30436	NOM	PER	a genius
+0	30439	30439	PRON	PER	I
+0	30449	30449	PRON	PER	I
+0	30457	30457	PRON	PER	me
+1464	30467	30472	NOM	LOC	unnamable abysses of blackness and alienage
+0	30480	30480	PRON	PER	me
+0	30482	30482	PRON	PER	My
+0	30492	30492	PRON	PER	I
+0	30498	30498	PRON	PER	my
+1465	30508	30509	NOM	PER	an invalid
+0	30516	30516	PRON	PER	me
+0	30522	30522	PRON	PER	I
+0	30524	30524	PRON	PER	myself
+0	30531	30531	PRON	PER	my
+0	30538	30538	PRON	PER	I
+0	30561	30561	PRON	PER	my
+0	30574	30574	PRON	PER	My
+1456	30574	30575	NOM	PER	My father
+1456	30584	30584	PRON	PER	he
+0	30588	30588	PRON	PER	me
+0	30599	30599	PRON	PER	me
+0	30605	30605	PRON	PER	I
+0	30610	30610	PRON	PER	my
+1374	30610	30611	NOM	PER	my grandmother
+1468	30613	30614	NOM	PER	uncle Douglas
+162	30614	30614	PROP	PER	Douglas
+0	30618	30618	PRON	PER	I
+0	30625	30625	PRON	PER	I
+0	30627	30627	PRON	PER	my
+1374	30627	30628	NOM	PER	my grandmother
+382	30630	30631	NOM	LOC	the sea
+1374	30633	30633	PRON	PER	She
+1471	30636	30641	NOM	FAC	a phosphorescent palace of many terraces
+1472	30644	30652	NOM	FAC	gardens of strange leprous corals and grotesque brachiate efflorescences
+0	30656	30656	PRON	PER	me
+1374	30666	30666	PRON	PER	She
+1473	30671	30676	NOM	PER	those who take to the water
+0	30681	30681	PRON	PER	me
+1374	30682	30682	PRON	PER	she
+1374	30689	30689	PRON	PER	she
+1474	30693	30730	NOM	GPE	a spot her dead son had learned about , and had leaped to a realm whose wonders — destined for him as well — he had spurned with a smoking pistol . This was to be my realm
+1374	30695	30695	PRON	PER	her
+1475	30695	30697	NOM	PER	her dead son
+1476	30706	30723	NOM	LOC	a realm whose wonders — destined for him as well — he had spurned with a smoking pistol
+1475	30713	30713	PRON	PER	him
+1475	30717	30717	PRON	PER	he
+0	30729	30729	PRON	PER	my
+1477	30729	30730	NOM	LOC	my realm
+0	30734	30734	PRON	PER	I
+0	30740	30740	PRON	PER	I
+1478	30749	30755	NOM	PER	those who had lived since before man
+1479	30758	30759	NOM	LOC	the earth
+0	30761	30761	PRON	PER	I
+1374	30768	30768	PRON	PER	her
+1480	30768	30769	NOM	PER	her grandmother
+165	30775	30777	PROP	PER	Pth’thya - l’yi
+114	30781	30783	PROP	LOC	Y’ha - nthlei
+165	30787	30787	PRON	PER	she
+121	30792	30793	PROP	GPE	Obed Marsh
+114	30797	30799	PROP	LOC	Y’ha - nthlei
+1481	30804	30808	NOM	PER	the upper - earth men
+382	30812	30813	NOM	LOC	the sea
+166	30823	30825	PROP	PER	The Deep Ones
+167	30837	30840	PROP	PER	the forgotten Old Ones
+166	30844	30844	PRON	PER	them
+1481	30849	30849	PRON	PER	they
+1481	30858	30858	PRON	PER	they
+1481	30861	30861	PRON	PER	they
+153	30868	30869	PROP	PER	Great Cthulhu
+1483	30872	30872	NOM	GPE	It
+1484	30875	30879	NOM	GPE	a city greater than Innsmouth
+2	30879	30879	PROP	GPE	Innsmouth
+1481	30883	30883	PRON	PER	They
+1481	30897	30897	PRON	PER	them
+1481	30901	30901	PRON	PER	they
+1481	30909	30913	NOM	PER	the upper - earth men
+0	30916	30916	PRON	PER	I
+0	30935	30935	PRON	PER	I
+0	30948	30948	PRON	PER	me
+0	30962	30962	PRON	PER	me
+0	30963	30963	PRON	PER	I
+0	30972	30972	PRON	PER	I
+0	30976	30976	PRON	PER	myself
+0	30978	30978	PRON	PER	my
+1406	30978	30979	NOM	PER	my uncle
+162	30980	30980	PROP	PER	Douglas
+0	30983	30983	PRON	PER	I
+0	30997	30997	PRON	PER	me
+0	31008	31008	PRON	PER	I
+1487	31013	31017	NOM	LOC	the unknown sea - deeps
+0	31023	31023	PRON	PER	I
+0	31043	31043	PRON	PER	I
+0	31047	31047	PRON	PER	I
+0	31061	31061	PRON	PER	I
+0	31064	31064	PRON	PER	my
+1456	31064	31065	NOM	PER	my father
+0	31069	31069	PRON	PER	me
+1489	31072	31073	NOM	FAC	a sanitarium
+0	31075	31075	PRON	PER	my
+1490	31075	31078	NOM	PER	my poor little cousin
+0	31090	31090	PRON	PER	me
+0	31094	31094	PRON	PER	I
+1487	31097	31097	PRON	PER	them
+153	31104	31105	PROP	PER	Cthulhu fhtagn
+0	31113	31113	PRON	PER	I
+0	31117	31117	PRON	PER	myself
+0	31119	31119	PRON	PER	I
+0	31126	31126	PRON	PER	myself
+0	31128	31128	PRON	PER	I
+0	31131	31131	PRON	PER	my
+1491	31131	31132	NOM	PER	my cousin
+1492	31136	31138	NOM	FAC	that Canton madhouse
+1493	31142	31142	PRON	PER	we
+2	31146	31149	PROP	FAC	marvel - shadowed Innsmouth
+1493	31151	31151	PRON	PER	We
+1494	31156	31161	NOM	LOC	that brooding reef in the sea
+382	31160	31161	NOM	LOC	the sea
+1496	31166	31176	NOM	LOC	black abysses to Cyclopean and many - columned Y’ha - nthlei
+116	31169	31169	PROP	GPE	Cyclopean
+1497	31180	31185	NOM	FAC	that lair of the Deep Ones
+1493	31186	31186	PRON	PER	we
