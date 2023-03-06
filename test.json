@@ -1,0 +1,34 @@
+[
+{
+  "name": "John Steinbeck",
+  "description": "An author from Salinas California"
+},
+{
+  "name": "Mark Twain",
+  "description": "An icon of american literature",
+  "publications": [
+    {
+      "book": "Huckleberry Fin"
+    },
+    {
+      "book": "The Mysterious Stranger"
+    },
+    {
+      "book": "Puddinhead Wilson"
+    }
+  ]
+},
+{
+  "name": "Herman Melville",
+  "description": "Wrote about a famous whale.",
+  "publications": [
+    {
+      "book": "Moby Dick"
+    }
+  ]
+},
+{
+  "name": "Edgar Poe",
+  "description": "Middle Name was Alan"
+}
+]
