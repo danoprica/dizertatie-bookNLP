@@ -1,0 +1,524 @@
+quote_start	quote_end	mention_start	mention_end	mention_phrase	char_id	quote
+75	78	79	79	he	19	“ Witwer ? ”
+90	95	96	98	the young man	49	“ That ’s right , ”
+101	125	96	98	the young man	49	“ But my name ’s Ed to you , of course . That is , if you share my dislike for needless formality . ”
+161	171	172	172	Anderton	19	“ Did you have much trouble finding the building ? ”
+238	242	243	243	Witwer	20	“ No trouble , ”
+265	294	255	255	he	20	“ I ’m not coming into your agency blind , you understand . I have quite a few ideas of my own about the way Precrime is run . ”
+302	314	297	297	Anderton	19	“ How is it run ? I should like to know . ”
+315	319	320	320	Witwer	20	“ Not badly , ”
+323	330	320	320	Witwer	20	“ If fact , quite well . ”
+336	350	351	351	Witwer	20	“ Is that your private opinion ? Or is it just ca nt ? ”
+357	377	378	378	He	20	“ Private and public . The Senate ’s pleased with your work . In fact , they ’re enthusiastic . ”
+381	391	378	378	He	20	“ As enthusiastic as very old men can be . ”
+456	462	463	463	Anderton	19	“ As I understand it , ”
+467	479	463	463	Anderton	19	“ you ’re going to be my assistant until I retire . ”
+480	488	489	490	the other	57	“ That ’s my understanding , too , ”
+499	516	489	490	the other	57	“ Which may be this year , or next year — or ten years from now . ”
+525	555	489	490	the other	57	“ I ’m under no compulsion to retire . I founded Precrime and I can stay on here as long as I want . It ’s purely my decision . ”
+564	568	559	559	his	20	“ Of course . ”
+579	588	573	573	Anderton	19	“ I merely wanted to get things straight . ”
+589	594	595	595	Witwer	20	“ From the start , ”
+598	609	616	616	he	20	“ You ’re the boss . What you say goes . ”
+619	644	616	616	he	20	“ Would you care to show me the organisation ? I ’d like to familiarize myself with the general routine as soon as possible . ”
+662	684	659	659	Anderton	19	“ You ’re acquainted with the theory of precrime , of course . I presume we can take that for granted . ”
+685	693	694	694	Witwer	20	“ I have the information publicly available , ”
+697	749	694	694	Witwer	20	“ With the aid of your precog mutants , you ’ve boldly and successfully abolished the post - crime punitive system of jails and fines . As we all realise , punishment was never much of a deterrent , and could scarcely have afforded the comfort to a victim already dead . ”
+768	793	765	765	Anderton	19	“ You ’ve probably already grasped the basic legalistic drawback to precrime methodology . We ’re taking in individuals who have broken no law . ”
+794	801	802	802	Witwer	20	“ But surely , they will , ”
+807	872	802	802	Witwer	20	“ Happily , they do n’t — because we get to them first , before they can commit an act of violence . So the commission of the crime itself is absolute metaphysics . We can claim they are culpable . They , on the other hand , can eternally claim they ’re innocent . And , in a sense , they are innocent . ”
+888	899	900	900	Anderton	19	“ In our society , we have no major crimes , ”
+904	919	900	900	Anderton	19	“ but we do have a detention camp full of would - be criminals . ”
+978	983	984	984	Anderton	19	“ There they are , ”
+988	996	984	984	Anderton	19	“ What do you think of them ? ”
+1187	1194	1195	1195	he	20	“ It ’s not — pleasant , ”
+1198	1207	1195	1195	he	20	“ I did n’t realize they were so — ”
+1220	1225	1208	1208	He	20	“ So — deformed . ”
+1226	1231	1232	1232	Anderton	19	“ Deformed and retarded , ”
+1236	1304	1305	1305	Subdued	23	“ Especially the girl , there . Donna is forty - five years old . But she looks about ten . The talent absorbs everything ; the esp - lobe shrivels the balance of the frontal area . But what do we care ? We get their prophecies . They pass on what we need . They do n’t understand any of it , but we do . ”
+1325	1334	1335	1335	he	20	“ Are these names that have come up ? ”
+1338	1341	1335	1335	he	20	“ Obviously . ”
+1351	1362	1363	1363	he	20	“ I have n’t had a chance to examine them , ”
+1408	1419	1420	1420	Witwer	20	“ The precogs must see quite far into the future , ”
+1423	1431	1432	1432	Anderton	19	“ They see a quite limited span , ”
+1436	1491	1432	1432	Anderton	19	“ One week or two ahead at the very most . Much of their data is worthless to us — simply not relevant to our line . We pass it on to the appropriate agencies . And they in turn trade data with us . Every important bureau has its cellar of treasured monkeys . ”
+1492	1495	1496	1496	Witwer	20	“ Monkeys ? ”
+1502	1524	1496	1496	Witwer	20	“ Oh , yes , I understand . See no evil , speak no evil , et cetera . Very amusing . ”
+1525	1529	1432	1432	Anderton	19	“ Very apt . ”
+1547	1630	1532	1532	Anderton	19	“ Some of these name will be totally discarded . And most of the remainder record petty crimes : thefts , income tax evasion , assault , extortion . As I ’m sure you know , Precrime has cut down felonies by ninetynine and decimal point eight percent . We seldom get actual murder or treason . After all , the culprit knows we ’ll confined him in the detention camp a week before he gets a chance to commit the crime . ”
+1631	1643	1644	1644	Witwer	20	“ When was the last time an actual murder was committed ? ”
+1647	1652	1653	1653	Anderton	19	“ Fiver years ago , ”
+1661	1667	1658	1658	his	19	“ How did it happen ? ”
+1668	1726	1727	1727	Anderton	19	“ The criminal escaped our teams . We had his name — in fact , we had all the details of the crime , including the victim ’s name . We knew the exact moment , the location of the planned act of violence . But in spite of us he was able to carry it out . ”
+1730	1742	1743	1743	He	19	“ After all , we ca n’t get all of them . ”
+1748	1755	1743	1743	He	19	“ But we do get most . ”
+1756	1763	1764	1764	Witwer	20	“ One murder in five years . ”
+1770	1782	1764	1764	Witwer	20	“ Quite an impressive record … something to be proud of . ”
+1787	1833	1834	1834	He	19	“ I am proud . Thirty years ago I worked out the theory — back in the days when self - seekers were thinking in terms of quick raids on the stock market . I saw something legitimate ahead — something of tremendous social value . ”
+1853	1860	1861	1861	he	19	“ See which ones we want , ”
+1865	1871	1861	1861	he	19	“ Use your own judgment . ”
+1883	1890	1879	1879	Witwer	20	“ It ’s a big responsibility . ”
+1891	1897	1899	1899	Anderton	26	“ Yes , it is , ”
+1901	1939	1942	1942	he	20	“ If we let one criminal escape — as we did five years ago — we ’ve got a human life on our conscience . We ’re solely responsible . If we slip up , somebody dies . ”
+1951	1958	1942	1942	he	20	“ It ’s a public trust . ”
+1959	1966	1967	1967	Witwer	20	“ Are you ever tempted to — ”
+1970	1986	1967	1967	Witwer	20	“ I mean , some of the men you pick up must offer you plenty . ”
+1987	2026	2027	2027	Anderton	26	“ It would n’t do any good . A duplicate file of cards pops out at the Army GHQ . It ’s check and balance . They can keep their eye on us as continuously as they wish . ”
+2035	2045	2046	2046	He	26	“ So even if we wanted to accept a — ”
+2054	2060	2061	2061	Witwer	20	“ What ’s the matter ? ”
+2080	2083	2084	2084	he	26	“ Nothing , ”
+2087	2092	2084	2084	he	26	“ Nothing at all . ”
+2106	2114	2115	2115	he	20	“ You really do n’t like me , ”
+2118	2121	2115	2115	he	20	“ True , ”
+2125	2132	2122	2122	Anderton	26	“ I do n’t . But — ”
+2264	2269	2270	2270	Anderton	19	“ Hello , darling , ”
+2392	2394	2438	2438	His	19	“ rigged ”
+2578	2586	2587	2587	Lisa	29	“ What ’s the matter , darling ? ”
+2592	2609	2587	2587	Lisa	29	“ You look as if you ’ve just seen a ghost . Are you all right ? ”
+2610	2615	2616	2616	he	19	“ I ’m fine , ”
+2633	2643	2644	2644	she	29	“ Is this gentleman your new coworker , darling ? ”
+2698	2705	2706	2706	Lisa	29	“ Are you from New York ? ”
+2709	2712	2713	2713	Witwer	20	“ No , ”
+2716	2753	2713	2713	Witwer	20	“ I ’ve lived most of my life in Chicago . I ’m staying at a hotel — one of the big hotels downtown . Wait — I have the name written on a card somewhere . ”
+2766	2796	2763	2763	Lisa	29	“ Perhaps you ’d like to have dinner with us . We ’ll be working in close cooperation , and I really think we ought to get better acquainted . ”
+2855	2861	2862	2862	Lisa	29	“ Where are you going ? ”
+2867	2874	2875	2875	he	20	“ Back to the monkey block , ”
+2879	2896	2875	2875	he	20	“ I want to check over some rather puzzling data tapes before the Army sees them . ”
+2947	2956	2963	2963	she	29	“ What on earth has come over you ? ”
+2971	2978	2979	2979	she	29	“ I knew you were leaving , ”
+2986	2998	2999	2999	She	29	“ What ’s wrong with you ? Everybody things you ’re — ”
+3003	3012	2999	2999	She	29	“ I mean , you ’re acting erratically . ”
+3036	3042	3043	3043	he	20	“ I ’m getting out , ”
+3047	3054	3043	3043	he	20	“ While there ’s still time . ”
+3055	3060	3026	3026	Anderton	19	“ But — why ? ”
+3061	3089	3090	3090	Lisa	29	“ I ’m being framed — deliberately and maliciously . This creature is out to get my job . The Senate is getting at me through him . ”
+3098	3109	3090	3090	Lisa	29	“ But he seems like such a nice young man . ”
+3110	3117	3118	3118	Lisa	29	“ Nice as a water moccasin . ”
+3125	3142	3118	3118	Lisa	29	“ I do n’t believe it . Darling , all this strain you ’ve been under — ”
+3149	3179	3146	3146	she	29	“ It ’s not really credible that Ed Witwer is trying to frame you . How could he , even if he wanted to ? Surely Ed would n’t — ”
+3180	3183	3118	3118	Lisa	29	“ Ed ? ”
+3184	3194	3195	3195	Her	29	“ That ’s his name , is n’t it ? ”
+3206	3233	3234	3234	He	107	“ Good heavens , you ’re suspicious of everybody . You actually believe I ’m mixed up with it in some way , do n’t you ? ”
+3237	3243	3244	3244	She	29	“ I ’m not sure . ”
+3254	3320	3250	3250	her	29	“ That ’s not true . You really believe it . Maybe you ought to go away for a few weeks . You desperately need a rest . All this tension and trauma , a young man coming in . You ’re acting paranoiac . Ca n’t you see that ? People plotting against you . Tell me , do you have any actual proof ? ”
+3332	3337	3338	3338	he	19	“ Examine this carefully , ”
+3364	3373	3374	3374	Anderton	19	“ The set - up is fairly obvious , ”
+3384	3408	3411	3411	he	19	“ This will give Witwer the legal pretext to remove me right now . He wo n’t have to wait until I resign . ”
+3414	3426	3411	3411	he	19	“ They know I ’m good for a few years yet . ”
+3427	3430	3411	3411	he	19	“ But — ”
+3431	3461	3462	3462	His	19	“ It will end the check and balance system . Precrime will no longer be an independent agency . The Senate will control the police , and after that — ”
+3466	3499	3462	3462	His	19	“ They ’ll absorb the Army too . Well , it ’s outwardly logical enough . Of course I fell hostility and resentment toward Witwer — of course I have a motive . ”
+3500	3551	3554	3554	her	108	“ Nobody likes to be replaced by a younger man , and find himself turned out to pasture . It ’s all really quite plausible — except that I have n’t the remotest intention of killing Witwer . But I ca n’t prove that . So what can I do ? ”
+3564	3577	3559	3559	Lisa	29	“ I — I do n’t know . Darling , if only — ”
+3578	3582	3583	3583	Anderton	19	“ Right now , ”
+3587	3608	3583	3583	Anderton	19	“ I ’m going home to pack my things . That ’s about as far ahead as I can plan . ”
+3609	3622	3559	3559	Lisa	29	“ You ’re really going to — to try to hide out ? ”
+3623	3657	3658	3658	He	19	“ I am . As far as the Centaurian - colony planets , if necessary . It ’s been done successfully before , and I have a twenty - four hour head start . ”
+3662	3677	3658	3658	He	19	“ Go back inside . There ’s no point in your coming with me . ”
+3678	3685	3686	3686	Lisa	29	“ Did you imagine I would ? ”
+3697	3702	3692	3692	Anderton	19	“ Would n’t you ? ”
+3710	3731	3732	3732	He	19	“ No , I can see you do n’t believe me . You still think I ’m imagining all this . ”
+3739	3750	3732	3732	He	19	“ Even with that evidence you still are n’t convinced . ”
+3751	3754	3755	3755	Lisa	29	“ No , ”
+3759	3784	3755	3755	Lisa	29	“ I ’m not . You did n’t look at it closely enough , darling . Ed Witwer ’s name is n’t on it . ”
+3794	3805	3806	3806	Lisa	29	“ Nobody says you ’re going to kill Ed Witwer , ”
+3817	3847	3806	3806	Lisa	29	“ The card must be genuine , understand ? And it has nothing to do with Ed . He ’s not plotting against you and neither is anybody else . ”
+4081	4089	4090	4090	he	19	“ It did n’t take you long , ”
+4117	4124	4090	4090	he	19	“ Did n’t she even hesitate ? ”
+4133	4144	4145	4145	he	19	“ I do n’t know what you ’re talking about , ”
+4148	4154	4145	4145	he	19	“ Come along with me . ”
+4164	4179	4157	4157	Anderton	19	“ You ’re not from my agency ? You ’re not a police officer ? ”
+4312	4321	4322	4322	Anderton	19	“ You ’ll have reason to regret this , ”
+4334	4342	4322	4322	Anderton	19	“ Do you realise who I am ? ”
+4343	4347	4348	4353	the main in the brown overcoat	132	“ We realise , ”
+4533	4538	4539	4539	he	19	“ Is this Anderton ? ”
+4552	4560	4539	4539	he	19	“ Where did you pick him up ? ”
+4561	4566	4567	4568	the other	57	“ At his home , ”
+4571	4580	4567	4568	the other	57	“ He was packing — as we expected . ”
+4589	4592	4593	4593	He	145	“ Packing . ”
+4606	4610	4611	4611	he	145	“ Look here , ”
+4617	4641	4611	4611	he	145	“ what ’s the matter with you ? Are you hopelessly insane ? How could you kill a man you ’ve never met ? ”
+4654	4664	4651	4652	Leopold Kaplan	33	“ First , I ’ll ask you a question , ”
+4669	4694	4665	4665	Anderton	19	“ Do you realise what you ’ve done ? I ’m Commissioner of Police . I can have you sent up for twenty years . ”
+4710	4717	4718	4718	he	19	“ How did you find out ? ”
+4737	4745	4723	4723	his	19	“ It wo n’t be for another — ”
+4746	4755	4756	4756	Kaplan	33	“ I was n’t notified through your agency , ”
+4764	4794	4797	4797	he	33	“ The fact that you ’ve never heard of me does n’t surprise me too much . Leopold Kaplan , General of the Army of the Federated Westbloc Alliance . ”
+4800	4819	4797	4797	he	33	“ Retired , since the end of the Anglo - Chinese War , and the abolishment of AFWA . ”
+4845	4858	4842	4842	he	19	“ Well ? You ’ve got me here . What ’s next ? ”
+4859	4862	4863	4863	Kaplan	33	“ Evidently , ”
+4866	4941	4942	4942	He	33	“ I ’m not going to have you destroyed , or it would have shown up on one of those miserable little cards . I ’m curious about you . It seemed incredible to me that a man of your stature could contemplate the cold - blooded murder of a total stranger . There must be something more here . Frankly , I ’m puzzled . If it represented some kind of Police strategy — ”
+4948	4961	4942	4942	He	33	“ Surely you would n’t have permitted the duplicate to reach us . ”
+4962	4965	4966	4969	one of his men	149	“ Unless , ”
+4972	4979	4966	4969	one of his men	149	“ it ’s a deliberate plant . ”
+4993	5001	4982	4982	his	33	“ What do you have to say ? ”
+5002	5010	5011	5011	Anderton	19	“ That ’s exactly what it is , ”
+5031	5095	5011	5011	Anderton	19	“ The prediction on the card was deliberately fabricated by a clique inside the police agency . The cared is prepared and I ’m netted . I ’m relieved of my authority automatically . My assistant steps in and claims he prevented the murder in the usual efficient Precrime manner . Needless to say , there is no murder or intent of murder . ”
+5096	5108	5109	5109	Kaplan	33	“ I agree with you that there will be no murder , ”
+5113	5129	5109	5109	Kaplan	33	“ You ’ll be in police custody . I intend to make certain of that . ”
+5135	5157	5132	5132	Anderton	19	“ You ’re taking me back there ? If I ’m in custody , I ’ll never be able to prove — ”
+5158	5171	5172	5172	Kaplan	33	“ I do n’t care what you prove or do n’t prove , ”
+5175	5189	5192	5192	he	19	“ All I ’m interested in is having you out of the way . ”
+5195	5201	5192	5192	he	19	“ For my own protection . ”
+5202	5210	5211	5214	one of the men	151	“ He was getting ready to leave , ”
+5217	5222	5223	5223	Anderton	19	“ That ’s right , ”
+5228	5259	5223	5223	Anderton	19	“ As soon as they get hold of me , I ’ll be confined in the detention camp . Witwer will take over — lock , stock , and barrel . ”
+5264	5277	5260	5260	His	19	“ And my wife . They ’re acting in concert , apparently . ”
+5287	5292	5293	5293	he	33	“ It ’s possible , ”
+5306	5334	5301	5301	he	33	“ I ca n’t take the chance . If this is a frame against you , I ’m sorry . But it ’s simply not my affair . ”
+5339	5347	5352	5352	he	33	“ However , I wish you luck . ”
+5355	5371	5352	5352	he	33	“ Take him to the police building and turn him over to the highest authority . ”
+5388	5391	5392	5392	Anderton	19	“ Witwer ! ”
+5413	5433	5401	5401	Kaplan	33	“ Witwer has already assumed authority . Obviously , he ’s going to create quite an affair about this . ”
+5464	5599	5609	5609	Anderton	19	“ … all citizens are warned not to shelter or in any fashion aid or assist this dangerous marginal individual . The extraordinary circumstance of an escaped criminal at liberty and in a position to commit an act of violence is unique in modern times . All citizens are hereby notified that legal statutes still in force implicate any and all persons failing to cooperate fully with the police in their task of apprehending John Allison Anderton . To repeat : The Precrime Agency of the Federal Westbloc Government is in the process of locating and neutralizing its former Commissioner , John Allison Anderton , who , through the methodology of the precrime - system , is hereby declared a potential murderer and as such forfeits his rights to freedom and all its privileges . ”
+5600	5608	5609	5609	Anderton	19	“ It did n’t take him long , ”
+5624	5633	5634	5634	Anderton	19	“ Lisa must ’ve gone directly to him , ”
+5638	5644	5645	5645	Kaplan	33	“ Why should we wait ? ”
+5648	5656	5657	5657	He	33	“ You ’ve made your intentions clear . ”
+5663	5697	5657	5657	He	33	“ Take him back to town . I feel uneasy having him so close . In that respect , I concur with Commissioner Witwer . I want him neutralized as soon as possible . ”
+5724	5731	5732	5735	one of the men	151	“ You can see the point , ”
+5740	5755	5732	5735	one of the men	151	“ If you were in his place , you ’d act just as decisively . ”
+5765	5768	5769	5770	the man	110	“ Anyhow , ”
+5774	5811	5769	5770	the man	110	“ you ’re just one of many . Thousands of people have gone to that detention camp . You wo n’t be lonely . As a matter of fact , you may not want to leave . ”
+5858	5872	5873	5876	one of the men	151	“ This Witwer seems to know how to take advantage of an opportunity , ”
+5880	5887	5873	5876	one of the men	151	“ Did you ever meet him ? ”
+5888	5891	5892	5892	Anderton	19	“ Briefly , ”
+5895	5912	5913	5913	Anderton	19	“ He wanted your job — so he framed you . Are you sure of that ? ”
+5916	5921	5913	5913	Anderton	19	“ Does it matter ? ”
+5922	5928	5929	5930	The man	110	“ I was just curious . ”
+5935	5963	5929	5930	The man	110	“ So you ’re the ex - Commissioner of Police . People in the camp will be glad to see you coming . They ’ll remember you . ”
+5964	5968	5969	5969	Anderton	19	“ No doubt , ”
+5972	5993	5994	5995	The man	110	“ Witwer sure did n’t waste any time . Kaplan ’s lucky — with an official like that in charge . ”
+6002	6014	5994	5995	The man	110	“ You ’re really convinced it ’s a plot , eh ? ”
+6015	6019	5929	5930	The man	110	“ Of course . ”
+6020	6064	5929	5930	The man	110	“ You would n’t harm a hair on Kaplan ’s head . For the first time in history , Precrime goes wrong ? An innocent main is framed by one of those cards . Maybe there ’ve been other innocent people — right ? ”
+6065	6071	6072	6072	Anderton	19	“ It ’s quite possible , ”
+6076	6140	6072	6072	Anderton	19	“ Maybe the whole system can break down . Sure , you ’re not going to commit a murder — and maybe none of them were . Is that why you told Kaplan you wanted to keep yourself outside ? Were you hoping to prove the system wrong ? I ’ve got an open mind , if you want to talk about it . ”
+6149	6172	6141	6142	Another man	172	“ Just between the two of us , is there really anything to this plot stuff ? Are you really being framed ? ”
+6490	6495	6546	6546	He	19	“ You ’ll live , ”
+6529	6538	6546	6546	He	19	“ Can you hear what I ’m saying ? ”
+6539	6542	6543	6543	Anderton	19	“ Yes , ”
+6575	6580	6573	6573	himself	19	“ You ’re not — ”
+6581	6587	6588	6589	The man	110	“ Stop talking and listen . ”
+6625	6634	6635	6635	he	110	“ We had to do it that way , ”
+6638	6663	6635	6635	he	110	“ It was the only alternative . We did n’t have much time . We though Kaplan would keep you at his place longer . ”
+6664	6669	6670	6670	Anderton	19	“ Who are you ? ”
+6686	6717	6635	6635	he	110	“ My name ’s Fleming . You ’ll see me again . We have about five seconds before the police get here . Then we ’re back where we started . ”
+6728	6757	6635	6635	he	110	“ That ’s enough loot to keep you going . And there ’s a full set of identification there . We ’ll contact you from time to time . ”
+6767	6775	6776	6776	Anderton	19	“ Until you ’ve proved your point . ”
+6779	6787	6776	6776	Anderton	19	“ It ’s a frameup , then ? ”
+6788	6792	6795	6796	the man	110	“ Of course . ”
+6799	6811	6795	6796	the man	110	“ You mean they got you to believe it , too ? ”
+6812	6816	6795	6796	the man	110	“ I thought — ”
+6832	6850	6817	6817	Anderton	19	“ Hostility toward Witwer … replace , my wife and a younger man , natural resentment … . ”
+6851	6857	6858	6859	the other	57	“ Do n’t kid yourself , ”
+6862	6918	6858	6859	the other	57	“ You know better than that . This whole business was worked out carefully . They had every phase of it under control . The card was set to pop the day Witwer appeared . They ’ve already got the first part wrapped up . Witwer is Commissioner , and you ’re a hunted criminal . ”
+6919	6925	6795	6796	the man	110	“ Who ’s behind it ? ”
+6926	6930	6931	6931	Anderton	19	“ Your wife . ”
+6936	6941	6942	6943	The man	110	“ You ’re positive ? ”
+6946	6952	6953	6953	He	110	“ You bet your life . ”
+6958	7042	6953	6953	He	110	“ Here come the police . Take off down this alley . Grab a bus , get yourself into the slum section , rent a room and buy a stack of magazines to keep you busy . Get other clothes — You ’re smart enough to take care of yourself . Do n’t try to leave Earth . They ’ve got all the intersystem transports screened . If you can keep low for the next seven days , you ’ve got it made . ”
+7043	7048	7049	7049	Anderton	19	“ Who are you ? ”
+7131	7138	7139	7139	Fleming	36	“ Consider us a protective society , ”
+7152	7166	7167	7167	he	36	“ A sort of police force that watches the police . To see , ”
+7170	7179	7167	7167	he	36	“ that everything stays on an even keel . ”
+7209	7213	7214	7214	Fleming	36	“ Get going , ”
+7219	7227	7214	7214	Fleming	36	“ And do n’t discard that packet . ”
+7251	7261	7242	7243	the man	110	“ Study it carefully and you may still survive . ”
+7678	7697	7698	7699	the announcer	220	“ … this man has used the advantage of his high position to carry out an initial escape , ”
+7707	7824	7698	7699	the announcer	220	“ Because of his high office he had access to previewed data and the trust placed in him permitted him to evade the normal process of detection and re - location . During the period of his tenure he exercised his authority to send countless potentially guilty individuals to their proper confinement , this sparing the lives of innocent victims . This man , John Allison Anderton , was instrumental in the original creation of the Precrime system , the prophylactic pre - detection of criminals through the ingenious use of mutant precogs , capable of previewing future events and transferring orally that data to analytical machinery . These three precogs , in their vital function … ”
+7967	8116	7953	7953	he	220	“ … the system of three precogs finds its genesis in the computers of the middle decades of this century . How are the results of an electronic computer checked ? By feeding data to a second computer of identical design . But two computers are not sufficient . If each computer arrived at a different answer , it is impossible to tell a priori which is correct . The solution , based on a careful study of statistical method , is to utilize a third computer to check the results of the first two . In this manner , a so - called majority report is obtained . It can be assumed with fair probability that the agreement of two out of three computers indicates which of the alternative results is accurate . It would not be likely that two computers would arrive at identically incorrect solutions — ”
+8144	8260	8133	8133	he	19	“ … unanimity of all three precogs is a hoped - for but seldom achieved phenomenon , acting - Commissioner Witwer explains . It is much more common to obtain a collaborative majority report of two precogs , plus a minority report of some slight variation , usually with reference to time or place , from the third mutant . This is explained by the theory of multiple - futures . If only one time - path existed , precognitive information would be of no importance , since no possibility would exist , in possessing this information , of altering the future . In the Precrime Agency ’s work we must first of all assume — ”
+8511	8514	8515	8515	Page	27	“ Hello , ”
+8548	8553	8554	8554	he	19	“ Can you talk ? ”
+8557	8564	8554	8554	he	19	“ Or are you tied up ? ”
+8599	8607	8612	8612	Anderton	19	“ Why — are you calling here ? ”
+8615	8626	8612	8612	Anderton	19	“ I did n’t recognize the receptionist . New personnel ? ”
+8627	8632	8633	8633	Page	27	“ Brand - new , ”
+8643	8650	8633	8633	Page	27	“ Big turnovers , these days . ”
+8651	8656	8612	8612	Anderton	19	“ So I hear . ”
+8662	8671	8659	8659	Anderton	19	“ How ’s your job ? Still safe ? ”
+8672	8677	8633	8633	Page	27	“ Wait a minute . ”
+8712	8719	8720	8720	he	19	“ We can talk better now , ”
+8724	8729	8720	8720	he	19	“ How much better ? ”
+8730	8740	8691	8691	Anderton	19	“ Not a great deal . Where are you ? ”
+8741	8747	8748	8748	Anderton	19	“ Strolling through Central Park , ”
+8751	8756	8748	8748	Anderton	19	“ Enjoying the sunlight . ”
+8797	8805	8806	8806	he	19	“ I ’m in a new field , ”
+8810	8818	8806	8806	he	19	“ I ’m an electrician these days . ”
+8819	8822	8823	8823	Page	27	“ Oh ? ”
+8828	8869	8823	8823	Page	27	“ I thought maybe you had some work for me . If it can be arranged , I ’d like to drop by and examine your basic computing equipment . Especially the data and analytical banks in the monkey block . ”
+8877	8890	8874	8874	Page	27	“ It — might be arranged . If it ’s really important . ”
+8891	8895	8896	8896	Anderton	19	“ It is , ”
+8900	8908	8896	8896	Anderton	19	“ When would be best for you ? ”
+8909	8912	8913	8913	Page	27	“ Well , ”
+8918	8955	8913	8913	Page	27	“ I ’m having a repair team come in to look at the intercom equipment . The acting - Commissioner wants it to be improved , so he can operate quicker . You might trail along . ”
+8956	8965	8896	8896	Anderton	19	“ I ’ll do that . About when ? ”
+8966	8983	8896	8896	Anderton	19	“ Say four o’clock . Entrance B , level 6 . I ’ll — meet you . ”
+8984	8987	8988	8988	Anderton	19	“ Fine , ”
+8997	9011	9012	9012	He	19	“ I hope you ’re still in charge , when I get there . ”
+9091	9107	9087	9087	Page	27	“ You ’re out of your mind . Why in hell did you come back ? ”
+9108	9116	9119	9119	Anderton	19	“ I ’m not back for long . ”
+9133	9147	9119	9119	Anderton	19	“ Do n’t let anybody in . I ca n’t take any chances . ”
+9148	9158	9165	9165	Page	27	“ You should ’ve quit when you were ahead . ”
+9170	9191	9165	9165	Page	27	“ Witwer is making hay , hand over fist . He ’s got the whole country screaming for your blood . ”
+9207	9218	9195	9195	Anderton	19	“ Which of the three monkeys gave the minority report ? ”
+9219	9230	9232	9232	his	19	“ Do n’t question me — I ’m getting out . ”
+9324	9326	9289	9289	Anderton	19	“ Jerry ”
+9399	9402	9352	9354	the psych testers	254	“ Jerry , ”
+9466	9469	9448	9448	he	19	“ Jerry ’s ”
+9568	9571	9584	9584	he	19	“ Jerry ’s ”
+9638	9641	9625	9625	Anderton	19	“ Jerry ’s ”
+9700	9702	9708	9708	Anderton	19	“ Jerry ”
+9831	9836	9808	9808	he	35	“ You damn fool ! ”
+9872	9877	9878	9878	he	35	“ Do n’t worry , ”
+9889	9894	9878	9878	he	35	“ I ’m leaving . ”
+9906	9937	9899	9899	Lisa	29	“ Page said you were here , but I could n’t believe it . He should n’t have let you in . He just does n’t understand what you are . ”
+9938	9943	9944	9944	Anderton	19	“ What am I ? ”
+9948	9962	9944	9944	Anderton	19	“ Before you answer that , maybe you better listen to this tape . ”
+9963	10001	10002	10002	She	29	“ I do n’t want to listen to it ! I just want you to get out of here ! Ed Witwer knows somebody ’s down here . Page is trying to keep him occupied , but — ”
+10014	10029	10002	10002	She	29	“ He ’s here now ! He ’s going to force his way in . ”
+10030	10050	10051	10051	Lisa	29	“ Have n’t you got any influence ? Be gracious and charming . He ’ll probably forget about me . ”
+10059	10076	10051	10051	Lisa	29	“ There ’s a ship parked on the roof . If you want to get away … ”
+10092	10110	10089	10089	she	29	“ I ’ll be taking off in a minute or so . If you want to come — ”
+10111	10116	10117	10117	Anderton	19	“ I ’ll come , ”
+10183	10191	10192	10192	she	94	“ It ’s a good fast ship , ”
+10199	10220	10192	10192	she	94	“ It ’s emergency - fuelled — ready to go . I was going to supervise some of the teams . ”
+10297	10301	10302	10302	she	29	“ I wonder , ”
+10310	10319	10302	10302	she	29	“ how many times this has happened before . ”
+10320	10330	10358	10358	she	29	“ A minority report ? A great many times . ”
+10331	10351	10358	10358	she	29	“ I mean , one precog misphased . Using the report of the others as data — superseding them . ”
+10361	10375	10358	10358	she	29	“ Perhaps a lot of the people in the camps are like you . ”
+10376	10379	10358	10358	she	29	“ No , ”
+10395	10420	10358	10358	she	29	“ I was in a position to see the card , to get a look at the report . That ’s what did it . ”
+10421	10424	10425	10425	Lisa	29	“ But — ”
+10429	10448	10425	10425	Lisa	29	“ Perhaps all of them would have reacted that way . We could have told them the truth . ”
+10449	10460	10461	10461	he	19	“ It would have been far too great a risk , ”
+10469	10481	10465	10465	Lisa	29	“ Risk ? Chance ? Uncertainty ? With the precogs around ? ”
+10491	10498	10499	10499	he	19	“ This is a unique case , ”
+10502	10538	10499	10499	he	19	“ And we have an immediate problem . We can tackle the theoretical aspects later on . I have to get this tape to the proper people — before your bright young friend demolishes it . ”
+10539	10547	10465	10465	Lisa	29	“ You ’re taking it to Kaplan ? ”
+10548	10553	10554	10554	He	19	“ I certainly am . ”
+10568	10591	10554	10554	He	19	“ He ’ll be interested . Proof that his life is n’t in danger ought to be of vital concern to him . ”
+10604	10613	10596	10596	Lisa	29	“ And you think he ’ll help you . ”
+10614	10630	10596	10596	Lisa	29	“ He may — or he may not . It ’s a chance worth taking . ”
+10631	10642	10643	10643	Lisa	29	“ How did you manage to go underground so quickly ? ”
+10646	10656	10643	10643	Lisa	29	“ A completely effective disguise is difficult to obtain . ”
+10657	10664	10665	10665	he	19	“ All it takes is money , ”
+10676	10683	10684	10684	she	29	“ Probably Kaplan will protect you , ”
+10687	10693	10684	10684	she	29	“ He ’s quite powerful . “
+10703	10704	10699	10701	a retired general	275	” “
+10791	10792	10795	10795	you	20	” “
+10800	10801	10795	10795	you	20	” “
+10892	10898	10899	10899	I	0	” Reluctantly , he agreed . “
+10903	10904	10899	10899	I	0	” “
+10908	10912	10905	10906	Ed Witwer	20	” Lisa continued , “
+10955	10956	10957	10957	I	0	” “
+10961	10973	10957	10957	I	0	” Anderton said , quietly . Lisa leaned earnestly toward him . “
+10987	10991	10992	10992	He	20	” she said . “
+11032	11036	11023	11023	I	0	” Anderton asked , “
+11057	11058	11052	11052	he	20	” “
+11061	11065	11052	11052	he	20	” Lisa retorted , “
+11087	11088	11077	11077	He	20	” “
+11093	11097	11100	11100	he	20	” Anderton conceded . “
+11105	11106	11109	11109	he	20	” “
+11188	11205	11236	11236	You	0	” Leaning over , she stubbed out her cigarette and fumbled in her purse for another . “
+11223	11224	11225	11225	My	0	” “
+11228	11235	11236	11236	You	0	” Anderton answered , without hesitation . “
+11240	11241	11236	11236	You	0	” “
+11275	11288	11289	11289	I	0	” From her purse , Lisa got out an incredibly tiny pistol . “
+11292	11298	11289	11289	I	0	” she told him huskily , “
+11326	11334	11335	11335	You	0	” After a pause , Anderton asked : “
+11348	11349	11335	11335	You	0	” “
+11376	11377	11363	11363	you	0	” “
+11382	11387	11379	11379	your	0	” Anderton told her . “
+11418	11624	11396	11396	I	0	” Lisa ’s lips pressed into a thin , bloodless line . Holding the pistol tightly , she sat facing him , her eyes fixed intently on him as he swung the ship in a broad arc . A few loose articles rattled from the glove compartment as the little craft turned on a radical slant , on wing rising majestically until it point straight up . Both Anderton and his wife were supported by the constraining metal arms of their seats . But not so the third member of the party . Out of the corner of his eye , Anderton saw a flash of motion . A sound came simultaneously , the clawing struggle of a large man as he abruptly lost his footing and plunged into the reinforced wall of the ship . What followed happed quickly . Fleming scrambled instantly to his feet , lurching and wary , one arm lashing out for the woman ’s pistol . Anderton was too startled to cry out . Lisa turned , saw the man — and screamed . Fleming knocked the gun from her hand , sending it clattering to the floor . Grunting , Fleming shoved her aside and retrieved the gun . “
+11627	11638	11396	11396	I	0	” he gasped , straightening up as best he could . “
+11652	11653	11649	11649	I	0	” “
+11659	11721	11654	11654	You	0	” Anderton began — and stopped . It was obvious that Fleming and his men had kept him under surveillance . The existence of Lisa ’s ship had been duly noted and factored in , and while Lisa had debated whether it would be wise to fly him to safety , Fleming had crept into the storage compartment of the ship . “
+11724	11728	11654	11654	You	0	” Fleming said , “
+11739	11748	11729	11729	you	0	” His moist clumsy fingers groped for it . “
+11763	11764	11753	11753	Witwer	20	” “
+11769	11783	11765	11765	Kaplan	33	” Anderton asked numbly , still dazed by the appearance of the man . “
+11820	11838	11839	11839	You	0	” Fleming tossed the tiny pistol away and gout out his own heavy - duty military weapon . “
+11862	11863	11854	11854	she	297	” “
+11870	11874	11864	11864	I	0	” Anderton protested . “
+11878	11879	11876	11876	she	297	” “
+11931	11942	11924	11924	you	0	” A strange look passed over Lisa ’s stricken features . “
+11948	11952	11953	11953	Witwer	20	” she whispered . “
+11965	11966	11959	11959	I	0	” “
+11974	11979	11967	11967	You	0	” Fleming interrupted inexorably . “
+12002	12017	12043	12043	Page	27	” He squatted down as he spoke , directly behind the woman ’s chair . “
+12063	12129	12046	12046	Witwer	20	” Still crouching , Fleming seized hold of Lisa . Tossing his heavy gun to Anderton , he expertly tilted her chin up until her temple was shoved back against the seat . Lisa clawed frantically at him ; a thin , terrified wail rose in her throat . Ignoring her , Fleming closed his great hands around her neck and began relentlessly to squeeze . “
+12134	12140	12046	12046	Witwer	20	” he explained , gasping . “
+12169	12302	12304	12304	you	305	” It seemed strange that Anderton waited so long . As it was , Fleming ’s thick fingers were cruelly imbedded in the woman ’s pale flesh before he lifted the butt of the heavyduty pistol and brought it down on the back of Fleming ’s skull . The monstrous hands relaxed . Staggered , Fleming ’s head fell forward and he sagged against the wall of the ship . Trying feebly to collect himself , he began dragging his body upward . Anderton hit him again , this time above the left eye . He fell back , and lay still . Struggling to breathe , Lisa remained for a moment huddled over , her body swaying back and forth . Then , gradually , colour crept back into her face . “
+12309	12320	12304	12304	you	305	” Anderton asked , shaking her , his voice urgent . “
+12327	12336	12304	12304	you	305	” Almost mechanically she reached for the wheel . “
+12349	12350	12304	12304	you	305	” “
+12392	12599	12600	12600	You	308	” He climbed back to where Fleming lay spread out on the deck . Trying not to touch the man ’s head , he tore open his coat and rummaged in his pockets . A moment later , Fleming ’s sweat - sodden wallet rested in his hands . Tod Fleming , according to his identification , was an Army Major attached to the Internal Intelligence Department of Military Information . Among the various papers was a document signed by General Leopold Kaplan , stating that Fleming was under special protection of his own group — the International Veteran ’s League . Fleming and his men were operating under Kaplan ’s orders . The bread truck , the accident , had been deliberately rigged . It meant that Kaplan had deliberately kept him out of police hands . The plan went back to the original contact in his home , when Kaplan ’s men had picked him up as he was packing . Incredulous , he realized what had really happened . Even then , they were making sure they got him before the police . From the start , it had been an elaborate strategy to make certain that Witwer would fail to arrest him . “
+12606	12621	12600	12600	You	308	” Anderton said to his wife , as he climbed back in the seat . “
+12629	12646	12650	12650	you	20	” Mutely , she nodded . Indicating the communications circuit of the dashboard , she asked : “
+12653	12654	12650	12650	you	20	” “
+12677	12722	12650	12650	you	20	” Jerkily , she dialled , got the closed - channel mechanical circuit , and raised police headquarters in New York . A visual panorama of petty police officials flashed by before a tiny replica of Ed Witwer ’s features appeared on the screen . ”
+12723	12727	12728	12728	Anderton	19	“ Remember me ? ”
+12735	12750	12753	12753	his	20	“ Good God . What happened ? Lisa , are you bringing him in ? ”
+12764	12767	12768	12768	he	20	“ Look , ”
+12772	12790	12768	12768	he	20	“ do n’t do anything to her . Whatever you may think , she ’s not responsible . ”
+12791	12799	12800	12800	Anderton	19	“ I ’ve already found that out , ”
+12803	12819	12800	12800	Anderton	19	“ Can you get a fix on us ? We may need protection getting back . ”
+12820	12823	12824	12824	Witwer	20	“ Back ! ”
+12830	12836	12824	12824	Witwer	20	“ You ’re coming in ? “
+12843	12844	12837	12837	You	20	” “
+12850	12859	12845	12845	I	0	” Speaking rapidly , urgently , Anderton added , “
+12889	12890	12891	12891	Kaplan	33	” “
+12893	12899	12891	12891	Kaplan	33	” the miniature image said . “
+12904	12905	12902	12902	him	20	” “
+12916	12923	12910	12910	He	20	” Anderton ’s heart stopped beating . “
+12929	12930	12926	12926	he	20	” “
+12954	12955	12944	12944	He	20	” “
+12963	12967	12957	12957	he	20	” Anderton said . “
+12973	12980	12984	12984	you	20	” Alarmed , Witwer almost shouted : “
+12991	12992	12993	12993	I	0	” “
+12998	13011	13012	13012	Witwer	20	” Anderton said heavily , when I get back to my office . ”
+13053	13061	13062	13062	he	19	“ You ’ve got what you wanted , ”
+13066	13088	13062	13062	he	19	“ You can lock me up , and send me to the detention camp . But that wo n’t be enough . ”
+13098	13107	13089	13089	Witwer	20	“ I ’m afraid I do n’t understand — ”
+13108	13129	13062	13062	he	19	“ It ’s not my fault . I should never have left the police building . Where ’s Wally Page . ”
+13130	13139	13140	13140	Witwer	20	“ We ’ve already clamped down on him , ”
+13143	13159	13140	13140	Witwer	20	“ He wo n’t give us any trouble . ’ Anderton ’s face was grim . “
+13169	13173	13160	13160	You	20	” he said . “
+13201	13210	13192	13192	You	20	” He corrected himself , a little lamely , “
+13217	13218	13214	13214	I	0	” “
+13236	13237	13229	13230	the teams	546	” “
+13241	13242	13243	13243	He	33	” “
+13287	13316	13265	13265	they	546	” Slowly , hesitantly , Lisa made her way from the ship . She was still pale and shaken and on her throat an ugly bruise was forming . “
+13322	13347	13265	13265	they	546	” Witwer demanded . Then he caught sight of Fleming ’s inert form lying spread out inside . Facing Anderton squarely , he said : “
+13361	13362	13363	13363	I	0	” “
+13366	13367	13363	13363	I	0	” “
+13375	13382	13372	13372	I	0	” He made a disgusted face . “
+13389	13390	13392	13392	you	20	” “
+13424	13425	13419	13419	you	20	” “
+13431	13435	13428	13428	you	20	” Witwer inquired , “
+13468	13469	13462	13462	Kaplan	33	” “
+13477	13481	13470	13470	He	33	” Anderton conceded . “
+13517	13521	13526	13526	he	33	” He finished , “
+13543	13544	13538	13538	their	5	” “
+13559	13560	13556	13556	they	5	” “
+13605	13606	13608	13608	Fleming	36	” “
+13610	13615	13608	13608	Fleming	36	” Lisa said faintly . “
+13637	13641	13633	13633	Nobody	55	” Anderton grimaced . “
+13673	13674	13675	13675	You	0	” “
+13681	13685	13677	13677	Kaplan	33	” Witwer said . “
+13694	13695	13696	13696	I	0	” “
+13749	13750	13747	13747	you	0	” “
+13756	13761	13747	13747	you	0	” Witwer answered emphatically . “
+13775	13779	13766	13766	I	0	” He flushed . “
+13786	13793	13766	13766	I	0	” Anderton ’s expression was sombre . “
+13833	13834	13826	13826	We	342	” “
+13839	13844	13826	13826	We	342	” Witwer admitted awkwardly . “
+13860	13861	13862	13862	You	0	” “
+13890	13897	13898	13898	I	0	” Anderton moved away from them . “
+13925	13931	13911	13911	I	0	” Reflectively , he finished : “
+13939	13946	13911	13911	I	0	” The data tapes of the precogs “
+13948	13950	13951	13951	Mike	44	” and “
+13952	13965	13966	13966	Donna	22	” were separately stored . Choosing the machinery responsible for the analysis of “
+13968	14019	14020	14020	Jerry	39	” he opened the protective shield and laid out the contents . As before , the code informed him which reels were relevant and in a moment he had the tape - transport mechanism in operation . It was approximately what he had suspected . This was the material utilized by “
+14021	14128	13951	13951	Mike	44	” — the superseded time - path . In it Kaplan ’s Military Intelligence agents kidnapped Anderton as he drove home from work . Taking to Kaplan ’s villa , the organization GHQ of the International Veteran ’s League . Anderton was given an ultimatum : voluntarily disband the Precrime system or face open hostilities with the Army . In this discarded time - path , Anderton , as Police Commissioner , had turned to the Senate for support . No support was forthcoming . To avoid civil war , the Senate ratified the dismemberment of the police system , and decreed a return to military law “
+14135	14182	14183	14183	Donna	22	” Taking a corps of fanatical police , Anderton had located Kaplan and shot him , along with other officials of the Veteran ’s League . Only Kaplan had died . The others had been patched up . And the coup had been successful . This was “
+14185	14197	14198	14198	Mike	44	” He rewound the tape and turned to the material previewed by “
+14200	14216	14217	14217	Mike	44	” It would be identical ; both precogs had combined to present a unified picture . “
+14218	14221	14222	14222	Donna	22	” began as “
+14223	14272	14217	14217	Mike	44	” had begun : Anderton had become aware of Kaplan ’s plot against the police . But something was wrong . Puzzled , he ran the tape back to the beginning . Incomprehensibly , it did n’t jibe . Again he relayed the tape , listening intently . The “
+14274	14281	14222	14222	Donna	22	” report was quite different from the “
+14283	14316	14217	14217	Mike	44	” report . And hour later , he had finished his examination , put away the tapes , and left the monkey block . As soon as he emerged , Witwer asked . “
+14329	14330	14222	14222	Donna	22	” “
+14333	14343	14222	14222	Donna	22	” Anderton answered slowly , still deep in thought . “
+14348	14414	14222	14222	Donna	22	” A sound came to his ears . He walked vaguely over to the window and peered out . The street was crammed with people . Moving down the centre lane was a four - column line of uniformed troops . Rifles , helmets … marching soldiers in their dingy wartime uniforms , carrying the cherished pennants of AFWA flapping in the cold afternoon wind . “
+14419	14424	14425	14425	I	0	” Witwer explained bleakly . “
+14452	14458	14444	14444	Kaplan	33	” Anderton felt no surprise . “
+14468	14469	14459	14459	He	33	” “
+14513	14514	14515	14515	You	0	” “
+14522	14526	14527	14527	I	0	” Witwer hesitated . “
+14534	14535	14527	14527	I	0	” “
+14540	14544	14545	14545	They	348	” Anderton said . “
+14589	14597	14545	14545	They	348	” His eyes had a steely glint . “
+14600	14606	14545	14545	They	348	” Witwer said , astonished , “
+14614	14615	14545	14545	They	348	” “
+14621	14626	14616	14616	I	0	” Anderton informed him , “
+14646	14647	14634	14634	You	0	” “
+14651	14652	14634	14634	You	0	” “
+14687	14688	14690	14690	you	0	” “
+14695	14696	14690	14690	you	0	” “
+14701	14706	14690	14690	you	0	” Anderton said heartily . “
+14726	14727	14728	14728	I	0	” “
+14738	14754	14755	14755	I	0	” Anderton got out the heavy - duty military weapon Fleming had tossed to him . “
+14760	14761	14755	14755	I	0	” “
+14768	14769	14772	14772	they	354	” “
+14788	14789	14774	14774	They	354	” “
+14797	14798	14772	14772	they	354	” “
+14801	14805	14772	14772	they	354	” Anderton said , “
+14820	15409	14812	14812	I	0	” He had never killed a man . He had never even seen a man killed . And he had been Police Commissioner for thirty years . For this generation , deliberate murder had died out . It simply did n’t happen . A police car barrier carried him to within a block of the Army rally . There , in the shadows of the back seat , he painstakingly examined the pistol Fleming had provided him . It seemed to be intact . Actually , he had no doubt of the outcome . He was absolutely certain of what would happen within the next half hour . Putting the pistol back together , he opened the door of the parked car and stepped warily out . Nobody paid the slightest attention to him . Surging masses of people pushed eagerly forward , trying to get within hearing distance of the rally . Army uniforms predominated and at the perimeter of the clear area , a line of tanks and major weapons was displayed — formidable armament still in production . Army had erected a metal speaker ’s stand and ascending steps . Behind the stand hung the vast AFWA banner , emblem of the combined powers that had fought in the war . By a curious corrosion of time , the AFWA Veteran ’s League included officers from the wartime enemy . But a general was a general and fine distinctions had faded over the years . Occupying the first rows of seats sat the high brass of the AFWA command . Behind them came junior commissioned officers . Regimental banners swirled in a variety of colours and symbols . In fact , the occasion had taken on the aspect of a festive pageant . On the raised stand itself sat stern - faced dignitaries of the Veteran ’s League , all of them tense with expectancy . At the extreme edges , almost unnoticed , waited a few police units , ostensibly to keep the peace . Actually , they were informants making observations . If order were kept , the Army would maintain it . The late - afternoon winder carried the muffled booming of many people packed tightly together . As Anderton made his way through the dense mod he was engulfed by the solid presence of humanity . An eager sense of anticipation held everybody rigid . The crowd seemed to sense that something spectacular was on the way . With difficulty , Anderton forced his way past rows of seats and over to the tight knot of Army officials at the edge of the platform . Kaplan was among them . But he was now General Kaplan . The vest , the gold pocket watch , the cane , the conservative business suit — all were gone . For this event , Kaplan had got his old uniform from its mothballs . Straight and impressive , he stood surrounded by what had been his general staff . He wore his service bars , his medals , his boots , his decorative short - sword , and his visored cap . It was amazing how transformed a bald man became under the stark potency of an officer ’s peaked and visored cap . Noticing Anderton , General Kaplan broke away from the group and strode to where the younger man was standing . The expression on his thin , mobile countenance showed how incredulously glad he was to see the Commissioner of Police . “
+15415	15429	14812	14812	I	0	” he informed Anderton , holding out his small grey - gloved hand . “
+15444	15445	15440	15442	the acting Commissioner	154	” “
+15451	15459	15446	15446	I	0	” Anderton answered shortly , shaking hands . “
+15471	15503	15463	15463	Witwer	20	” He indicated the package Kaplan clutched in his steely fingers and met the man ’s gaze confidently . In spite of his nervousness , General Kaplan was in good humour . “
+15513	15517	15518	15518	You	355	” he revealed . “
+15542	15543	15524	15524	I	0	” “
+15546	15551	15524	15524	I	0	” Anderton answered noncommittally . “
+15563	15574	15524	15524	I	0	” General Kaplan was trying to discover what Anderton knew . “
+15587	15588	15576	15576	Fleming	36	” “
+15593	15597	15576	15576	Fleming	36	” Anderton replied . “
+15616	15617	15618	15618	I	0	” “
+15629	15642	15618	15618	I	0	” General Kaplan signalled an aide and a leather briefcase was produced . “
+15653	15657	15658	15658	You	355	” he said . “
+15679	15688	15689	15689	I	0	” Stiffly , General Kaplan examined his wristwatch . “
+15701	15702	15694	15694	you	355	” “
+15705	15720	15694	15694	you	355	” Coldly , but with a kind of repressed vehemence , General Kaplan said : “
+15757	15758	15694	15694	you	355	” “
+15761	15765	15694	15694	you	355	” Anderton agreed . “
+15772	15828	15829	15829	You	355	” Disconcerted , General Kaplan moved toward the platform . Again , he glanced uneasily at Anderton , as if visibly wondering why he had appeared and what he really knew . His uncertainty grew as Anderton willingly mounted the steps of the platform and found himself a seat directly beside the speaker ’s podium . “
+15839	15844	15833	15833	I	0	” General Kaplan demanded . “
+15867	15868	15869	15869	I	0	” “
+15872	15879	15869	15869	I	0	” Anderton answered , arms folded . “
+15884	15917	15918	15923	The man sitting at my side	367	” A hush had descended on the crowd . But there was a restless , eager stirring when General Kaplan obtained the briefcase and began arranging his material in front of him . “
+15925	15936	15918	15923	The man sitting at my side	367	” he began , in a clean , clipped voice , “
+15964	15994	15960	15962	a dangerous killer	370	” The eyes of the crowd focused on Anderton . Avidly , they peered at the only potential killer they had ever been privileged to see at close range . “
+16003	16008	15960	15962	a dangerous killer	370	” General Kaplan continued , “
+16111	16130	16131	16132	Many men	375	” Fascinated , the crowd glanced from Kaplan to Anderton . Everyone was familiar with the basic situation . “
+16147	16159	16131	16132	Many men	375	” General Kaplan continued , his voice gaining feeling and strength . “
+16196	16197	16131	16132	Many men	375	” “
+16282	16363	16364	16364	Jerry	39	” Anderton listen idly , only half - hearing the words . The crowd , however , listened with great interest . General Kaplan was now gathering up a summary made from the minority report . He explained what it was and how it had come into existence . From his coat pocket , Anderton slipped out his gun and held it in his lap . Already , Kaplan was laying aside the minority report , the precognitive material obtained from “
+16366	16379	16380	16380	Donna	22	” His lean , bony fingers groped for the summary of first , “
+16382	16387	16388	16388	Mike	44	” and after that , “
+16390	16391	16388	16388	Mike	44	” “
+16399	16403	16388	16388	Mike	44	” he explained . “
+16436	16710	16429	16429	I	0	” He whipped out his rimless glasses , fitted them to his nose , and started slowly to read . A queer expression appeared on his face . He halted , stammered , and abruptly broke off . The papers fluttered from his hands . Like a cornered animal , he spun , crouched , and dashed from the speaker ’s stand . For an instant his distorted face flashed past Anderton . On his feet now , Anderton raised the gun , stepped quickly forward , and fired . Tangled up in the rows of feet projecting from the stairs that filled the platform , Kaplan gave a single shrill shriek of agony and fright . Like a ruined bird , he tumbled , fluttering and flailing , from the platform to the ground below . Anderton stepped to the railing , but it was already over . Kaplan , as the majority report had asserted , was dead . His thin chest was a smoking cavity of darkness , crumbling ash that broke loose as the body lay twitching . Sickened , Anderton turned away , and moved quickly between the rising figures of stunned Army officers . The gun , which he still held , guaranteed that he would not be interfered with . He leaped from the platform and edged his way into the chaotic mass of people at its base . Stricken , horrified , they struggled to see what had happened . It would take time for acceptance to replace blind terror . At the periphery of the crowd , Anderton was seized by the waiting police . “
+16718	16732	16711	16711	You	381	” one of them whispered to him as the car crept cautiously ahead . “
+16738	16768	16769	16771	The poor devil	382	” Anderton replied remotely . He settled back and tried to compose himself . He was trembling and dizzy . Abruptly , he leaned forward and was violently sick . “
+16773	16898	16769	16771	The poor devil	382	” one of the cops murmured sympathetically . Through the swirls of misery and nausea , Anderton was unable to tell whether the cop was referring to Kaplan or to himself . Four burly policemen assisted Lisa and John Anderton in the packing and loading of their possessions . In fifty years , the ex - Commissioner of Police had accumulated a vast collection of material goods . Sombre and pensive , he stood watching the procession of crates on their way to the waiting trucks . By truck they would go directly to the field — and from there to Centaurus X by intersystem transport . A long trip for an old man . But he would n’t have to make it back . “
+16907	16937	16769	16771	The poor devil	382	” Lisa declared , absorbed and preoccupied by the task . In sweater and slacks , she roamed through the barren rooms , checking on last - minute details . “
+16960	16961	16962	16962	I	0	” “
+16971	16975	16964	16964	you	385	” Anderton said . “
+16983	16993	16996	16996	we	383	” Lisa replied and gave him a fleeting smile . “
+16998	16999	17000	17000	I	0	” “
+17017	17018	17014	17014	I	0	” “
+17022	17027	17014	17014	I	0	” Lisa assured him . “
+17037	17068	17030	17030	you	385	” As they boarded the lead truck , Witwer drove up in a patrol car . He leaped out and hurried up to them , his face looking strangely haggard . “
+17074	17080	17030	17030	you	385	” he said to Anderton , “
+17124	17130	17131	17131	I	0	” Confusedly , he finished . “
+17148	17149	17315	17315	Kaplan	33	” “
+17154	17163	17315	17315	Kaplan	33	” Anderton inquired , amused . Witwer blinked . “
+17174	17224	17169	17169	I	0	” Seated in the cabin of the truck , Anderton got out his pipe and shook tobacco into it . With Lisa ’s lighter he ignited the tobacco and began operations . Lisa had gone back to the house , wanting to be sure nothing vital had been overlooked . “
+17231	17290	17169	17169	I	0	” he told Witwer , enjoying the young man ’s confusion . Someday , Witwer would learn not to wade into situations he did n’t fully understand . Satisfaction was Anderton ’s final emotion . Old and worn - out as he was , he had been the only one to grasp the real nature of the problem . “
+17297	17301	17306	17306	Donna	22	” he explained . “
+17394	17395	17376	17376	Kaplan	33	” “
+17412	17417	17418	17418	I	0	” Witwer corrected himself . “
+17425	17426	17428	17428	Mike	44	” “
+17546	17555	17530	17532	the second one	391	” Lisa came over , breathless and gasping . “
+17566	17599	17530	17532	the second one	391	” Lithe and agile , she ascended the metal rungs of the truck and squeezed in beside her husband and the driver . The latter obediently started the truck and others followed . “
+17605	17609	17530	17532	the second one	391	” Anderton concluded . “
+17728	17747	17707	17707	Mike	44	” Anxiously , Witwer trotted along beside the truck , his smooth , blond face creased with worry . “
+17761	17762	17707	17707	Mike	44	” “
+17771	17775	17707	17707	Mike	44	” Anderton said . “
+17807	17841	17804	17804	your	0	” Briefly , he grinned , deriving no inconsiderable comfort from Witwer ’s strained expression . Beside him , Lisa ’s red lips twitched and her hand reached out and closed over his . “
+17848	17854	17844	17844	your	0	” he informed young Witwer . “
