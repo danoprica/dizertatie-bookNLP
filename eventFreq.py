@@ -43,5 +43,3 @@ df_final3 = pd.DataFrame(rows3, columns =['No. sentences'])
 df_final = pd.concat([df_final1,df_final2,df_final3], axis = 1, join='inner')
 df_final.to_csv('works/' + author + '/' + author + 'EventStats.tsv', sep ='\t')
 
-#print(df_final) 
-#print(df_final1.to_string(index=False))
