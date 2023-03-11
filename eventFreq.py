@@ -1,11 +1,11 @@
 import pandas as pd
 import csv
-author = 'lovecraft'
-work1 = 'call_of_cthulhu'
-work2 = 'the_colour_out_of_space'
-work3 = 'the_shadow_over_innsmouth'
-work4 = 'the_whisperer_in_darkness'
-work5 = 'at_the_mountains_of_madness'
+author = 'gibson'
+work1 = 'burning_chrome'
+work2 = 'hinterlands'
+work3 = 'johnny_mnemonic'
+work4 = 'neuromancer'
+work5 = 'new_rose_hotel'
 
 df1 = pd.read_csv("works/" + author + "/" + work1 + "/" + work1 + ".tokens", sep='\t', quoting=csv.QUOTE_NONE)
 df2 = pd.read_csv("works/" + author + "/" + work2 + "/" + work2 + ".tokens", sep='\t', quoting=csv.QUOTE_NONE)

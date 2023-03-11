@@ -1,7 +1,7 @@
 import json
 import pandas as pd
-author = 'lovecraft'
-work = 'the_whisperer_in_darkness'
+author = 'gibson'
+work = 'new_rose_hotel'
 
 with open('works/' + author + '/' + work + '/' + work + 'CharactersRegexFix.json') as f:
     data = json.load(f)
