@@ -22,14 +22,14 @@ df_dick = pd.concat([df1, df2, df3, df4, df5])
 df_gibson = pd.concat([df6, df7, df8, df9, df10])
 df_lovecraft = pd.concat([df11, df12, df13, df14, df15])
 
-#df_not_dick = pd.concat([df_gibson, df_lovecraft])
-#df_not_lovecraft = pd.concat([df_gibson, df_dick])
-#df_not_gibson = pd.concat([df_lovecraft, df_dick])
+df_not_dick = pd.concat([df_gibson, df_lovecraft])
+df_not_lovecraft = pd.concat([df_gibson, df_dick])
+df_not_gibson = pd.concat([df_lovecraft, df_dick])
 
 
-#df_merged = df_lovecraft.merge(df_not_lovecraft, how="left", left_on=["supersense_category", "text"], right_on=["supersense_category", "text"], indicator=True)
-#df = df_merged.query("_merge == 'left_only'")[["supersense_category", "text"]]
-#df.to_csv("works/lovecraft/lovecraft_uniquesSupersense.tsv", sep="\t")
+df_merged = df_lovecraft.merge(df_not_lovecraft, how="left", left_on=["supersense_category", "text"], right_on=["supersense_category", "text"], indicator=True)
+df = df_merged.query("_merge == 'left_only'")[["supersense_category", "text"]]
+df.to_csv("works/lovecraft/lovecraft_uniquesSupersense.tsv", sep="\t")
 
 df_uniques_dick = pd.read_csv("works/dick/dick_uniquesSupersense.tsv", delimiter="\t")
 df_uniques_lovecraft = pd.read_csv("works/lovecraft/lovecraft_uniquesSupersense.tsv", delimiter="\t")
