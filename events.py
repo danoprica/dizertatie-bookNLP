@@ -1,5 +1,5 @@
 import pandas as pd
-df = pd.read_csv("works/dick/impostor/impostor.tokens", delimiter="\t", error_bad_lines=False)
+df = pd.read_csv("chtulu/chtulu.tokens", delimiter="\t")
 events = df[~df['event'].isnull()]
 real_events = events.loc[df["event"] == "EVENT"]
 event_words = set(real_events.word.tolist())
@@ -35,6 +35,6 @@ def grab_event_sentences(file):
     return final_sentences
     
     
-event_data = grab_event_sentences("works/dick/impostor/impostor.tokens")
+event_data = grab_event_sentences("chtulu/chtulu.tokens")
 new_df = pd.DataFrame(event_data)
-new_df.to_csv("works/dick/impostor/impostor.tokens", index=False)
+new_df.to_csv("chtulu/chtulu.events", index=False)
