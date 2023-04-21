@@ -14,7 +14,7 @@ data = re.sub("'+[0-9]+'+:", '', data)
 data = data[1:-1]
 data = "[" + data + "]"
 data = re.sub("'", '"', data)
-#print(data)
+
 
 g = open('works/' + author + '/' + work + '/' + work + 'CharactersRegexFix.json', "x")
 g.write(data)
