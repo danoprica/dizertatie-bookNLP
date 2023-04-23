@@ -1,6 +1,7 @@
-	Work	No. events	No. sentences
-0	burning_chrome	342	553
-1	hinterlands	312	472
-2	johnny_mnemonic	274	313
-3	neuromancer	6325	7478
-4	new_rose_hotel	256	386
+	Work	No. events	No. sentences	Event/sentences
+0	burning_chrome	342	553	61.84%
+1	hinterlands	312	472	66.10%
+2	johnny_mnemonic	274	313	87.54%
+3	neuromancer	6325	7478	84.58%
+4	new_rose_hotel	256	386	66.32%
+	gibson	7509	9202	81.60%
