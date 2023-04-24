@@ -8,7 +8,7 @@ model_params={
 booknlp=BookNLP("en", model_params)
 
 author = 'dick'
-work = 'minority_report'
+work = 'impostor'
 
 # Input file to process
 input_file='works' + '/' + author + '/' + work + '/' + work + '.txt'
