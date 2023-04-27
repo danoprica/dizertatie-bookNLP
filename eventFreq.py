@@ -1,11 +1,11 @@
 import pandas as pd
 import csv
-author = 'gibson'
-work1 = 'burning_chrome'
-work2 = 'hinterlands'
-work3 = 'johnny_mnemonic'
-work4 = 'neuromancer'
-work5 = 'new_rose_hotel'
+author = 'dick'
+work1 = 'do_androids_dream_of_electric_sheep'
+work2 = 'electric_ant'
+work3 = 'faith_of_our_fathers'
+work4 = 'impostor'
+work5 = 'minority_report'
 
 df1 = pd.read_csv("works/" + author + "/" + work1 + "/" + work1 + ".tokens", sep='\t', quoting=csv.QUOTE_NONE)
 df2 = pd.read_csv("works/" + author + "/" + work2 + "/" + work2 + ".tokens", sep='\t', quoting=csv.QUOTE_NONE)
@@ -41,5 +41,5 @@ df_final1 = pd.DataFrame(rows1, columns =['Work'])
 df_final2 = pd.DataFrame(rows2, columns =['No. events'])
 df_final3 = pd.DataFrame(rows3, columns =['No. sentences'])
 df_final = pd.concat([df_final1,df_final2,df_final3], axis = 1, join='inner')
-df_final.to_csv('works/' + author + '/' + author + 'EventStats.tsv', sep ='\t')
-
+#df_final.to_csv('works/' + author + '/' + author + 'EventStats.tsv', sep ='\t')
+print (df_final)
