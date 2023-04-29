@@ -1,8 +1,8 @@
 import pandas as pd
 import csv
 
-author = 'lovecraft'
-work = 'call_of_cthulhu'
+author = 'gibson'
+work = 'burning_chrome'
 
 df = pd.read_csv("works/" + author + "/" + work + "/" + work + ".tokens", sep='\t', quoting=csv.QUOTE_NONE)
 

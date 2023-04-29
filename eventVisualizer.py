@@ -2,8 +2,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import csv
 
-author = 'lovecraft'
-work = 'call_of_cthulhu'
+author = 'gibson'
+work = 'burning_chrome'
 
 df = pd.read_csv("works/" + author + "/" + work + "/" + work + "EventPerSent.tsv", sep='\t', quoting=csv.QUOTE_NONE)
 
