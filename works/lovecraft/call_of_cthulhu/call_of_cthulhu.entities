@@ -90,7 +90,7 @@ COREF	start_token	end_token	prop	cat	text
 0	900	900	PRON	PER	my
 0	912	912	PRON	PER	my
 151	912	913	NOM	PER	my uncle
-155	971	981	NOM	PER	a monster , of a form which only a diseased fancy
+155	971	981	NOM	PER	"a monster , of a form which only a diseased fancy"
 0	986	986	PRON	PER	I
 0	989	989	PRON	PER	my
 0	1008	1008	PRON	PER	I
@@ -111,15 +111,15 @@ COREF	start_token	end_token	prop	cat	text
 76	1273	1274	PROP	PER	Miss Murray
 13	1273	1281	PROP	FAC	Miss Murray ’s Witch - Cult in Western Europe
 14	1280	1281	PROP	GPE	Western Europe
-157	1326	1336	NOM	PER	a thin , dark young man of neurotic and excited aspect
+157	1326	1336	NOM	PER	"a thin , dark young man of neurotic and excited aspect"
 70	1340	1341	PROP	PER	Professor Angell
 157	1358	1358	PRON	PER	His
 77	1364	1366	PROP	PER	Henry Anthony Wilcox
 0	1369	1369	PRON	PER	my
 151	1369	1370	NOM	PER	my uncle
 157	1373	1373	PRON	PER	him
-159	1375	1413	NOM	PER	the youngest son of an excellent family slightly known to him , who had latterly been studying sculpture at the Rhode Island School of Design and living alone at the Fleur - de - Lys Building near that institution
-160	1379	1413	NOM	PER	an excellent family slightly known to him , who had latterly been studying sculpture at the Rhode Island School of Design and living alone at the Fleur - de - Lys Building near that institution
+159	1375	1413	NOM	PER	"the youngest son of an excellent family slightly known to him , who had latterly been studying sculpture at the Rhode Island School of Design and living alone at the Fleur - de - Lys Building near that institution"
+160	1379	1413	NOM	PER	"an excellent family slightly known to him , who had latterly been studying sculpture at the Rhode Island School of Design and living alone at the Fleur - de - Lys Building near that institution"
 157	1385	1385	PRON	PER	him
 161	1394	1399	NOM	FAC	the Rhode Island School of Design
 162	1404	1413	NOM	FAC	the Fleur - de - Lys Building near that institution
@@ -247,7 +247,7 @@ COREF	start_token	end_token	prop	cat	text
 78	2521	2521	PRON	PER	his
 0	2525	2525	PRON	PER	My
 151	2525	2526	NOM	PER	My uncle
-205	2545	2572	NOM	PER	the friends whom he could question without impertinence , asking for nightly reports of their dreams , and the dates of any notable visions for some time past
+205	2545	2572	NOM	PER	"the friends whom he could question without impertinence , asking for nightly reports of their dreams , and the dates of any notable visions for some time past"
 183	2548	2548	PRON	PER	he
 206	2559	2559	PRON	PER	their
 183	2577	2577	PRON	PER	his
@@ -273,8 +273,8 @@ COREF	start_token	end_token	prop	cat	text
 214	2805	2807	NOM	PER	the veteran scientist
 211	2828	2828	PRON	PER	them
 170	2848	2849	NOM	PER	the sculptor
-216	2854	2874	NOM	PER	a fourth of those who reported anything , reported scenes and half - sounds not unlike those which Wilcox had described
-217	2857	2867	NOM	PER	those who reported anything , reported scenes and half - sounds
+216	2854	2874	NOM	PER	"a fourth of those who reported anything , reported scenes and half - sounds not unlike those which Wilcox had described"
+217	2857	2867	NOM	PER	"those who reported anything , reported scenes and half - sounds"
 78	2872	2872	PROP	PER	Wilcox
 218	2877	2880	NOM	PER	some of the dreamers
 219	2879	2880	NOM	PER	the dreamers
@@ -355,7 +355,7 @@ COREF	start_token	end_token	prop	cat	text
 251	3668	3671	NOM	FAC	a supposed voodoo meeting
 252	3686	3687	NOM	PER	the police
 252	3693	3693	PRON	PER	they
-253	3697	3717	NOM	FAC	a dark cult totally unknown to them , and infinitely more diabolic than even the blackest of the African voodoo circles
+253	3697	3717	NOM	FAC	"a dark cult totally unknown to them , and infinitely more diabolic than even the blackest of the African voodoo circles"
 252	3703	3703	PRON	PER	them
 254	3714	3717	NOM	FAC	the African voodoo circles
 255	3732	3734	NOM	PER	the captured members
@@ -396,8 +396,8 @@ COREF	start_token	end_token	prop	cat	text
 28	4347	4347	PROP	GPE	Iceland
 85	4355	4355	PRON	PER	he
 274	4365	4368	NOM	LOC	the West Greenland coast
-275	4371	4388	NOM	PER	a singular tribe or cult of degenerate Esquimaux whose religion , a curious form of devil - worship
-276	4377	4388	NOM	PER	degenerate Esquimaux whose religion , a curious form of devil - worship
+275	4371	4388	NOM	PER	"a singular tribe or cult of degenerate Esquimaux whose religion , a curious form of devil - worship"
+276	4377	4388	NOM	PER	"degenerate Esquimaux whose religion , a curious form of devil - worship"
 85	4391	4391	PRON	PER	him
 277	4405	4406	NOM	PER	other Esquimaux
 267	4412	4412	PRON	PER	they
@@ -491,7 +491,7 @@ COREF	start_token	end_token	prop	cat	text
 252	5250	5251	NOM	PER	the police
 331	5264	5265	NOM	PER	white men
 332	5271	5274	NOM	LOC	a hidden lake unglimpsed
-333	5282	5291	NOM	PER	a huge , formless white polypous thing with luminous eyes
+333	5282	5291	NOM	PER	"a huge , formless white polypous thing with luminous eyes"
 334	5294	5294	NOM	PER	squatters
 334	5315	5315	PRON	PER	They
 30	5322	5322	PROP	GPE	D’Iberville
@@ -543,7 +543,7 @@ COREF	start_token	end_token	prop	cat	text
 252	5967	5968	NOM	PER	the police
 252	5971	5971	PRON	PER	their
 72	6011	6011	PROP	PER	Legrasse
-365	6016	6038	NOM	PER	some forty - seven sullen prisoners , whom he forced to dress in haste and fall into line between two rows of policemen
+365	6016	6038	NOM	PER	"some forty - seven sullen prisoners , whom he forced to dress in haste and fall into line between two rows of policemen"
 72	6024	6024	PRON	PER	he
 366	6035	6038	NOM	PER	two rows of policemen
 367	6040	6043	NOM	PER	Five of the worshippers
@@ -553,7 +553,7 @@ COREF	start_token	end_token	prop	cat	text
 370	6059	6062	NOM	PER	their fellow - prisoners
 72	6080	6080	PROP	PER	Legrasse
 371	6094	6095	NOM	PER	the prisoners
-372	6100	6113	NOM	PER	men of a very low , mixed - blooded , and mentally aberrant type
+372	6100	6113	NOM	PER	"men of a very low , mixed - blooded , and mentally aberrant type"
 373	6115	6115	NOM	PER	Most
 374	6117	6117	NOM	PER	seamen
 375	6123	6125	NOM	PER	negroes and mulattoes
@@ -608,7 +608,7 @@ COREF	start_token	end_token	prop	cat	text
 407	6541	6543	NOM	LOC	the haunted wood
 408	6547	6549	NOM	PER	those mysterious allies
 252	6559	6560	NOM	PER	the police
-410	6567	6594	NOM	PER	an immensely aged mestizo named Castro , who claimed to have sailed to strange ports and talked with undying leaders of the cult in the mountains of China
+410	6567	6594	NOM	PER	"an immensely aged mestizo named Castro , who claimed to have sailed to strange ports and talked with undying leaders of the cult in the mountains of China"
 92	6572	6572	PROP	PER	Castro
 411	6580	6581	NOM	LOC	strange ports
 412	6591	6594	NOM	LOC	the mountains of China
@@ -816,7 +816,7 @@ COREF	start_token	end_token	prop	cat	text
 78	8200	8200	PRON	PER	He
 78	8203	8203	PRON	PER	his
 0	8212	8212	PRON	PER	me
-484	8219	8250	NOM	GPE	Cyclopean city of slimy green stone — whose geometry , he oddly said , was all wrong — and hear with frightened expectancy the ceaseless , half - mental calling from underground
+484	8219	8250	NOM	GPE	"Cyclopean city of slimy green stone — whose geometry , he oddly said , was all wrong — and hear with frightened expectancy the ceaseless , half - mental calling from underground"
 78	8229	8229	PRON	PER	he
 91	8253	8255	PROP	PER	Cthulhu fhtagn ”
 91	8258	8260	PROP	PER	Cthulhu fhtagn ”
@@ -905,7 +905,7 @@ COREF	start_token	end_token	prop	cat	text
 0	8903	8903	PRON	PER	my
 70	8907	8908	PROP	PER	Professor Angell
 760	8912	8914	NOM	PER	Cthulhu Cult ”
-506	8919	8926	NOM	PER	a learned friend in Paterson , New Jersey
+506	8919	8926	NOM	PER	"a learned friend in Paterson , New Jersey"
 43	8923	8923	PROP	GPE	Paterson
 44	8925	8926	PROP	GPE	New Jersey
 507	8928	8933	NOM	PER	the curator of a local museum
@@ -960,7 +960,7 @@ COREF	start_token	end_token	prop	cat	text
 361	9351	9351	PRON	PER	He
 98	9353	9354	PROP	PER	Gustaf Johansen
 535	9356	9360	NOM	PER	a Norwegian of some intelligence
-536	9365	9388	NOM	PER	second mate of the two - masted schooner Emma of Auckland , which sailed for Callao February 20th with a complement of eleven men
+536	9365	9388	NOM	PER	"second mate of the two - masted schooner Emma of Auckland , which sailed for Callao February 20th with a complement of eleven men"
 537	9368	9375	NOM	VEH	the two - masted schooner Emma of Auckland
 52	9375	9375	PROP	GPE	Auckland
 53	9380	9380	PROP	GPE	Callao
@@ -1046,7 +1046,7 @@ COREF	start_token	end_token	prop	cat	text
 577	9944	9944	PRON	PER	they
 577	9948	9948	PRON	PER	their
 578	9948	9950	NOM	PER	their hideous idol
-579	9954	9976	NOM	GPE	the unknown island on which six of the Emma ’s crew had died , and about which the mate Johansen was so secretive
+579	9954	9976	NOM	GPE	"the unknown island on which six of the Emma ’s crew had died , and about which the mate Johansen was so secretive"
 580	9959	9964	NOM	PER	six of the Emma ’s crew
 99	9961	9962	PROP	PER	the Emma
 103	9971	9973	PROP	PER	the mate Johansen
@@ -1063,7 +1063,7 @@ COREF	start_token	end_token	prop	cat	text
 383	10081	10082	NOM	LOC	the earth
 588	10083	10083	NOM	PER	poets
 589	10085	10085	NOM	PER	artists
-590	10091	10096	NOM	LOC	a strange , dank Cyclopean city
+590	10091	10096	NOM	LOC	"a strange , dank Cyclopean city"
 591	10094	10096	NOM	GPE	dank Cyclopean city
 592	10098	10100	NOM	PER	a young sculptor
 592	10104	10104	PRON	PER	his
@@ -1076,7 +1076,7 @@ COREF	start_token	end_token	prop	cat	text
 599	10163	10164	NOM	PER	a sculptor
 600	10187	10189	NOM	GPE	the dank city
 78	10193	10193	PROP	PER	Wilcox
-601	10216	10223	NOM	PER	the sunken , star - born Old Ones
+601	10216	10223	NOM	PER	"the sunken , star - born Old Ones"
 601	10225	10225	PRON	PER	their
 601	10229	10229	PRON	PER	their
 601	10233	10233	PRON	PER	their
@@ -1340,7 +1340,7 @@ COREF	start_token	end_token	prop	cat	text
 702	12416	12418	NOM	PER	a great architect
 78	12423	12424	PROP	PER	poor Wilcox
 703	12433	12437	NOM	PER	The Thing of the idols
-704	12439	12446	NOM	PER	the green , sticky spawn of the stars
+704	12439	12446	NOM	PER	"the green , sticky spawn of the stars"
 78	12452	12452	PRON	PER	his
 705	12463	12467	NOM	PER	an age - old cult
 706	12475	12479	NOM	PER	a band of innocent sailors
@@ -1401,8 +1401,8 @@ COREF	start_token	end_token	prop	cat	text
 111	13057	13057	PRON	PER	his
 111	13075	13075	PRON	PER	his
 732	13120	13121	NOM	LOC	the pit
-733	13130	13135	NOM	PER	the distorted , hilarious elder gods
-734	13137	13146	NOM	PER	the green , bat - winged mocking imps of Tartarus
+733	13130	13135	NOM	PER	"the distorted , hilarious elder gods"
+734	13137	13146	NOM	PER	"the green , bat - winged mocking imps of Tartarus"
 66	13146	13146	PROP	GPE	Tartarus
 524	13155	13156	NOM	PER	the Vigilant
 618	13158	13162	NOM	PER	the vice - admiralty court
